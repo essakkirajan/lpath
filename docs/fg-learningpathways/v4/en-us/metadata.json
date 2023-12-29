@@ -482,7 +482,7 @@
     },
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Adoption Tools",
+      "Name": "Industries",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -490,7 +490,7 @@
       "SubCategories": [
         {
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-          "Name": "Tools",
+          "Name": "Banking",
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -499,7 +499,7 @@
         },
         {
           "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
-          "Name": "Admin Success Center",
+          "Name": "Finance",
           "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
           "TechnologyId": "",
           "SubjectId": "",
