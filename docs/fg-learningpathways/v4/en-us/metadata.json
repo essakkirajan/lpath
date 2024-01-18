@@ -89,7 +89,7 @@
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Testing Foundation Mastery",
+      "Name": "Levels and Types Unleashed",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -97,7 +97,7 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Principles and SDLC Fusion",
+          "Name": "Testing Dimensions Explored",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -106,7 +106,7 @@
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Digital Onboarding",
+          "Name": "Testing Dimensions Explored ",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
