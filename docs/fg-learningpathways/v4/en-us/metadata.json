@@ -106,39 +106,39 @@
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Testing Dimensions Explored ",
+          "Name": "Testing Lifecycle and Masterful Techniques",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Digital Onboarding",
+          "Source": "Fingress Platform",
           "SubCategories": []
         }
       ]
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Mastering Test Management",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Fingress Platform",
       "SubCategories": [
         {
           "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Fingress Platform",
+          "Name": "Test Management Mastery",
           "Image": "images/categories/outlook.png",
           "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         },
         {
           "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
-          "Name": "Managed File Transfers",
+          "Name": "Elevating Testing Practices",
           "Image": "images/categories/sway.png",
           "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "MicFingress Platform",
           "SubCategories": []
         },
         {
