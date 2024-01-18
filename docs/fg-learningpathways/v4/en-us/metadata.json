@@ -65,131 +65,83 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "",
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
-          "Image": "images/categories/first_days.png",
+          "Name": "What is Quality Assurance? ",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "",
           "SubCategories": []
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
+          "Name": "Tester's Mindset",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "",
+          "SubCategories": []
+        },
+		{
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "Testing Approaches",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+		{
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "User Scenarios",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+		{
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "Test Scenarios",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+		{
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "Objectives of Testing",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+		{
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "Errors, Defects and Failures",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+			{
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "Root Cause Analysis ",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
           "SubCategories": []
         }
       ]
     },
-    {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Solutions",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "DevOps",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
-          "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Bluescope Onboarding",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Digital Onboarding",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Fingress Platform",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
-          "Name": "Managed File Transfers",
-          "Image": "images/categories/sway.png",
-          "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
-          "Name": "Asset Finance and Leasing",
-          "Image": "images/categories/access.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
-          "Name": "ONDC Platform",
-          "Image": "images/categories/vivalearning_learningpathways.png",
-          "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Industries",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-          "Name": "Banking, Finance and Insurance",
-          "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
-          "Name": "Digital Commerce",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    }
-  ],
+	],
   "Audiences": [
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
