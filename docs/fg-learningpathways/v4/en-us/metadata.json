@@ -73,7 +73,7 @@
           "Image": "images/categories/first_days.png",
           "TechnologyId": "Principles and SDLC Fusion",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         },
         {
@@ -82,7 +82,7 @@
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         }
       ]
