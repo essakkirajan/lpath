@@ -93,7 +93,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Fingress Platform",
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
@@ -110,7 +110,7 @@
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Digital Onboarding",
+          "Source": "Fingress Platform",
           "SubCategories": []
         }
       ]
