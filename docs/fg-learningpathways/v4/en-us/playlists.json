@@ -9,7 +9,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Get started with Microsoft 365 in six simple steps. Sign in and get started at office.com, create and save files securely in the cloud, share files and collaborate with others in real time, work with your team in teams and channels with Microsoft teams, set up your mobile apps, and try new things.",
+    "Description": "Unveil the systematic processes of testing, documentation, and continuous improvement that define Quality Assurance, ensuring excellence and customer satisfaction across the development lifecycle.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -32,7 +32,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Get started with Teams with seven simple steps. Get an overview of teams and channels, learn how to get your team up and running, work in channels, upload and share files, start and pin chats, join a Teams meeting, and manage meetings.",
+    "Description": "Explore the key principles and attitudes that define an effective tester's mindset, contributing to a culture of quality assurance and successful product development.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -55,7 +55,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Get started with Teams with seven simple steps. Get an overview of teams and channels, learn how to get your team up and running, work in channels, upload and share files, start and pin chats, join a Teams meeting, and manage meetings.",
+    "Description": "Delve into the dynamic testing realm, where real-time evaluation and adaptive methodologies play a pivotal role. Explore the strategies that ensure robust testing practices for dynamic software environments.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -68,6 +68,97 @@
       "7237da86-9409-40e1-9b05-fc3eba33404c"
     ]
   },
+   {
+    "Id": "57c91f86-bf85-4ff5-a63f-624037e46801",
+    "Title": "Crafting User and Test Scenarios",
+    "Image": "images/playlists/manage_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "Explore the meticulous process of creating targeted user and test scenarios, essential for ensuring comprehensive and precise testing strategies that align with user expectations and system requirements.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "780da5c0-55b6-49cc-bc30-a4084d0bfcc0",
+      "d20b058b-bed7-47e5-8335-5f897bd1a091",
+      "abec0934-ca9d-4920-b4c6-75d4042afea8",
+      "3993d9e5-06b3-4654-9e8f-9d2de79d2f8e",
+      "7843f46f-a3ad-4dd9-9430-867e6362e590",
+      "920382b4-2cca-40f1-ac20-05afed2005bd",
+      "7237da86-9409-40e1-9b05-fc3eba33404c"
+    ]
+  },
+   {
+    "Id": "24f4a5c1-28cb-41f6-8d52-92a822035f6f",
+    "Title": "Understanding Testing Objectives",
+    "Image": "images/playlists/manage_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "Gain insights into the purpose and significance of testing objectives, as we decipher how they drive comprehensive quality assurance strategies, ensuring products meet standards and exceed user expectations.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "780da5c0-55b6-49cc-bc30-a4084d0bfcc0",
+      "d20b058b-bed7-47e5-8335-5f897bd1a091",
+      "abec0934-ca9d-4920-b4c6-75d4042afea8",
+      "3993d9e5-06b3-4654-9e8f-9d2de79d2f8e",
+      "7843f46f-a3ad-4dd9-9430-867e6362e590",
+      "920382b4-2cca-40f1-ac20-05afed2005bd",
+      "7237da86-9409-40e1-9b05-fc3eba33404c"
+    ]
+  },
+   {
+    "Id": "81d9804e-19b5-49bf-84f5-6c35c6f6674a",
+    "Title": "Navigating Errors, Defects, and Failures",
+    "Image": "images/playlists/manage_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "Explore the intricate landscape of handling errors and defects, understanding how a proactive approach to failures contributes to building robust quality assurance processes for resilient and high-performing systems.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "780da5c0-55b6-49cc-bc30-a4084d0bfcc0",
+      "d20b058b-bed7-47e5-8335-5f897bd1a091",
+      "abec0934-ca9d-4920-b4c6-75d4042afea8",
+      "3993d9e5-06b3-4654-9e8f-9d2de79d2f8e",
+      "7843f46f-a3ad-4dd9-9430-867e6362e590",
+      "920382b4-2cca-40f1-ac20-05afed2005bd",
+      "7237da86-9409-40e1-9b05-fc3eba33404c"
+    ]
+  },
+  {
+    "Id": "52752026-0b4d-4027-a0d4-32d06f702938",
+    "Title": "Delving into Root Cause Analysis",
+    "Image": "images/playlists/manage_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "Explore the depths of Root Cause Analysis, understanding how this methodical approach uncovers the underlying issues behind problems. Discover its role in enhancing troubleshooting strategies and fortifying quality assurance processes.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "780da5c0-55b6-49cc-bc30-a4084d0bfcc0",
+      "d20b058b-bed7-47e5-8335-5f897bd1a091",
+      "abec0934-ca9d-4920-b4c6-75d4042afea8",
+      "3993d9e5-06b3-4654-9e8f-9d2de79d2f8e",
+      "7843f46f-a3ad-4dd9-9430-867e6362e590",
+      "920382b4-2cca-40f1-ac20-05afed2005bd",
+      "7237da86-9409-40e1-9b05-fc3eba33404c"
+    ]
   {
     "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
     "Title": "Create a chat-based workspace with Teams",
