@@ -162,7 +162,7 @@
   },
   {
     "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
-    "Title": "Create a chat-based workspace with Teams",
+    "Title": "Embracing the Seven Testing Principles",
     "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -170,7 +170,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "When you have a place to create and make decisions as a team, there’s no limit to what you can achieve. Learn how to use Teams to bring everything together in a shared workspace where you can chat, meet, share files, and work with business apps.",
+    "Description": "Explore the core principles that underpin effective testing strategies, promoting thorough examination, risk assessment, and quality assurance throughout the software development lifecycle.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -185,7 +185,7 @@
   },
   {
     "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
-    "Title": "Create impactful content together",
+    "Title": "Integrating Testing into SDLC Models",
     "Image": "images/playlists/create_impactful_content_together.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -193,7 +193,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Create impactful content together in Microsoft 365. Get an overview of Microsoft 365, learn how to sign in, create, save and share files, collaborate with others, move a file from OneDrive to SharePoint Online, and share a file or folder.",
+    "Description": "Uncover the strategic incorporation of testing methodologies within Software Development Life Cycle (SDLC) models. Explore how this integration enhances efficiency, minimizes risks, and ensures the delivery of high-quality software products.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -207,55 +207,8 @@
     ]
   },
   {
-    "Id": "2ab5e51a-67b9-44af-9ca6-de681329f813",
-    "Title": "Save and share files with OneDrive",
-    "Image": "images/playlists/save_and_share_files_with_onedrive.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Learn how to save and share files with OneDrive. Get an overview of OneDrive, learn OneDrive basics, create and upload files and folders, Sync files and folders, and set up the OneDrive mobile app on your phone or tablet.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "ea9e13b0-d413-4b4e-894d-177d1aee0e4f",
-      "4fe9c70f-7831-4beb-982e-ac9dc75fbfe6",
-      "af839c61-f18f-4ae5-9698-325d3cf14f36",
-      "98634873-26f3-48be-9f4a-153235b6633d",
-      "03103cb6-6538-4e92-90c0-567634fb60ef",
-      "6b95a532-e655-437b-afef-27bf639f3662",
-      "1e8032c4-d72b-498c-9d8e-dc69e5adb63c",
-      "39723e1d-126a-42cc-8990-1e3c0633d18b",
-      "448d4051-3a43-4d2e-b1d8-de0aa03c069e"
-    ]
-  },
-  {
-    "Id": "a40ae370-557f-4a5b-9b17-3d14bbb6893e",
-    "Title": "Share sites and content with SharePoint",
-    "Image": "images/playlists/share_sites_and_content_with_sharepoint.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Learn how to share sites and content with SharePoint. Get an overview of SharePoint Online, find and follow sites, news and content, create, upload and share files in a document library, sync files and folders, sync files with Files on Demand, and stay connected on your mobile device.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "de53b8f0-f5ab-4fb5-aa46-ba6279ded622",
-      "54c8c131-59dc-475f-8e61-42d3e30cfa29",
-      "0b61f827-a776-4d15-84df-d297b841e73d",
-      "c288e365-f097-424e-a3ae-799fb97c20e9",
-      "6e01573e-49cc-45f0-8786-e0b89288ac04",
-      "2fc65981-4ec2-4cbc-b70b-e704ce906d6c"
-    ]
-  },
-  {
     "Id": "1bb00cc3-21a5-432d-b535-4b970feb332c",
-    "Title": "Connect your organization with Yammer",
+    "Title": "Agile Insights: Scrum, Agile Methodology, Kanban",
     "Image": "images/playlists/connect_your_organization_with_yammer.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -263,7 +216,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Connect your organization with Yammer. Get an overview of Yammer, learn how to sign in and edit your profile, set notifications, like, reply to, and share posts, post and update and attach files, join and create communities, and share files and community resources.",
+    "Description": "Explore the dynamic landscape of Agile development, gaining comprehensive insights into Scrum, Agile Methodology, and Kanban. Uncover how these methodologies revolutionize project management, foster collaboration, and enhance adaptability in fast-paced environments.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -375,7 +328,7 @@
   },
   {
     "Id": "fa3a7737-b33d-4481-9b80-416d20b9ca9f",
-    "Title": "Process Regulations",
+    "Title": "Ascending Testing Levels",
     "Image": "images/playlists/use_across_devices.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -383,7 +336,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Use Microsoft 365 across your work and devices to stay connected, take and read notes, access your files on any device, create impactful content, save time, express yourself freely with digital ink, bring your work to life with 3D, make your work accessible, and stay secure and private at work.",
+    "Description": "Delve into the progressive stages of testing, understanding how ascending testing levels contribute to a robust quality assurance strategy. Explore methods that ensure thorough examination at every level, guaranteeing the delivery of high-quality software products.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -392,7 +345,7 @@
   },
   {
     "Id": "9647e1aa-63a1-48d1-aea9-b0913f0f1e0b",
-    "Title": "Use Microsoft 365 across your team",
+    "Title": "Unveiling Diverse Testing Types",
     "Image": "images/playlists/use_across_team.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -400,7 +353,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Use Microsoft 365 across your team to create and organize teams, optimize team conversations, work together in Microsoft Teams, manage meetings, and collaborate on files.",
+    "Description": " Explore the rich tapestry of testing methodologies, from functional and performance testing to security and usability testing. Gain insights into how this diverse array of testing types collectively ensures a comprehensive evaluation of software, delivering robust and high-quality solutions.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -413,7 +366,7 @@
   },
   {
     "Id": "cb4effb6-f78e-444a-98b7-6274ad2fe70c",
-    "Title": "Use Microsoft 365 across your organization",
+    "Title": "Adapting to Maintenance Testing Realities",
     "Image": "images/playlists/use_across_org.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -421,35 +374,13 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Use Microsoft 365 across your organization to set up your company’s network in Yammer, your company’s home base in SharePoint, and your company’s video portal in Microsoft Stream.",
+    "Description": "Explore the nuanced realm of maintenance testing, understanding how to adeptly address ongoing software changes and updates. Uncover strategies to ensure continued reliability, security, and performance, adapting seamlessly to the evolving landscape of software maintenance.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "f24fad2b-1455-4f3c-9e17-d843a6936f70",
       "5a3f5f60-4cc8-4bf8-bd41-d99c4c297589",
       "baf5345c-fee6-4900-ba44-1f53a1dbfeb9"
-    ]
-  },
-  {
-    "Id": "1f5ec8e6-5fef-481a-ad87-59842c3d539b",
-    "Title": "Day in your digital life with Office 365",
-    "Image": "images/playlists/digital_day.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Discover new ways to simplify your day in your digital life with Office 365. See how to start your digital day, tasks you can complete over your morning coffee, during your commute, meeting at the office, collaborating with colleagues, connecting across the company, and how to protect yourself from phishing.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "34357c34-d8c3-4ac9-970e-320dbc8b599c",
-      "f382cfa5-a565-4377-9496-af8f6eb0ebcf",
-      "59fce479-241d-45f2-a79c-e7485fd02066",
-      "6f739c5e-bb13-4ce9-9301-abf4a9cac9e2",
-      "9655a0e0-34f0-4805-8221-420ae713e0d0",
-      "b1d3baac-83e4-4d1a-8f8c-bb5e02409a37"
     ]
   },
   {
@@ -513,7 +444,7 @@
   },
   {
     "Id": "35f25052-fa93-4daf-8d2e-b29935a002d0",
-    "Title": "Work remotely with Microsoft 365",
+    "Title": "Journey through Software Test Lifecycle Phases",
     "Image": "images/playlists/work_remotely_with_o365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -521,7 +452,47 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "Microsoft Teams and Office 365 help you get work done—with others and on your own—wherever you are today.",
+    "Description": "Embark on a comprehensive journey through the various phases of the software test lifecycle. Uncover the intricacies of planning, execution, and evaluation, ensuring a thorough and systematic approach to software testing for optimal quality assurance.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "d76f6ade-0e4e-48d5-9fc1-17480b7e041e",
+      "dbf2c1f3-dbc5-45a8-9f04-2d9a7e97032f",
+      "83cbb1c1-024e-4fcd-92e6-fdc0263d0c68",
+      "aff8463a-540a-4441-bdf3-11d1e433488e"
+    ]
+  },
+  {
+    "Id": "35f25052-fa93-4daf-8d2e-b29935a002d0",
+    "Title": "JHarnessing Static and Dynamic Testing Prowess",
+    "Image": "images/playlists/work_remotely_with_o365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "Description": "Explore the synergy between static and dynamic testing methodologies, understanding how their combined prowess enhances the thorough evaluation of software. Unveil strategies to achieve comprehensive quality assurance through meticulous examination at both code and runtime levels.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "d76f6ade-0e4e-48d5-9fc1-17480b7e041e",
+      "dbf2c1f3-dbc5-45a8-9f04-2d9a7e97032f",
+      "83cbb1c1-024e-4fcd-92e6-fdc0263d0c68",
+      "aff8463a-540a-4441-bdf3-11d1e433488e"
+    ]
+  },
+  {
+    "Id": "35f25052-fa93-4daf-8d2e-b29935a002d0",
+    "Title": "Mastering Varied Testing Techniques",
+    "Image": "images/playlists/work_remotely_with_o365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "Description": "Navigate the diverse landscape of testing methodologies, from regression and smoke testing to boundary and acceptance testing. Master a range of techniques designed to comprehensively evaluate software, ensuring robust quality assurance across varied scenarios and requirements.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
