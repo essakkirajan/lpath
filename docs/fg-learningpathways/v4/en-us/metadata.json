@@ -73,7 +73,7 @@
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Fingress Platform",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -82,7 +82,7 @@
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Fingress Platform",
+          "Source": "Microsoft",
           "SubCategories": []
         }
       ]
