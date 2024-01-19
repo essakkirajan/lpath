@@ -140,55 +140,9 @@
           "SubjectId": "",
           "Source": "MicFingress Platform",
           "SubCategories": []
-        },
-        {
-          "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
-          "Name": "Asset Finance and Leasing",
-          "Image": "images/categories/access.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
-          "Name": "ONDC Platform",
-          "Image": "images/categories/vivalearning_learningpathways.png",
-          "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
+        }      
       ]
-    },
-    {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Industries",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-          "Name": "Banking, Finance and Insurance",
-          "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
-          "Name": "Digital Commerce",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    }
+    }   
   ],
   "Audiences": [
     {
