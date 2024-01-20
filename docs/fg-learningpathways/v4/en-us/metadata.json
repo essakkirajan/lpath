@@ -65,11 +65,11 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Fingress Platform",
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "Testing Foundation Mastery",
+          "Name": "Testing Foundation",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -97,7 +97,7 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Testing Dimensions Explored",
+          "Name": "Exploring Testing Dimensions",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -124,21 +124,12 @@
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Test Management Mastery",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
           "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
           "Name": "Elevating Testing Practices",
           "Image": "images/categories/sway.png",
           "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
           "SubjectId": "",
-          "Source": "MicFingress Platform",
+          "Source": "Fingress Platform",
           "SubCategories": []
         },
         {
@@ -147,7 +138,7 @@
           "Image": "images/categories/access.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         },
         {
@@ -156,7 +147,7 @@
           "Image": "images/categories/vivalearning_learningpathways.png",
           "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         }
       ]
@@ -167,7 +158,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Fingress Platform",
       "SubCategories": [
         {
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
@@ -175,25 +166,25 @@
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         },
         {
           "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
           "Name": "Spotlight on Popular Tools",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         },
         {
           "Id": "708c51cb-98ed-49a1-9c44-8a16b7f3a72f",
-          "Name": "Microsoft Azure DevOps",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "Name": "Fingress Platform Azure DevOps",
+          "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Fingress Platform",
           "SubCategories": []
         }
       ]
@@ -253,7 +244,7 @@
     "SOC",
     "FastTrack",
     "M365",
-    "Microsoft",
+    "Fingress Platform",
     "LinkedIn",
     "Bluescope"
   ],
