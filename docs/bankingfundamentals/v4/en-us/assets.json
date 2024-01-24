@@ -1,9 +1,9 @@
 [
   {
-    "Id": "8a9c40b0-578d-4838-964f-e152bf54bf66",
-    "Title": "Decoding Quality Assurance",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Decoding-Quality-Assurance.aspx?csf=1&web=1&share=ETQpeoyrbYVMrR4TWgaA57oBNwuIu7tZ2SFU7phq7F83ng&e=EsBXEk",
+    "Id": "0d59f982-4bca-4888-8341-1c51c03fb132",
+    "Title": "Introduction to Banking",
+    "Description": "Unveiling the Basics of Financial Institutions and Services for a Solid Financial Understanding.",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Introduction-to-Banking.aspx?csf=1&web=1&share=Edp6qyGQuv9Bka_3sL9HVqABJURnOwW2sKWqktRwHMB6Vg&e=sx1LDW",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -11,10 +11,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "b04fc621-4fda-4076-a742-9531e70828fe",
-    "Title": "Cultivating the Tester's Mindset",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Cultivating-the-Tester%27s-Mindset.aspx?csf=1&web=1&share=ESKvhMLbc_lMhH4VzL7Ke00BhShC9GcrbW2sgjzFDokFHg&e=oKuNB1",
+    "Id": "dd3bf4d8-bbe0-4002-8a99-fd18a4db9240",
+    "Title": "Banking Services",
+    "Description": "Navigating Financial Offerings for Individuals and Businesses.",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Historical-Evolution.aspx?csf=1&web=1&share=EWGtZ_AXFFBInMZOwhNTxWIBeXa9GC1wgZ5ARCsXOfCZJg&e=dkfSZ3",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -22,10 +22,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3264cf4b-f3e5-4259-8136-a1d1ff520e86",
-    "Title": "Understanding Testing Objectives",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Understanding-Testing-Objectives.aspx?csf=1&web=1&share=ERGS3g39ModNoyfLu-TwLp0B-BD0K0a3ZgPzACAb1CAGPA&e=bSmsMP",
+    "Id": "5bc38967-9128-4535-aff8-210841c2ce79",
+    "Title": "Structure of the Banking Industry",
+    "Description": "Decoding the Banking Landscape: Understanding the Framework and Dynamics of the Financial Industry",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Key-Functions-and-Services.aspx?csf=1&web=1&share=EdGHjv-8LyFDnPaX5Xm9e6MBRdfa8mtiQHA7Me_NQns3ZA&e=IYR0Li",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -33,10 +33,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "6f10717d-1319-4e2a-befc-4ed8255a1094",
-    "Title": "Exploring Dynamic Testing Approaches",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploring-Dynamic-Testing-Approaches.aspx?csf=1&web=1&share=ETWOIS8i-oBCm1mOBimz88YBauFAEjXCgl1XReyPnhGh6Q&e=HgOc0w",
+    "Id": "43082e94-6de9-4779-875e-88d91e00b53a",
+    "Title": "Early Banking Systems",
+    "Description": "Pioneering Finance: Unraveling the Roots of Early Banking Systems for Economic Evolution.",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Early-Banking-Systems.aspx?csf=1&web=1&share=EaW9ac4A6bpPrlBNiFUIePEBrRIhOzj7mG-7EC303LMzIA&e=gupIzk",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -44,10 +44,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "6027d385-e2ce-47e0-995a-12793f6d8df1",
-    "Title": "Errors, Defects, and Failures",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Navigating-Errors,-Defects,-and-Failures.aspx?csf=1&web=1&share=Ecc4saAZrjJLjdn7Z6lrPhQBnfHe-zzJqiAewLPkagcCRw&e=F6WcO3",
+    "Id": "bf99a0e5-e94a-41e6-9159-f6797334d326",
+    "Title": "Medieval and Renaissance Banking",
+    "Description": "Banking Through the Ages: Exploring the Financial Landscape of Medieval and Renaissance Eras",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Medieval-and-Renaissance-Banking.aspx?csf=1&web=1&share=EW7_vbX-UXFIgOFhMtx0DUYB-xQXkIXWiBxvc3TVl-ZCIA&e=3b2E9j",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -55,10 +55,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "78d21659-e754-48e8-97ad-b4ac9130e3b2",
-    "Title": "Crafting User and Test Scenarios",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Crafting-User-and-Test-Scenarios.aspx?csf=1&web=1&share=ES7y1s9ECzpBkn4ACm8LulkBIqx_0rRX0sMf0W-StmTHHQ&e=YSEdm2",
+    "Id": "2066672f-efd8-464d-ad04-ee7af2616a4a",
+    "Title": "Modern Banking Systems",
+    "Description": "Unraveling Technological Innovations and Financial Evolution for the Digital Age.",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Modern-Banking-Systems.aspx?csf=1&web=1&share=EYxqBxRM9wlHoVWB52e6sSoBYj5zmKa1smFkSftMJSKSzg&e=aVOrUc",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -66,10 +66,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "922ab84e-4077-440c-adbb-88749d9034d5",
-    "Title": "Delving into Root Cause Analysis",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Delving-into-Root-Cause-Analysis.aspx?csf=1&web=1&share=EQqFFb6K3GRJkHIPk7DI_kwB0gYGH5MxIgx3pd-DIGDLjg&e=EZYCgu",
+    "Id": "abe20a72-8a8e-450c-afe6-b8aad45bc908",
+    "Title": "Globalization of Banking",
+    "Description": "Exploring the Impact and Evolution of Financial Institutions on a Worldwide Scale.",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Globalization-of-Banking.aspx?csf=1&web=1&share=EWKp9VowEc1Kt9Noh5Fg1nMBJcHVUal_KZUdMS7xCdf6aQ&e=Jv7pdO",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",

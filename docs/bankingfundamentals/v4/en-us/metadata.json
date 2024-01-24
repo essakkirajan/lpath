@@ -61,7 +61,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Getting Started with Testing",
+      "Name": "Getting Started",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -69,7 +69,7 @@
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "Testing Foundation",
+          "Name": "Fundamentals of Banking",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -78,7 +78,7 @@
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Principles and SDLC Fusion",
+          "Name": "Comprehensive Banking Framework",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",

@@ -1,7 +1,7 @@
 [
   {
     "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
-    "Title": "Overview of the Banking Industry",
+    "Title": "Decoding Quality Assurance",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -13,16 +13,15 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "0d59f982-4bca-4888-8341-1c51c03fb132",
-      "dd3bf4d8-bbe0-4002-8a99-fd18a4db9240",
-      "5bc38967-9128-4535-aff8-210841c2ce79",
-      "43082e94-6de9-4779-875e-88d91e00b53a"
+      "8a9c40b0-578d-4838-964f-e152bf54bf66",
+      "b04fc621-4fda-4076-a742-9531e70828fe",
+      "3264cf4b-f3e5-4259-8136-a1d1ff520e86"
     ]
   },
 
   {
     "Id": "fafe83ef-2b8d-46de-9ba7-a46df4740947",
-    "Title": "Historical Evolution",
+    "Title": "Exploring Dynamic Testing Approaches",
     "Image": "images/playlists/manage_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -42,7 +41,7 @@
   },
   {
     "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
-    "Title": "Indian Banking Structure",
+    "Title": "Embracing the Seven Testing Principles",
     "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -59,7 +58,7 @@
   },
   {
     "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
-    "Title": "Products and Services",
+    "Title": "Integrating Testing into SDLC & Agile Framework",
     "Image": "images/playlists/create_impactful_content_together.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
