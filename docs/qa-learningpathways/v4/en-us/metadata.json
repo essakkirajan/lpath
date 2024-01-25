@@ -226,6 +226,25 @@
           "SubCategories": []
         } 
       ]
+    },
+    {
+      "Id": "7b1b3aba-b7fb-4875-b41a-f6d020e19aec",
+      "Name": "Demo",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "38fb94c6-a979-4d63-a495-f70c8b2a4411",
+          "Name": "Empowering Testing",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        } 
+      ]
     }
   ],
   "Audiences": [
