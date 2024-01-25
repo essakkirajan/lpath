@@ -1,0 +1,369 @@
+[
+  {
+    "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
+    "Title": "Decoding Quality Assurance",
+    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "Unveil the systematic processes of testing, documentation, and continuous improvement that define Quality Assurance, ensuring excellence and customer satisfaction across the development lifecycle.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "8a9c40b0-578d-4838-964f-e152bf54bf66",
+      "b04fc621-4fda-4076-a742-9531e70828fe",
+      "3264cf4b-f3e5-4259-8136-a1d1ff520e86",
+      "d02b976b-0757-487f-8668-810861b8611c",
+      "5f1b05e3-7a3a-4173-80af-a39ed3ee9788",
+      "56890c21-a99a-460c-a0fa-1c4145bc3c0e"
+    ]
+  },
+
+  {
+    "Id": "fafe83ef-2b8d-46de-9ba7-a46df4740947",
+    "Title": "Comprehensive Testing Curriculum",
+    "Image": "images/playlists/manage_meetings.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "33a58ba0-f36e-4cc8-a52b-c55581e51a2e",
+    "Description": "Delve into the dynamic testing realm, where real-time evaluation and adaptive methodologies play a pivotal role. Explore the strategies that ensure robust testing practices for dynamic software environments.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "6f10717d-1319-4e2a-befc-4ed8255a1094",
+      "78d21659-e754-48e8-97ad-b4ac9130e3b2",
+      "922ab84e-4077-440c-adbb-88749d9034d5",
+      "6027d385-e2ce-47e0-995a-12793f6d8df1",
+      "fdb5321b-b173-47d4-99ed-04a2f401e600",
+      "b81fdd3a-29d3-4ea4-883b-382d3a94d42f",
+      "4f34dd6b-4340-4aa6-86ea-75312302cfdf",
+      "b2dbe836-6cef-4446-acfe-7d21e6d83e13",
+      "b40e5733-3289-427a-bed9-4515ec580d4a",
+      "9ef640aa-c5be-4877-9130-169ce840de25"
+    ]
+  },
+  {
+    "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
+    "Title": "Embracing the Seven Testing Principles",
+    "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "Description": "Explore the core principles that underpin effective testing strategies, promoting thorough examination, risk assessment, and quality assurance throughout the software development lifecycle.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "01b3a61e-9627-40e7-ae86-b13dbee20642",
+      "c23e05f4-18b9-4865-89a7-2b2a13176066",
+      "28a76d9b-98a3-48f6-96e0-1fc6a8f76738"
+    ]
+  },
+  {
+    "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
+    "Title": "Integrating Testing into SDLC & Agile Framework",
+    "Image": "images/playlists/create_impactful_content_together.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "Description": "Explore the seamless integration of testing processes into both traditional Software Development Life Cycle (SDLC) and Agile methodologies, ensuring efficient quality management and rapid, iterative development cycles.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "46fe4f76-489e-4da2-a1ae-8511d1f2a657",
+      "725a6586-afab-4654-892c-f5acf883bc2a",
+      "9ca7312a-760d-4d38-a701-b09867489f5f",
+      "29a5dfb0-2903-4321-9b9d-6c53b6de1a14",
+      "45986cee-de68-4868-9223-fb679671ec21",
+      "864efee4-0901-4b0a-bbb0-6fddeb7508b3"
+    ]
+  },
+  {
+    "Id": "fa3a7737-b33d-4481-9b80-416d20b9ca9f",
+    "Title": "Ascending Testing Levels",
+    "Image": "images/playlists/use_across_devices.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "Explore the systematic progression of testing levels and types, gaining insights into a holistic quality assurance approach, spanning from unit testing to system testing and beyond within the software development lifecycle.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+    "77f21ec0-5bf8-4b2f-b302-e15946fc6dc0",
+    "21fc2a0a-51eb-4c87-883c-490a592a5e13",
+    "7c178a07-19ae-4179-83e5-f280a9a04aaa",
+    "eccfd498-8307-4a09-9e09-3c122c3f779d",
+    "026bb3da-b038-4a89-9a0e-6cf65b5bbdc8",
+    "41a19699-6dc2-4415-af95-18ceb2ea2705"
+    ]
+  },
+  {
+    "Id": "e57b3cdc-434e-4f5e-b97e-d8ba7b618faa",
+    "Title": "Understanding Testing Types",
+    "Image": "images/playlists/use_across_devices.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "This guide simplifies the complex world of software testing. From the basics to more advanced methods, it covers various approaches to ensure software quality. Whether you're a beginner or looking to deepen your knowledge, this guide aims to make testing concepts accessible and understandable for everyone.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+    "bf30a1d3-aad7-4823-a9d7-a8dc94d6bef5",
+    "6e6414d6-b38a-4ac0-bebb-73bf992daad5",
+    "6d5ad83b-5ea0-4980-b33d-f196255631af",
+    "dc9d5566-2b85-47b7-822e-fa366ab46011",
+    "75856df0-418c-466b-ac1f-085ed45b71e2",
+    "a8ef207c-071f-4773-aa31-eda4592202e2"
+    ]
+  },
+  {
+    "Id": "9647e1aa-63a1-48d1-aea9-b0913f0f1e0b",
+    "Title": "Journey through Software Test Lifecycle Phases",
+    "Image": "images/playlists/use_across_team.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "Description": "Embark on a guided journey through the distinct phases of the Software Test Lifecycle, unraveling the intricacies and significance of each stage in ensuring robust software quality.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "926aceb5-bd5a-4426-9942-85b508147997",
+      "3adbf391-f722-43e2-af4a-2574d1de7581",
+      "56559b95-9360-4273-a1ca-5d8135a7df05"
+    ]
+  },
+  {
+    "Id": "cb4effb6-f78e-444a-98b7-6274ad2fe70c",
+    "Title": "Foundation of Testing Techniques",
+    "Image": "images/playlists/use_across_org.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "92083395-06d0-433f-ba0d-77c958d853b7",
+    "Description": "Explore the intricate dance of precision and agility in the world of testing, where meticulous quality assurance meets the dynamic demands of software development, ensuring a harmonious and effective testing process.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "82d40bfe-ddf4-4966-aa16-e6747dece771",
+      "684a48d9-ddda-4dc6-8832-0ab9be42bcbb",
+      "e0ae26a8-f0fd-466e-9b9e-a2c7ee1eab21",
+      "f5d534e3-e27b-4909-a4a6-102cc4a7ee80"
+    ]
+  },
+  {
+    "Id": "4860061c-0e87-4cc7-ad29-75152501a41d",
+    "Title": "Exploring Techinques",
+    "Image": "images/playlists/use_across_org.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "92083395-06d0-433f-ba0d-77c958d853b7",
+    "Description": "Exploring Testing Techniques guides you through a diverse spectrum of strategies in software testing. From fundamental methodologies to advanced approaches, this comprehensive exploration equips you with the knowledge to enhance software quality. Dive into this guide for a nuanced understanding of testing techniques, ensuring robust and reliable software applications.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ba026a33-ee40-4c73-a9a1-62e75bf44ca8",
+      "f0070072-8523-48d5-a36c-bb01e4b17b97",
+      "218fe9cd-78e5-422c-8bcd-2f4d3b516e1a",
+      "7a6a3d4c-2974-4911-89b4-842826f78436",
+      "47441b0f-9225-4839-9d66-d42234d8bf93",
+      "b3d7ad40-a7b8-45a5-85a8-f126b4b67365",
+      "92f10897-05a8-4a74-85ae-3144ed65531b",
+      "d308ab2e-e125-4c2d-8438-ec49c0c61563"
+    ]
+  },
+  {
+    "Id": "e51271b2-b4c0-4038-aa97-e4498c953afe",
+    "Title": "Crafting a Strategic Test Approach",
+    "Image": "images/playlists/LP-security-security-at-work.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "92083395-06d0-433f-ba0d-77c958d853b7",
+    "Description": "Explore the artful and scientific process of developing a strategic approach to testing, emphasizing precision and foresight throughout every phase of the software development lifecycle.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "63012c62-e45e-4b53-9408-a4a4a8b51a70",
+      "90c33280-b1b6-4da6-b514-d394e2ef517d",
+      "dcff3d50-f923-4a62-8720-90c0c96d24c3",
+      "f95e7309-2c37-4cb8-a66b-76984a461ec5",
+      "7b2399f9-5400-4064-81c3-75356ddc0efc",
+      "e535cb84-d401-4eb1-b99e-7549d5090646",
+      "ef670880-2a8c-4e5d-a5ac-9e9e9d326208",
+      "ea2de8ec-d278-4b69-9b77-abc7c3af2b1a",
+      "6e324ffc-7b56-4b14-94b2-2d01c3b857d8",
+      "b97dee91-731f-4cd1-a08b-7fdb5770bfd4",
+      "c4426dff-ac3f-45e1-b223-81919aef0fe8",
+      "3708b73e-e49d-46d8-9c67-f4864869256c",
+      "ed81a07b-1f74-4283-942c-0bb28cddeb26",
+      "294687ed-cd28-4ec8-8c6b-0bd10e520094"
+      
+    ]
+  },
+  {
+    "Id": "72863bbc-46ae-41dc-885d-0edb0a8abaa4",
+    "Title": "Metrics, Reports, and Quality Criteria",
+    "Image": "images/playlists/LP-security-security-at-home.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
+    "Description": "Embark on a journey into the realm of software quality, exploring the significance of metrics, insightful reports, and stringent quality criteria in ensuring robust and reliable software products.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "1eab837f-ec0f-468c-87ae-2da8f15bb856",
+      "c339fce8-6110-401e-988a-87f40e627de3",
+      "3404448f-2756-4cfd-814d-3d2ba88e15e8"
+     
+    ]
+  },
+  
+  {
+    "Id": "5872570a-e8a6-4d84-8802-4dd053b4dabc",
+    "Title": "Defect Lifecycle",
+    "Image": "images/playlists/work_remotely_with_o365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
+    "Description": "Discover the delicate balance of software stability as risk and configuration management harmonize to create a symphony, ensuring a resilient and secure foundation for development projects.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "e695be43-0e5b-4e01-9fa8-fe78e0550b77",
+      "8cb28d3c-3856-459f-b667-4956460a4199",
+      "05e44487-79bb-4a5d-9681-3f509adcb802"
+    ]
+  },
+  {
+    "Id": "35f25052-fa93-4daf-8d2e-b29935a002d0",
+    "Title": "Test Tool Considerations",
+    "Image": "images/playlists/work_remotely_with_o365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
+    "Description": "Explore the landscape of test tools, understanding the factors that guide decision-making for effective test automation and management solutions.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "c418e006-504d-45e3-b12a-c861155d3db5",
+      "7c1f6a43-767f-4e42-8525-f7ee901f166b",
+      "c8faf420-cadd-4f07-b543-7704a2f87398"
+    ]
+  },
+  {
+    "Id": "997ecfcb-29a0-4a0c-acec-7ad055329f06",
+    "Title": "Work Item Lifecycle Management",
+    "Image": "images/playlists/work_remotely_with_o365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "708c51cb-98ed-49a1-9c44-8a16b7f3a72f",
+    "Description": "Delve into the strategies and practices involved in effectively managing the lifecycle of work items, ensuring streamlined processes and optimal project outcomes.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "323e5998-aa9e-48e7-b500-94cf694407e4",
+      "178ec8fe-6a1c-4e6a-b513-4b92cd10e1a1",
+      "62747c9d-8563-43e3-9cd1-51fa9122a3b3"
+      
+    ]
+  },
+  {
+    "Id": "d59b1053-3756-4d9f-82a8-0ac97b11529c",
+    "Title": "Hands-on Wizardry: Test Plan and Suite Creation",
+    "Image": "images/playlists/access-quick-start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "708c51cb-98ed-49a1-9c44-8a16b7f3a72f",
+    "Description": "Explore the art and science of hands-on test plan and suite creation, gaining practical insights and expertise to enhance the efficiency and effectiveness of your testing processes.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "f2228167-fce7-44f5-b935-7fc76135f669",
+      "3800bbd0-1b6c-4d97-af17-eefa36246090",
+      "1fe2d2fa-37e5-40d9-9400-c4cb6594b17a",
+      "4428e17f-69d5-41f3-aea9-942f04ebdfac",
+      "2a3d7bdb-d37f-49f3-8d17-431623e4a17c"
+    ]
+  },
+  {
+    "Id": "3c376578-f821-4184-9365-75011c163f68",
+    "Title": "Commanding Test Runs: From Bugs to Reports",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "708c51cb-98ed-49a1-9c44-8a16b7f3a72f",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "aa349fbb-e0b0-4e5a-87c6-5c1e67d078e8",
+      "63420672-ffc6-44e1-b426-b7e84c10ca32",
+      "e78b43d1-a1a2-4aeb-840f-e81cbc9b1869"
+    ]
+  },
+  {
+    "Id": "b631987d-116e-4ec4-850d-b0e7c169401d",
+    "Title": "Test Automation Fundamentals",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c328dfd4-f825-4ca8-80b9-2cd7ba287fc2",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "a7606b70-4273-4696-aba8-53cec23c9027",
+      "6a297214-8b54-487a-9ca1-fa1075795be7",
+      "73448647-2130-4329-bd53-1700a8bea2e1",
+      "ba2c26da-2600-4a27-8001-254b3349b874"
+    ]
+  }
+]
