@@ -84,12 +84,21 @@
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
+        },
+        {
+          "Id": "30d9a77a-d890-4c4f-9eb0-5bef4386fa25",
+          "Name": "Benefits",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
         }
       ]
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Technology",
+      "Name": "Employee Development and Communication",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -97,7 +106,7 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Navigating the Digital Frontier",
+          "Name": "Training and Communication",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -106,27 +115,18 @@
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Core Banking Solution",
+          "Name": "Performance and Standards",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
-        },
-        {
-          "Id": "b28678d4-049f-4813-b9e6-e0e0fd9f4593",
-          "Name": "CRM in Banking",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        }
+        }      
       ]
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Regulations and Ancillary Services",
+      "Name": "Workplace Skills and Development",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -134,16 +134,35 @@
       "SubCategories": [
         {
           "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
-          "Name": "Regulatory Environment",
+          "Name": "Corporate Events and Soft Skills Enhancement",
           "Image": "images/categories/sway.png",
           "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }        
+      ]
+    },
+    {
+      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
+      "Name": "Technical and Professional Development",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
+          "Name": "Basic IT and Software Processes",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
         },
         {
           "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
-          "Name": "Ancillary Services",
+          "Name": "Project Management and Software Development",
           "Image": "images/categories/access.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -152,7 +171,7 @@
         },
         {
           "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
-          "Name": "Ethics and Regulations",
+          "Name": "IT and Network Fundamentals",
           "Image": "images/categories/vivalearning_learningpathways.png",
           "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
           "SubjectId": "",
@@ -163,15 +182,24 @@
     },
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Risk Management in Banking",
+      "Name": "Data Science and Database Management",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-          "Name": "Risk Management",
+          "Id": "5e23cd00-65d5-4191-bb18-7874498cb191",
+          "Name": "Data Science",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "17641fed-c37a-4bea-84d6-c2d0a61aeab2",
+          "Name": "Databases",
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -182,21 +210,104 @@
     },
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Emerging Trends in the Banking Industry",
+      "Name": "Development Tools and Practices",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "5e23cd00-65d5-4191-bb18-7874498cb191",
-          "Name": "Emerging Trends",
+          "Id": "21388009-1486-4185-bbc3-6457463dff7e",
+          "Name": "Version Control with Git",
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
+        },
+        {
+          "Id": "7bf8ade1-6f3a-4bd1-a53a-1d9b729349ca",
+          "Name": "Integration Fundamentals",
+          "Image": "images/categories/access.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "3373f076-e196-4013-84b6-ecdfabf52082",
+          "Name": "API Integration with Postman",
+          "Image": "images/categories/vivalearning_learningpathways.png",
+          "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "024601cb-7bdb-4f05-984a-e602a657391c",
+          "Name": "Remote Access and File Transfer",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "dfa12892-c139-4cbc-b0e8-fc815f477ff2",
+          "Name": "DevOps and Continuous Integration/Continuous Deployment (CI/CD)",
+          "Image": "images/categories/access.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "d4ad79f6-ada9-4cf9-bf29-e55752281c91",
+          "Name": "SQL Fundamentals",
+          "Image": "images/categories/vivalearning_learningpathways.png",
+          "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
         }
+      ]
+    },
+    {
+      "Id": "dfb55bd1-3447-4e63-9a93-8d6fdbdcf705",
+      "Name": "Cloud and Emerging Technologies",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "0605789d-5d45-4955-9616-0c6724fd4dfe",
+          "Name": "Emerging Technologies",
+          "Image": "images/categories/sway.png",
+          "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }        
+      ]
+    },
+    {
+      "Id": "aea1dac1-58e3-4048-a396-b7b746996c41",
+      "Name": "Data Visualization and Productivity Tools",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "c803c295-be68-4ab1-9986-ca51ddba7a18",
+          "Name": "Data Visualization and Tools ",
+          "Image": "images/categories/sway.png",
+          "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }        
       ]
     }
   ],
