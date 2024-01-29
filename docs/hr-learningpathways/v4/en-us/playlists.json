@@ -832,9 +832,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "a71bbafe-6b80-4c00-a12c-1f93d1c84762",
-      "c019cdff-b894-41f9-92fd-d7a028270acc",
-      "d54d8e9a-14a8-4831-baab-b5ee0d2a04c7"
+      
     ]
   },
   {
@@ -869,9 +867,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "a71bbafe-6b80-4c00-a12c-1f93d1c84762",
-      "c019cdff-b894-41f9-92fd-d7a028270acc",
-      "d54d8e9a-14a8-4831-baab-b5ee0d2a04c7"
+      "7452399d-3e27-4deb-b823-4fe764302d84"
     ]
   },
   {
@@ -888,9 +884,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "a71bbafe-6b80-4c00-a12c-1f93d1c84762",
-      "c019cdff-b894-41f9-92fd-d7a028270acc",
-      "d54d8e9a-14a8-4831-baab-b5ee0d2a04c7"
+     
     ]
   },
   {
@@ -907,9 +901,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "a71bbafe-6b80-4c00-a12c-1f93d1c84762",
-      "c019cdff-b894-41f9-92fd-d7a028270acc",
-      "d54d8e9a-14a8-4831-baab-b5ee0d2a04c7"
+     
     ]
   },
   {
@@ -926,9 +918,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "a71bbafe-6b80-4c00-a12c-1f93d1c84762",
-      "c019cdff-b894-41f9-92fd-d7a028270acc",
-      "d54d8e9a-14a8-4831-baab-b5ee0d2a04c7" 
+      
     ]
   },
   {
@@ -945,10 +935,8 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "a71bbafe-6b80-4c00-a12c-1f93d1c84762",
-      "c019cdff-b894-41f9-92fd-d7a028270acc",
-      "d54d8e9a-14a8-4831-baab-b5ee0d2a04c7"
-    ]
+      "7452399d-3e27-4deb-b823-4fe764302d84"
+          ]
   }
 
 ]
