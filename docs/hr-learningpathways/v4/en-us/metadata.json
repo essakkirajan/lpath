@@ -136,7 +136,7 @@
           "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
           "Name": "Corporate Events and Soft Skills Enhancement",
           "Image": "images/categories/sway.png",
-          "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -173,7 +173,7 @@
           "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
           "Name": "IT and Network Fundamentals",
           "Image": "images/categories/vivalearning_learningpathways.png",
-          "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
