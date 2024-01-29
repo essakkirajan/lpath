@@ -866,9 +866,7 @@
     "Description": "Explore the principles and benefits of cloud computing, understanding its impact on our tech-driven environment. Learn how cloud services enhance flexibility, scalability, and efficiency within the operations at Bluescope.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [   
-      "7452399d-3e27-4deb-b823-4fe764302d84"
-    ]
+    "Assets": [ ]
   },
   {
     "Id": "e4960666-6b95-464b-86c4-4daec43fd940",
@@ -883,9 +881,7 @@
     "Description": "Navigate the mobile landscape, understanding its significance in our tech-driven environment. Explore how mobile technologies contribute to efficiency and connectivity within the operations at Bluescope.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [   
-     
-    ]
+    "Assets": [  ]
   },
   {
     "Id": "546240c5-329d-49a6-aaee-db1b6dccff61",
@@ -900,9 +896,7 @@
     "Description": "Prioritize cybersecurity awareness, ensuring the protection of our digital assets. Explore best practices, tools, and strategies to maintain a secure digital environment within our tech-driven operations at Bluescope.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [   
-     
-    ]
+    "Assets": [ ]
   },
   {
     "Id": "9228c65b-591b-4189-830b-c4f17b99e90b",
@@ -917,9 +911,7 @@
     "Description": "Explore the realm of Big Data and its applications within our tech-driven environment. Understand how Big Data analytics contributes to informed decision-making and operational efficiency at Bluescope.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [   
-      
-    ]
+    "Assets": [  ]
   },
   {
     "Id": "04ba5384-e2e2-4bc1-b6d4-9fa609fd455d",
@@ -934,9 +926,7 @@
     "Description": "Delve into the transformative world of AI and Machine Learning. Understand their applications and impact within our tech-driven environment. Explore how these technologies contribute to innovation and efficiency at Bluescope.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [   
-      "7452399d-3e27-4deb-b823-4fe764302d84"
-          ]
+    "Assets": []
   }
 
 ]
