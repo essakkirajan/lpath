@@ -9975,17 +9975,5 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
-  },
-
-  {
-    "Id": "7452399d-3e27-4deb-b823-4fe764302d84",
-    "Title": "Test",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
   }
 ]
