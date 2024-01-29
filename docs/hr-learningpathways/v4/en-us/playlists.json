@@ -404,7 +404,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "6e290c39-03ab-41fd-9871-d219382db6aa",
     "Title": "Effective Meeting Participation",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "e92915ea-ee0b-4a23-a2e5-1ad244288187",
     "Title": "Leadership Basics",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -461,7 +461,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "580f16d5-8fe7-4cb8-b532-2de0b0c0cbc1",
     "Title": "Software Development Models",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -483,7 +483,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "3134fdac-b7d0-44dc-a9cf-f6a649785406",
     "Title": "Process Improvement",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -505,7 +505,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "f1256dcf-174d-40dc-85a2-602c7a137cd9",
     "Title": "Metrics and Measurement",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -524,7 +524,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "39717d55-b6f0-4324-b91d-1da8547ff953",
     "Title": "QA & Testing",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -545,7 +545,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "89c93c0b-a639-4f66-8196-e77a1d86221d",
     "Title": "Internet Basics",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "69545294-1bb3-40e5-a181-6b7f7e8e67b1",
     "Title": "Networking Basics & Protocols",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -588,7 +588,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "3e91760e-0777-48be-a633-59bf6222825f",
     "Title": "Security",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "1ec26db8-e20f-4513-b961-edc1c83bc621",
     "Title": "OS Fundamentals",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -626,7 +626,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "5f0d6ee2-85d8-472c-9ec6-ff24036c5e65",
     "Title": "Data Science for beginners",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -645,7 +645,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "d5a069b3-0dd5-4c39-9433-0f233a294e78",
     "Title": "Databases",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -665,7 +665,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "107ab2a3-a481-44a3-84e4-7c9e7fa9efb4",
     "Title": "Git Essentials",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -685,7 +685,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "7f13cb2e-71a0-4c1b-b0e6-6161f81ffe1b",
     "Title": "Fundamentals of Integration",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "5a3b3506-71bd-49ad-8224-d5d7d677a8cc",
     "Title": "Postman in API Integration",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -725,7 +725,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "37166bb1-7e31-48b2-a126-0099a1d922c2",
     "Title": "Remote Access ",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -743,7 +743,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "68c8ffcf-d285-4926-af9b-d70fa2de647c",
     "Title": "File Transfer ",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -761,7 +761,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "eec64b07-2509-47b0-9107-0b43d29ce531",
     "Title": "DevOps Practices and CI/CD",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -782,7 +782,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "6d9abdf2-154a-44a9-9829-f8aef08ed0eb",
     "Title": "Powerbi",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -801,7 +801,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "71abb38b-821f-43d2-91e4-f332ac78e706",
     "Title": "Visio",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -819,7 +819,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "a76c61b3-84a9-4302-b043-21179f879586",
     "Title": "VS code editor",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -838,7 +838,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "8db2b13a-7ba5-422c-bcd4-cecc46e99dd7",
     "Title": "Markdown Language",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -856,7 +856,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "bcec1e6a-3f54-456a-bfa7-b6f2e4059b63",
     "Title": "Cloud Computing",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "e4960666-6b95-464b-86c4-4daec43fd940",
     "Title": "Mobile",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -894,7 +894,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "546240c5-329d-49a6-aaee-db1b6dccff61",
     "Title": "Cybersecurity",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -913,7 +913,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "9228c65b-591b-4189-830b-c4f17b99e90b",
     "Title": "Big Data",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -932,7 +932,7 @@
     ]
   },
   {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
+    "Id": "04ba5384-e2e2-4bc1-b6d4-9fa609fd455d",
     "Title": "AI and Machine Learning",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
