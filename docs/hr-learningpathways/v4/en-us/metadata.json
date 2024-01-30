@@ -164,7 +164,7 @@
         {
           "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
           "Name": "Project Management and Software Development",
-          "Image": "images/categories/access.png",
+          "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -173,7 +173,7 @@
         {
           "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
           "Name": "IT and Network Fundamentals",
-          "Image": "images/categories/vivalearning_learningpathways.png",
+          "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -192,7 +192,7 @@
         {
           "Id": "e449928d-b6af-4f9a-b0dc-d29a0ac3e830",
           "Name": "Data Science",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -201,7 +201,7 @@
         {
           "Id": "57539667-bd8e-4e00-bb7d-fd430c7130b6",
           "Name": "Databases",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
