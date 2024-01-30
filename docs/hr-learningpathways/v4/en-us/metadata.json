@@ -284,7 +284,7 @@
       ]
     },
     {
-      "Id": "aea1dac1-58e3-4048-a396-b7b746996c41",
+      "Id": "d0a8030b-4233-4c9e-bd88-3c78d5c206ab",
       "Name": "Data Visualization and Productivity Tools",
       "Image": "",
       "TechnologyId": "",
@@ -294,7 +294,7 @@
         {
           "Id": "790e3e39-78a6-40a9-a124-1c3b2cd0e09d",
           "Name": "Data Visualization and Tools ",
-          "Image": "images/categories/sway.png",
+          "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",

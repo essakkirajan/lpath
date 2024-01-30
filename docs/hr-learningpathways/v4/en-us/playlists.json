@@ -782,12 +782,12 @@
     ]
   },
   {
-    "Id": "6d9abdf2-154a-44a9-9829-f8aef08ed0eb",
+    "Id": "fb175d98-4bf6-491c-a37d-fee2a6d1c6b6",
     "Title": "Powerbi",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Fingress Platform",
     "CatId": "790e3e39-78a6-40a9-a124-1c3b2cd0e09d",
@@ -801,12 +801,12 @@
     ]
   },
   {
-    "Id": "71abb38b-821f-43d2-91e4-f332ac78e706",
+    "Id": "4590dd4a-f387-4af6-aed8-a99eacaccbed",
     "Title": "Visio",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Fingress Platform",
     "CatId": "790e3e39-78a6-40a9-a124-1c3b2cd0e09d",
@@ -819,29 +819,27 @@
     ]
   },
   {
-    "Id": "a76c61b3-84a9-4302-b043-21179f879586",
+    "Id": "13a6a7d2-8fc7-45f8-90a8-cc8074787583",
     "Title": "VS code editor",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Fingress Platform",
     "CatId": "790e3e39-78a6-40a9-a124-1c3b2cd0e09d",
     "Description": "Unleash the power of Visual Studio Code for efficient coding and development. Learn tips and tricks to enhance your productivity and streamline coding tasks within our dynamic tech environment at Bluescope.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [   
-      
-    ]
+    "Assets": []
   },
   {
-    "Id": "8db2b13a-7ba5-422c-bcd4-cecc46e99dd7",
+    "Id": "c5c51cae-398c-410e-8f00-3e3cd58ecfba",
     "Title": "Markdown Language",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Fingress Platform",
     "CatId": "790e3e39-78a6-40a9-a124-1c3b2cd0e09d",
