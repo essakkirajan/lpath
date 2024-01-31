@@ -171,7 +171,7 @@
           "SubCategories": []
         },
         {
-          "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
+          "Id": "f7527218-78b1-4e81-8acb-a8ee99380130",
           "Name": "IT and Network Fundamentals",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
@@ -190,7 +190,7 @@
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "e449928d-b6af-4f9a-b0dc-d29a0ac3e830",
+          "Id": "cd41b84d-f4ce-4051-b117-82f760453f08",
           "Name": "Data Science",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
@@ -199,7 +199,7 @@
           "SubCategories": []
         },
         {
-          "Id": "57539667-bd8e-4e00-bb7d-fd430c7130b6",
+          "Id": "4b79f2ca-5f5f-47c2-9409-b284aa493eeb",
           "Name": "Databases",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
@@ -218,7 +218,7 @@
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "a4eeaf53-91dd-4f5c-a38e-57d6c26242ff",
+          "Id": "968f6438-5617-49f8-b765-bf97c3cb9f47",
           "Name": "Version Control with Git",
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
@@ -227,7 +227,7 @@
           "SubCategories": []
         },
         {
-          "Id": "c80ca22d-b517-4035-ac41-118a76b03add",
+          "Id": "94f3053d-2021-4bab-adeb-5f7c581e6a72",
           "Name": "Integration Fundamentals",
           "Image": "images/categories/access.png",
           "TechnologyId": "",
@@ -236,7 +236,7 @@
           "SubCategories": []
         },
         {
-          "Id": "daad6486-0005-45f2-91a8-29b222fc8b8a",
+          "Id": "d30621fb-599b-4635-a5c6-c54e740adbe6",
           "Name": "API Integration with Postman",
           "Image": "images/categories/vivalearning_learningpathways.png",
           "TechnologyId": "",
@@ -245,7 +245,7 @@
           "SubCategories": []
         },
         {
-          "Id": "f9a1134b-c1c5-4918-afa6-7b94b09d4f76",
+          "Id": "23af85ac-acb1-45a1-a294-9df8f4be04e6",
           "Name": "Remote Access and File Transfer",
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
@@ -254,7 +254,7 @@
           "SubCategories": []
         },
         {
-          "Id": "d989bcfd-9972-4920-b5a8-11f089d20387",
+          "Id": "910aa3ae-3408-44ec-95f2-88340b374b4d",
           "Name": "DevOps and Continuous Integration/Continuous Deployment (CI/CD)",
           "Image": "images/categories/access.png",
           "TechnologyId": "",
