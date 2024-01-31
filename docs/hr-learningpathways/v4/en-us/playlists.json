@@ -588,7 +588,7 @@
     ]
   },
   {
-    "Id": "3e91760e-0777-48be-a633-59bf6222825f",
+    "Id": "93214ecf-7b70-464e-be08-dc946295c661",
     "Title": "Security",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "Id": "1ec26db8-e20f-4513-b961-edc1c83bc621",
+    "Id": "25f8746b-ce2d-4baf-adc4-b85b56df0a8b",
     "Title": "OS Fundamentals",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -626,7 +626,7 @@
     ]
   },
   {
-    "Id": "5f0d6ee2-85d8-472c-9ec6-ff24036c5e65",
+    "Id": "1773e9dd-ab58-4f7c-9307-d2db0cd17e30",
     "Title": "Data Science for beginners",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -665,7 +665,7 @@
     ]
   },
   {
-    "Id": "107ab2a3-a481-44a3-84e4-7c9e7fa9efb4",
+    "Id": "4402225e-7bcd-4404-a8e0-1ea46de891b9",
     "Title": "Git Essentials",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -685,7 +685,7 @@
     ]
   },
   {
-    "Id": "7f13cb2e-71a0-4c1b-b0e6-6161f81ffe1b",
+    "Id": "aaff73b8-5779-4773-bf33-c7dc05f4cb02",
     "Title": "Fundamentals of Integration",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "Id": "5a3b3506-71bd-49ad-8224-d5d7d677a8cc",
+    "Id": "c0a363c7-c7a5-40bb-aafb-b3bceccb5d2e",
     "Title": "Postman in API Integration",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -725,7 +725,7 @@
     ]
   },
   {
-    "Id": "37166bb1-7e31-48b2-a126-0099a1d922c2",
+    "Id": "450d662c-9fd5-4c00-bab2-702029e474af",
     "Title": "Remote Access ",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -743,7 +743,7 @@
     ]
   },
   {
-    "Id": "68c8ffcf-d285-4926-af9b-d70fa2de647c",
+    "Id": "2d55926d-267d-4310-acd8-c0404849959c",
     "Title": "File Transfer ",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -761,7 +761,7 @@
     ]
   },
   {
-    "Id": "eec64b07-2509-47b0-9107-0b43d29ce531",
+    "Id": "fcc330a4-f2c5-4986-b379-ab21444ee3bb",
     "Title": "DevOps Practices and CI/CD",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
