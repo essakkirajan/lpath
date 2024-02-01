@@ -1,0 +1,39 @@
+[
+  {
+    "Id": "",
+    "Title": "Playlist Title",
+    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "Subcategory ID",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      ""     
+    ]
+  },
+
+  {
+    "Id": "",
+    "Title": "Playlist Title",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c328dfd4-f825-4ca8-80b9-2cd7ba287fc2",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "",
+      ""
+    
+    ]
+  }
+]
