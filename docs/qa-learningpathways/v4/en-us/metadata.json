@@ -225,25 +225,135 @@
           "Source": "Fingress Platform",
           "SubCategories": []
         }
+        
       ]
     },
     {
-      "Id": "7b1b3aba-b7fb-4875-b41a-f6d020e19aec",
-      "Name": "Demo",
+      "Id": "509a600b-eca5-4594-8cc5-84b7cc94b780",
+      "Name": "Automating Tests with Playwright",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "38fb94c6-a979-4d63-a495-f70c8b2a4411",
-          "Name": "Testing",
+          "Id": "d38c9ada-3f35-4bee-a488-e6cef32dac04",
+          "Name": "Installation & Configuration",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
-        } 
+        },
+        {
+          "Id": "c35db39b-852b-4d7d-8b6f-691e04846a31",
+          "Name": "Test Script Creation",
+          "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "0c01d63f-7a8f-41c6-b380-0b39c870b6d3",
+          "Name": "Learn More on TA",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "163e8ac3-01b4-485c-93ba-56d1ad828101",
+          "Name": "Other Testing Approaches",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "b1d93c83-5f8d-4b07-af3c-83179db5c30a",
+          "Name": "Tools & Libraries",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "e4fd0b0f-9d41-4675-8c71-7ec8fa126ee8",
+          "Name": "Automation in Pipeline",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "da09c204-cbb8-42dc-9c9e-859e892b7769",
+      "Name": "Security Testing",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
+          "Name": "Fundamentals of Security Testing",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
+          "Name": "Networking Basics & Protocols",
+          "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "536da769-f2ed-4862-90df-7fff2601e1a4",
+          "Name": "Stages of Pentesting",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "f838c09e-e9f3-4071-9dc0-d0e2fd02d8b1",
+          "Name": "Security Guidance",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "de8534eb-613c-4932-9a72-8007d341fdb0",
+          "Name": "Common Vulnerability Exposure",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
+          "Name": "Security Tools",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }
       ]
     }
   ],
