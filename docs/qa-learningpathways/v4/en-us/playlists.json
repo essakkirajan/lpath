@@ -342,6 +342,7 @@
       "e78b43d1-a1a2-4aeb-840f-e81cbc9b1869"
     ]
   },
+
   {
     "Id": "b631987d-116e-4ec4-850d-b0e7c169401d",
     "Title": "Test Automation Fundamentals",
@@ -361,5 +362,755 @@
       "73448647-2130-4329-bd53-1700a8bea2e1",
       "ba2c26da-2600-4a27-8001-254b3349b874"
     ]
+  },
+
+  {
+    "Id": "7b72ffd6-afff-4e6d-a7fe-5123c254cfce",
+    "Title": "Installation & Configuration",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d38c9ada-3f35-4bee-a488-e6cef32dac04",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "3b975f8a-6db3-4afc-bc29-9ffd5b43d37d",
+      "bc118552-5f48-46fb-9705-81d7b1822384",
+      "621ef3b8-c43e-4f53-a340-29efeb851043"
+    ]
+  },
+
+ 
+  {
+    "Id": "78d99b85-27fe-41aa-96c2-b2e10ec43397",
+    "Title": "Test Script Creation",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c35db39b-852b-4d7d-8b6f-691e04846a31",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "577d5cca-6b6f-4a55-8b41-1f9777a8b818",
+"20b13f5e-9692-4669-b58c-8ee975ff870a",
+"75e86db2-21dc-4b63-a142-5770ea68d33d",
+"4fecab3e-13d6-4c26-a0e1-371dab3c4fc4",
+"0dfe1e00-1d33-44b4-b623-f80c2ffd423d",
+"60dbd193-4c62-44ae-bd43-359cbc9dbe45",
+"fa240cd5-0d88-46c3-9929-b04e930b60ef"
+    ]
+  },
+  {
+    "Id": "c4dbb6e4-4159-4d69-bdad-831a9cbcb344",
+    "Title": "Test Reports",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c35db39b-852b-4d7d-8b6f-691e04846a31",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+     "ab49603f-abdc-47ac-be7a-a81ad88fd2af",
+     "bf8ea698-a3b3-4ae8-8a37-221ca7430def"
+    ]
+  },
+  {
+    "Id": "0c98917b-41c0-4c30-967f-d5e175cfd1e4",
+    "Title": "Advanced Test Methods",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "0c01d63f-7a8f-41c6-b380-0b39c870b6d3",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "e155e041-b7b8-43e4-9b28-a8c6f348e9fd",
+      "3359170e-d960-4ee8-a61f-b948208cf1f6",
+      "f885a790-51fa-42d4-88db-4a1b2e130daa",
+      "95f697ae-19e9-41f9-813f-eb8c4558b885"
+    ]
+  },
+  {
+    "Id": "9662d9a1-5d68-4b34-ae6e-7736e3f96ce4",
+    "Title": "Visual/ UI Testing",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "163e8ac3-01b4-485c-93ba-56d1ad828101",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+  "9831670f-ca61-4968-aeca-a24500711f67",
+  "667bc441-7b68-4f97-9dd9-8aaf0833a66d"
+    ]
+  },
+  {
+    "Id": "e2272e28-1590-4e08-a298-13facd3c895f",
+    "Title": "API Testing",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "163e8ac3-01b4-485c-93ba-56d1ad828101",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "c88e35a0-0761-47f1-8428-5597025ead19",
+      "2786d630-5a88-4fc2-88c9-749027e52ffe"
+    ]
+  },
+  {
+    "Id": "11b5b37b-33c6-441f-9f4f-d013caf658f4",
+    "Title": "Pros and Cons in Other Approaches",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "163e8ac3-01b4-485c-93ba-56d1ad828101",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+    "37613352-a529-43ab-8f5e-d8e53e418ca1"
+    ]
+  },
+  {
+    "Id": "742e2590-5989-419f-86ed-5f76537572bd",
+    "Title": "Tools & Libraries",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "b1d93c83-5f8d-4b07-af3c-83179db5c30a",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+     "bfa2e2ab-c201-4588-b40d-e671a1d1e0d0",
+    "e4adbee1-4730-4bad-aac7-ac6e07325bc1"
+    ]
+  },
+  {
+    "Id": "11b5b37b-33c6-441f-9f4f-d013caf658f4",
+    "Title": "Pros and Cons in Other Approaches",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "163e8ac3-01b4-485c-93ba-56d1ad828101",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+    "37613352-a529-43ab-8f5e-d8e53e418ca1"
+    ]
+  },
+
+  {
+    "Id": "b99a5a87-09ea-4e91-b16f-5edd7cf4fc1c",
+    "Title": "Automation in Pipeline",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e4fd0b0f-9d41-4675-8c71-7ec8fa126ee8",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "c162e435-66fb-46d0-ad60-048361d4930d",
+ "6d976581-9a40-4b73-a267-95b045c07f60",
+ "e9a3d666-8753-4da3-9d92-f20c37538655",
+ "a245473e-130d-4ea6-9662-108da66284f4",
+ "d6fe1661-52fd-4562-8f68-16d6c7da4da0"
+    ]
+  },
+
+  {
+    "Id": "1fd98418-a122-4fb5-9785-4bc3d93b75c5",
+    "Title": "About",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "8effc2ff-ab25-4d83-8f15-e4547f927846",
+      "44671434-268e-46ba-8724-f02d9b5915af",
+      "eafdf39a-4e1a-4975-81ab-33e5b33f1248",
+      "4d724441-fdb3-4d94-ab6c-8ead1ef435dd"
+ 
+    ]
+  },
+  {
+    "Id": "2ae48a64-e7bf-4807-a747-29f6db269ef5",
+    "Title": "Types of security testing",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "2636a000-e426-4623-9518-91a307fd3d82",
+      "56ed458c-032b-43f2-a282-de90d213e719",
+      "6f19b9e4-ed13-4554-9d8e-f53a9e6ea808",
+      "7a5a3ca2-8151-4e12-91b0-df6aa3d1634f"
+ 
+    ]
+  },
+  {
+    "Id": "56c15f44-e5e4-40d0-8adf-43f66079fd09",
+    "Title": "Terminology Used",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "4233ef5e-d739-480c-b77d-4471980e6000",
+ "e0d5a8d5-68c3-4180-8d51-4de8ce1828e8",
+ "35f93f78-0543-47ca-898b-2e3127592e42",
+ "b467d48e-a745-451f-a863-41e208e75b66",
+ "c969ae0a-b126-4679-a1a6-162812d6e018",
+ "6481c616-836f-4bb6-b110-061fe5344826",
+ "56e59879-6f47-40e5-ae08-0cd0e663de09",
+ "995b950a-4182-44b4-9d44-d147cb8a060d",
+ "ac106baa-1e38-42f8-aeb2-eb6f0511e3fa"
+    ]
+  },
+  {
+    "Id": "712d96d0-9237-4885-85f4-f042969913bc",
+    "Title": "Approach of security testing",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
+    "Description":"",
+     "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [  
+      "3b5e5a03-72c3-4b59-a470-cc69e17bd2fc",
+      "0745b562-4a72-40bf-a5f9-48e6f6d0ae69",
+      "710235aa-364f-4036-8ce1-8547a2a65444" 
+ 
+    ]
+  },
+  {
+    "Id": "6b428914-d9fe-4c8a-90b9-8a4acad4328a",
+    "Title": "Networking Fundamentals",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "52778550-6215-4250-906a-1d8a3d1c15ba",
+ "e8443792-6c1a-484d-b95c-9f59f68f3b98",
+ "9e63b1fb-2ec8-42e9-83ea-5c3aa381cd43",
+ "65eab798-15c5-43b4-8a91-eb11a66165e9"
+    ]
+  },
+  {
+    "Id": "a6cad5bf-b278-47bd-a512-a75665c1cd80",
+    "Title": "Network Security",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "39badb4a-e30d-48ac-9538-d4cce334538f",
+ "9329c148-92e1-4f40-bba4-1983b4f3c7ae"
+    ]
+  },
+  {
+    "Id": "54c50d6a-7f98-46a9-afd7-763c616b1d0e",
+    "Title": "Internet Protocols Fundamentals",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "cf1c38cb-3f0e-48b8-be2a-ba8d3f1c3fa6",
+"2cf14bde-9988-470b-b010-fbccbc409e46",
+"0a7b95f0-f747-42fb-b4c0-a02562b61f74",
+ "4bf7f671-c435-47ed-adcc-1491e6f2bac2",
+ "cd9ed3bb-1194-46d3-974a-dd8f65600098",
+ "a5c45343-36c5-444d-bd21-ff8675a462ee"
+    ]
+  },
+  {
+    "Id": "88062402-68f8-4beb-8270-8ac1be442513",
+    "Title": "Stage 1- Information Gathering",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "37ed2cf2-0f5c-4ae5-863a-37f9b989d970"
+    ]
+  },
+  {
+    "Id": "301b0a33-7db3-4387-9639-ff4abcf14c4a",
+    "Title": "Stage 2 - Scanning",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "54b7040f-091b-463d-bf49-1dfaffdbcf51"
+    ]
+  },
+  {
+    "Id": "b8e9afa3-0195-401b-94c8-8f55c9f65430",
+    "Title": "Stage 3 - Manual pentest",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "507f3af9-212b-4098-b527-3d285d46e848"
+    ]
+  },
+  {
+    "Id": "8013faae-1ae1-4ac3-b3f4-28b0221332cd",
+    "Title": "Stage 4 - Exploitation",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "ec1a71b7-0b14-4050-944e-e4ba0430d3b0"
+    ]
+  },
+  {
+    "Id": "aae0ea3f-8280-4d50-b3ff-152aee42c2dd",
+    "Title": "Stage 5 - Reporting",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "eb7eb267-114d-4555-a8be-07115e86d700"
+    ]
+  },
+  {
+    "Id": "9d3832f7-874a-40b8-9561-f1ca36cb889f",
+    "Title": "Stage 6 - Remediation and Continuous Monitoring",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "783df78e-178c-44b1-a197-b3c75caf560d"
+    ]
+  },
+  {
+    "Id": "c84d533c-1172-4e2e-8298-1b302b976f34",
+    "Title": "OWSAP TOP 10",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f838c09e-e9f3-4071-9dc0-d0e2fd02d8b1",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "9d93d943-f7fc-4aed-9495-f48e78f3ef5f",
+ "7cf429c9-47bb-4c4f-8844-eb05be9f439f",
+ "2ba33d0a-8ed5-4dcd-ab55-217ae512e601",
+ "0d1163fb-4c6e-48d9-8499-f76daa1e2553",
+ "519a9eea-5a49-454c-a5c5-83594eac8a06",
+ "db1db1ac-f96d-46bc-a28a-6c8992e1350d",
+ "8fb815e0-7775-4f0a-a882-794ee49448fb",
+ "e839fb62-2fd6-44a6-88f8-ab0a8a2c02e0",
+ "4c623051-9736-4747-b0a8-edc529b294ff",
+ "3f7460e9-4c69-474d-98df-94925c2c3f5c",
+ "b8855044-da69-4f53-81c0-3951539546e8"
+    ]
+  },
+  {
+    "Id": "ae359454-033c-47a2-a8a9-8a0b3e98eb00",
+    "Title": "SANS Top 25",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f838c09e-e9f3-4071-9dc0-d0e2fd02d8b1",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "ed8dee49-0914-47fa-9917-fba1f1d7eb1c",
+ "ca808671-81d2-4af7-8c99-96fd402f4d2e",
+ "f9eef5bd-7fc2-43aa-9aa9-d05857e4edf7",
+ "294d628b-51c2-4391-8884-3b9144288290"
+    ]
+  },
+  {
+    "Id": "03c4c0b4-2220-4f00-9b2e-3f32bef06afa",
+    "Title": "HSTS Enforcement",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+     "Description":"",   
+     "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "2340a6c6-fe8d-4bc4-a483-661118608e1c"
+    ]
+  },
+  {
+    "Id": "7bf036ed-c4ca-4826-9562-7924275d6ce6",
+    "Title": "Cookie Management",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "e31926bb-a76e-4d79-8c76-2874d58e3540"
+    ]
+  },
+  {
+    "Id": "88765fc4-dec7-44c7-ab7d-def62dfbad50",
+    "Title": "Session Management",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "116fa1f1-4927-4661-9ded-6181d1217110"
+    ]
+  },
+  {
+    "Id": "df519ab9-fc2f-4de3-8851-57a2fb6306a0",
+    "Title": "Brute Force Attacks",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "cb5f6d28-7240-492a-bb8c-5d37d9e07011"
+    ]
+  },
+  {
+    "Id": "00627e6f-29d4-4d37-b5f6-3eecbcf98702",
+    "Title": "Cross-Site Scripting (XSS)",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "7c54e2ed-8d25-4f0d-9ca5-9d78dad6262d"
+    ]
+  },
+  {
+    "Id": "8332f467-85b0-4f17-b393-f734371465eb",
+    "Title": "Cross-Site Request Forgery (CSRF)",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "d3a05c85-f92d-4f1a-89dd-1318c40ec455"
+    ]
+  },
+  {
+    "Id": "6b9f6cb2-df49-48bd-92af-ed508bc4af72",
+    "Title": "SQL Injection",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "617eff16-cc02-4d07-903f-ddf2b1d6c300"
+    ]
+  },
+  {
+    "Id": "cdf27e21-a612-43d5-9072-4f09e83a9b4c",
+    "Title": "File Upload Security",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "f0f9ea80-12cd-4b37-a0c0-9213a94975ac"
+    ]
+  },
+  {
+    "Id": "275e3ab7-6dcd-40f0-81ef-643ebbd306b6",
+    "Title": "XML External Entity (XXE)",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "ceeaae57-5228-4b2d-ba65-e8704417991b"
+    ]
+  },
+  {
+    "Id": "e6116f15-113b-4641-ae6f-5415ca6abb40",
+    "Title": "Clickjacking",
+    "Image": "images/playlists/access-intro-to  -access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "3eb9b0bb-9be7-43cc-ae83-8c9af5f6189a"
+    ]
+  },
+  {
+    "Id": "04453869-2c1d-4e60-b066-1158f256fd51",
+    "Title": "Content Security Policy (CSP)",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
+    "Description":"", 
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "6a33b127-c89f-4284-9e48-397d6dc51497"
+    ]
+  },
+  {
+    "Id": "fa7846b9-ed93-4041-86b5-231f2389cc0d",
+    "Title": "Kali linux",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "c7e2e118-915d-49de-bae5-5b56ded2a77d",
+ "ff36716f-33fb-492a-af16-80cf69cfc235"
+    ]
+  },
+  {
+    "Id": "b15fe6af-3956-4913-a553-aaa5b8caeee6",
+    "Title": "Network Scanning",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "b54af041-561f-4515-a76c-0c28911aab8e",
+ "29336c38-97d6-49e8-b903-797712a323a1"
+    ]
+  },
+  {
+    "Id": "7714f710-a217-4225-ae6d-4a05dfd70879",
+    "Title": "Web proxy tools",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "599daf85-a10f-457c-b672-9ac2bf4a2c5b",
+ "991929c3-d2ef-4cf9-8572-c8f4908007fb"
+    ]
+  },
+  {
+    "Id": "cc7bb8ac-af9e-4374-b4af-f0dc2166c0bd",
+    "Title": "Web Vulnerability scanner tools",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
+    "Description":"",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "8e5c7a3c-0e9c-4a1c-9d0a-cd2b4ed95572",
+ "de15121a-bd3f-4039-80f4-0a3858e19f93"
+    ]
   }
+
 ]
