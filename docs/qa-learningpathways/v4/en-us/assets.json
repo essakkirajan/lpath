@@ -67,7 +67,7 @@
   },
   {
     "Id": "6f10717d-1319-4e2a-befc-4ed8255a1094",
-    "Title": "Software Testing-An Introduction",
+    "Title": "Software Testing",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploring-Dynamic-Testing-Approaches.aspx?csf=1&web=1&share=ETWOIS8i-oBCm1mOBimz88YBauFAEjXCgl1XReyPnhGh6Q&e=HgOc0w",
     "TechnologyId": "",
@@ -89,7 +89,7 @@
   },
   {
     "Id": "922ab84e-4077-440c-adbb-88749d9034d5",
-    "Title": "Delving into Root Cause Analysis",
+    "Title": "Root Cause Analysis",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Delving-into-Root-Cause-Analysis.aspx?csf=1&web=1&share=EQqFFb6K3GRJkHIPk7DI_kwB0gYGH5MxIgx3pd-DIGDLjg&e=EZYCgu",
     "TechnologyId": "",
@@ -111,7 +111,7 @@
   },
   {
     "Id": "fdb5321b-b173-47d4-99ed-04a2f401e600",
-    "Title": "Exploring Exploratory Testing Techniques",
+    "Title": "Key Concepts of testing",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploring-Exploratory-Testing-Techniques.aspx?csf=1&web=1&share=EU3PxkdU9ZxPl1zvwOu6QScBFyTkhMCUf15ymz7Qh-0w8w&e=eG59XE",
     "TechnologyId": "",
@@ -990,10 +990,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "314cfd6f-dfb0-44f6-8bf5-8d7c2f4f4332",
-    "Title": "Organize slides into sections",
+    "Id": "3b975f8a-6db3-4afc-bc29-9ffd5b43d37d",
+    "Title": "Framework and Libraries",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/314cfd6f-dfb0-44f6-8bf5-8d7c2f4f4332?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Framework-and-Libraries.aspx?csf=1&web=1&share=ET-Bid9rOL1AvSsJe4j9BoIBKePPMqqAhhjqmXQbqP3chQ&e=Ao2Jx1",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1001,10 +1001,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "318bf5a5-460c-4fe4-b134-dac2aba286fe",
-    "Title": "Format pictures on slides",
+    "Id": "bc118552-5f48-46fb-9705-81d7b1822384",
+    "Title": "Prerequisites and getting started with Playwright",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/318bf5a5-460c-4fe4-b134-dac2aba286fe?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-about-Configuration-and-Commands.aspx?csf=1&web=1&share=EXrNPQr1Ap5Gku--KgCX9AABNvJ5UBPqgLiOHNbmt69W9g&e=Vx6d0y",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1012,10 +1012,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "348304c7-1429-4db7-9bcb-97655884a06d",
-    "Title": "Customize the app launcher",
+    "Id": "621ef3b8-c43e-4f53-a340-29efeb851043",
+    "Title": "Learn about Configuration and Commands",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/348304c7-1429-4db7-9bcb-97655884a06d?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-about-Configuration-and-Commands.aspx?csf=1&web=1&share=EXrNPQr1Ap5Gku--KgCX9AABNvJ5UBPqgLiOHNbmt69W9g&e=9frB9U",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1023,10 +1023,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "350de24f-e3c6-4fd5-bb3b-127fb32f18ff",
-    "Title": "Add and format lists",
+    "Id": "577d5cca-6b6f-4a55-8b41-1f9777a8b818",
+    "Title": "Create First script with codegen",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/350de24f-e3c6-4fd5-bb3b-127fb32f18ff?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-about-Configuration-and-Commands.aspx?csf=1&web=1&share=EXrNPQr1Ap5Gku--KgCX9AABNvJ5UBPqgLiOHNbmt69W9g&e=9frB9U",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1034,10 +1034,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
-    "Title": "Welcome to Microsoft 365",
+    "Id": "20b13f5e-9692-4669-b58c-8ee975ff870a",
+    "Title": "Learn to define Locators",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/378767af-7ac3-4d68-9d0f-709b6948a76b?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-to-define-Locators.aspx?csf=1&web=1&share=EVQGbeNnwuFAin980ylr8G4BflnJx6GMEgDXKaSXTFqtOw&e=XsMVZQ",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1045,10 +1045,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "36ccdd4c-6858-4ede-8e4a-e571e857352a",
-    "Title": "Add and change picture effects",
+    "Id": "75e86db2-21dc-4b63-a142-5770ea68d33d",
+    "Title": "Creating own script",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/36ccdd4c-6858-4ede-8e4a-e571e857352a?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Creating-own-script.aspx?csf=1&web=1&share=EclTSLai9EFDiVr7Un9t55EBZtVOQ7wzgjROkfi7dAZcIQ&e=q4clA2",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1056,10 +1056,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3c7dd576-cbd2-449f-8bb6-f33912c05038",
-    "Title": "Get the most out of Office 365 on Android phones and tablets",
+    "Id": "4fecab3e-13d6-4c26-a0e1-371dab3c4fc4",
+    "Title": "Test case, suite and hierarchy",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/3c7dd576-cbd2-449f-8bb6-f33912c05038?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-case,-suite-and-hierarchy.aspx?csf=1&web=1&share=ERQwYU4IBKFAumYjlUWi0OcBeAG9Es2A_NtjJNsjR-xQqA&e=48QlPC",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1067,10 +1067,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3d38374f-6557-454e-990b-01343aeed052",
-    "Title": "Why drive adoption?",
+    "Id": "0dfe1e00-1d33-44b4-b623-f80c2ffd423d",
+    "Title": "Execution and Interpreting default report",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/5ddb17ee-6a72-48e8-a13e-6ec776fdc29d?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Execution-and-Interpreting-default-report.aspx?csf=1&web=1&share=EQmin2G4AHVDuaISGHBeTx8BVHl_KH639sc9ZnR-8DbdnQ&e=JE503E",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1078,10 +1078,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3e0d1265-ef57-4a1e-a37e-bbebe7063202",
-    "Title": "Find your Champions",
+    "Id": "60dbd193-4c62-44ae-bd43-359cbc9dbe45",
+    "Title": "Basic Programming Concepts",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/c815d09e-c5c7-4f64-9345-3b104bda8004?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Basic-Programming-Concepts.aspx?csf=1&web=1&share=Efn4uxDLqahIqQVayX80VXYBLF-YgXIdiDqDS918V6i3TQ&e=dRkpba",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1089,10 +1089,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3e42e8d8-89e8-4345-a79c-524a815f40ce",
-    "Title": "Merge and split table cells",
+    "Id": "fa240cd5-0d88-46c3-9929-b04e930b60ef",
+    "Title": "Learn from failures- Possible Errors in creating test script",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/3e42e8d8-89e8-4345-a79c-524a815f40ce?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-from-failures--Possible-Errors-in-creating-test-script.aspx?csf=1&web=1&share=EXJ9sSVb7hdKvkhs2_uzp6UBDik9su4z1Mrpl_paT4X6cw&e=VMIP1D",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1100,10 +1100,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3eb2554d-a4e0-4ae4-9609-1c06913127e1",
-    "Title": "Work on the web",
+    "Id": "ab49603f-abdc-47ac-be7a-a81ad88fd2af",
+    "Title": "Integrating Allure and Monocart Report",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/4e035176-eec1-400c-a10e-d6605cb873b6?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Integrating-Allure-and-Monocart-Report.aspx?csf=1&web=1&share=EUJ-bPeemQlEqTZq9s-Cq1IBz9-sdr4_2HMKAVM-R8G0FQ&e=kU1oH9",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1111,10 +1111,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3f008f2a-c7f2-4183-8635-61375cef1062",
-    "Title": "Best practices for collaborating: Co-author",
+    "Id": "bf8ea698-a3b3-4ae8-8a37-221ca7430def",
+    "Title": "Customising Reports",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/b85eef71-e96b-4325-9501-228588728bc9?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Customising-Reports.aspx?csf=1&web=1&share=EWOGTS0qzZtMvX75aU4_VB8BTsC2hA9CsCxJsx54sMKUiQ&e=DBlgDk",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1122,10 +1122,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3f9b241c-b12d-4527-a391-0dab21170b29",
-    "Title": "Get to know Power Query",
+    "Id": "e155e041-b7b8-43e4-9b28-a8c6f348e9fd",
+    "Title": "Handling Backend requests",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/3f9b241c-b12d-4527-a391-0dab21170b29?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Handling-Backend-requests.aspx?csf=1&web=1&share=ETB4XfedJkRMnOlN5H761aYBhaUUJI6eiGOEz-UFU3Z-WA&e=ENE5k6",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1133,10 +1133,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3faf8a07-26ed-4b76-b6a0-43cca013e6d3",
-    "Title": "Track changes in Word",
+    "Id": "3359170e-d960-4ee8-a61f-b948208cf1f6",
+    "Title": "POM",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/3faf8a07-26ed-4b76-b6a0-43cca013e6d3?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/POM.aspx?csf=1&web=1&share=EdHXXUvl0FBKlnCinryyJKUBPMYeCCRqmtdCNhDssIptZQ&e=oKy9oX",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1144,10 +1144,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "3fbd2586-f747-4c2d-9c01-b72b56034b4a",
-    "Title": "Change your Office 365 for business password",
+    "Id": "f885a790-51fa-42d4-88db-4a1b2e130daa",
+    "Title": "Data Driven Concepts",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/df48c24e-d036-4d72-987f-b6197f618619?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Data-Driven-Concepts.aspx?csf=1&web=1&share=EasIqAg-HgFOrawLfnQlJMsBfiXdGVjVCOAOd44UN34ahA&e=67R8o6",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1155,10 +1155,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "41684255-24dc-4078-92c2-9a05f6684f63",
-    "Title": "Intro to Office Basics",
+    "Id": "95f697ae-19e9-41f9-813f-eb8c4558b885",
+    "Title": "Annotations, Assertions in Playwright",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/92d238e6-0ae2-447e-af90-40b1052c4547?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Annotations,-Assertions-in-Playwright.aspx?csf=1&web=1&share=EZ-t0YdThWVMp0eSgbdBotYB6RQKXJ1eivezdyKjPBgtxA&e=nZ5dVM",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1166,10 +1166,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "41bc6777-3b46-4984-bc5b-615ea7786ab1",
-    "Title": "Rotate or flip objects",
+    "Id": "9831670f-ca61-4968-aeca-a24500711f67",
+    "Title": "Introduction to UI testing with Playwright",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/41bc6777-3b46-4984-bc5b-615ea7786ab1?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Introduction-to-UI-testing-with-Playwright.aspx?csf=1&web=1&share=EfefLoqyVBVCsDz1heTVeGkBAXO11rO4OT0BonAVtIC1ZA&e=aO847C",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1177,10 +1177,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "490e418e-cb57-40da-8d5b-b722a5da891f",
-    "Title": "Add and delete table rows and columns",
+    "Id": "667bc441-7b68-4f97-9dd9-8aaf0833a66d",
+    "Title": "Built-in methods of Playwright",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/490e418e-cb57-40da-8d5b-b722a5da891f?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Built-in-methods-of-Playwright.aspx?csf=1&web=1&share=EW1GLW8urUxPmf7-9Ia0BxMB1irlWjW8me2nKBR1pd2Y1g&e=AMPSv5",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1188,10 +1188,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "4a358470-a1a3-4796-84ec-45adf4895473",
-    "Title": "Step 4: Work with your team",
+    "Id": "c88e35a0-0761-47f1-8428-5597025ead19",
+    "Title": "Introduction to API testing with Playwright",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/4a358470-a1a3-4796-84ec-45adf4895473?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Introduction-to-API-testing-with-Playwright.aspx?csf=1&web=1&share=ERruUgVAig1LjEL-KFhbvXoBq7yK-SovXA76o8U6ND2Hzg&e=YrkPyN",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1199,10 +1199,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "4ca4f40e-f9ee-4554-aa6d-e00687977875",
-    "Title": "Create and edit files",
+    "Id": "2786d630-5a88-4fc2-88c9-749027e52ffe",
+    "Title": "Practice - API Testing",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/4ca4f40e-f9ee-4554-aa6d-e00687977875?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Practice---API-Testing.aspx?csf=1&web=1&share=EZehTs4d9exAvhTsbxljxGkBOKY9LWlJjH5LVpCGyiZ4HA&e=O1u0NJ",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1210,10 +1210,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "4d452495-f8c0-4b15-bac3-8015a8adbe0e",
-    "Title": "Add, reply to, or delete comments",
+    "Id": "37613352-a529-43ab-8f5e-d8e53e418ca1",
+    "Title": "Advantages and Challenges",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/4d452495-f8c0-4b15-bac3-8015a8adbe0e?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Advantages-and-Challenges.aspx?csf=1&web=1&share=EUqWQeA--aZHkrl7xf9xjQUBKLpEiWqMlygPdjX0efgoMA&e=AxuleM",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1221,10 +1221,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "500d26ea-1f1f-4b6c-a2b7-a44213fca4ec",
-    "Title": "Create in Microsoft 365 for business",
+    "Id": "bfa2e2ab-c201-4588-b40d-e671a1d1e0d0",
+    "Title": "Libraries",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/500d26ea-1f1f-4b6c-a2b7-a44213fca4ec?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Libraries.aspx?csf=1&web=1&share=EenNyAQ7RPNKtezSpRqPIhYB51L_uCX0wCh2YpGcGu784Q&e=zGW611",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1232,10 +1232,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "505ac90e-bdb8-4dbe-9220-861feb1d6403",
-    "Title": "Restrict changes to files",
+    "Id": "e4adbee1-4730-4bad-aac7-ac6e07325bc1",
+    "Title": "Marketplace Integrations",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/505ac90e-bdb8-4dbe-9220-861feb1d6403?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Marketplace-Integrations.aspx?csf=1&web=1&share=EZVuYX2K2HdNq33_IfjI7xkBz8fthloB4h5fhVZn0KpdLw&e=w4z4i6",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1243,10 +1243,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "5084480d-5ee5-4a39-8ae2-64bb14a732a0",
-    "Title": "Move, resize, and rotate pictures",
+    "Id": "c162e435-66fb-46d0-ad60-048361d4930d",
+    "Title": "Empty job/ YAML",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/5084480d-5ee5-4a39-8ae2-64bb14a732a0?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Empty-job--YAML.aspx?csf=1&web=1&share=EQmr7WADyXRIjXZgO2JEaCgBQBjzddgPQpdtrno11vDtnA&e=onI6ra",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1254,10 +1254,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "519ad2a0-9b74-49bb-97ee-0d4c4494a7c5",
-    "Title": "Meet in a channel",
+    "Id": "6d976581-9a40-4b73-a267-95b045c07f60",
+    "Title": "Standalone pipeline execution",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/519ad2a0-9b74-49bb-97ee-0d4c4494a7c5?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Standalone-pipeline-execution.aspx?csf=1&web=1&share=EapDCNM9JO9JrHTUFcOaHDQBYlOaC8puMZSSCVmwn-A6Ew&e=shFxMQ",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1265,10 +1265,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "51a6abf0-6f5b-4092-9872-5b517c5a8bd8",
-    "Title": "Create and organize teams",
+    "Id": "e9a3d666-8753-4da3-9d92-f20c37538655",
+    "Title": "Integrating with CI/CD Pipeline",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/ea9aa9c2-ae29-44ca-b838-4424b4daa44d?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Integrating-with-CI-CD-Pipeline.aspx?csf=1&web=1&share=EdRo2iILNuBMj0pqcyOFd-QBkoqNdiHP7iRF3d8zoYUb8A&e=laawIR",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1276,10 +1276,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "56d8b2d3-2f31-4f50-abae-6154c1f969a9",
-    "Title": "Group or ungroup objects",
+    "Id": "a245473e-130d-4ea6-9662-108da66284f4",
+    "Title": "Publishing Artifacts",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/56d8b2d3-2f31-4f50-abae-6154c1f969a9?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Publishing-Artifacts.aspx?csf=1&web=1&share=EUl7hPofOEpAvH9jONOykdMBOPIlHy7ctFv18Z0ifhxhCw&e=cVXWHz",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1287,10 +1287,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "56e60c2b-1929-4a04-bd9b-ff5b844364f3",
-    "Title": "Sign in and install",
+    "Id": "d6fe1661-52fd-4562-8f68-16d6c7da4da0",
+    "Title": "Learn from mistakes- Possible Errors ",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/56e60c2b-1929-4a04-bd9b-ff5b844364f3?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-from-mistakes--Possible-Errors.aspx?csf=1&web=1&share=EXsuA6tF7bhOo-8u3do1toUBMcvoOcn65jkEe7h0BCXBSg&e=OlRXT2",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",

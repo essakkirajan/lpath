@@ -990,17 +990,6 @@
     "StatusNote": ""
   },
   {
-    "Id": "275ae1c5-9488-4f9c-82e1-c49420eb2ccf",
-    "Title": "Principles and Phases",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Principles-and-Phases.aspx?csf=1&web=1&share=EURqevl1nPRJo52OyzSHiA8BMoAB9EKZ0wgTZn0TDZerAQ&e=Ih0eFq",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
     "Id": "808ba381-a12e-4851-a11e-da7aad462245",
     "Title": "Agile Methodology",
     "Description": "",
@@ -1760,10 +1749,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "a78606bb-a15f-4f3e-8892-63f735cc1f6a",
-    "Title": "Use the Tasks app in Teams",
+    "Id": "b98ddab2-973c-4699-930c-b675c4a6e743",
+    "Title": "Check Your Knowledge",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/e32639f3-2e07-4b62-9a8c-fd706c12c070?embed=true",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Check-Your-Knowledge.aspx?csf=1&web=1&share=ES1THA9snLpLkCmiJgC_q8sBBugZxcU6k4cHW-0FvKJgxg&e=1507gx",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
