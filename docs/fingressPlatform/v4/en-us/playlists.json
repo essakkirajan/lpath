@@ -1,6 +1,6 @@
 [
   {
-    "Id": "",
+    "Id": "600f4322-79bf-42a1-9290-a671aed48b04",
     "Title": "Playlist Title",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -12,8 +12,11 @@
     "Description": "Give Description",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [
-      ""     
+    "Assets": ["8615a902-c26a-45f0-89d2-c0144e225143",
+      "9c01f507-2c94-4537-83a3-0dfd17669c4f",
+      "b4c387de-e3a4-415a-896b-31c0db443541",
+      "cbdcb819-aab5-45c8-813d-58aeebc57fe9"
+
     ]
   },
 

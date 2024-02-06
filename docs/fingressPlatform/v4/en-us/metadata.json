@@ -61,15 +61,15 @@
   "Categories": [
     {
       "Id": "820de009-b07e-48c8-8a10-f22628ceeac2",
-      "Name": "Category",
+      "Name": "Gateway to mastering Fingress",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "",
-          "Name": "subcat",
+          "Id": "7126a2a7-66a1-4236-b158-bfe1ed010a7e",
+          "Name": "Fingress Platform Foundation",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -77,8 +77,8 @@
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "subcat",
+          "Id": "5a986f43-441f-481a-9ac0-e3fcf44fe571",
+          "Name": "Elevating Fingress Infrastructure",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -86,8 +86,8 @@
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "subcat",
+          "Id": "33c49479-27f7-481b-84c1-ae4675651574",
+          "Name": "Installation,Deployments ,configuration",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
