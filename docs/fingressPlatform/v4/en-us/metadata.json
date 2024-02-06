@@ -61,24 +61,24 @@
   "Categories": [
     {
       "Id": "820de009-b07e-48c8-8a10-f22628ceeac2",
-      "Name": "Category",
+      "Name": "Gateway to mastering Fingress",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "",
-          "Name": "subcat",
+          "Id": "7126a2a7-66a1-4236-b158-bfe1ed010a7e",
+          "Name": "Fingress-Low Code - No Code Platform",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Fingress Platform",
+          "Source": "Fingress-Low Code - No Code Platform",
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "subcat",
+          "Id": "5a986f43-441f-481a-9ac0-e3fcf44fe571",
+          "Name": "Elevating Fingress Architecture",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -86,8 +86,8 @@
           "SubCategories": []
         },
         {
-          "Id": "",
-          "Name": "subcat",
+          "Id": "33c49479-27f7-481b-84c1-ae4675651574",
+          "Name": "Setting Up and Configuring Platforms, Apps, and Services",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -97,43 +97,42 @@
       ]
     },
     {
-      "Id": "320d8311-719f-4a86-bf6a-ddd536daf846",
-      "Name": "Category",
+      "Id": "e2307705-0069-4717-9961-2a8ebf089ba6",
+      "Name": "Exploring Tools",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "",
-          "Name": "",
+          "Id": "f61de3b3-05bc-42d3-966a-9617a50b92a4",
+          "Name": "Fingress Studio",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+
+        {
+          "Id": "7c2f7879-3954-430d-a912-200f7ade7db3",
+          "Name": "Command Line Chronicles: A CLI Adventure",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+
+        {
+          "Id": "f0a86cfe-9a58-436d-81ea-7e070d0f566e",
+          "Name": "Implementing DevOps Practices at Fingress: Empowering the Team",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
         }
-      ]
-    },
-    
-    
-    {
-      "Id": "",
-      "Name": "Category",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Fingress Platform",
-      "SubCategories": [
-        {
-          "Id": "",
-          "Name": "Testing",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        } 
       ]
     }
   ],

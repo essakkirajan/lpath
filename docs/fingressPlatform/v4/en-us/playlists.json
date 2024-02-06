@@ -1,38 +1,172 @@
 [
   {
-    "Id": "",
-    "Title": "Playlist Title",
+    "Id": "600f4322-79bf-42a1-9290-a671aed48b04",
+    "Title": "Introduction-Fingress  Platform",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "Subcategory ID",
+    "CatId": "7126a2a7-66a1-4236-b158-bfe1ed010a7e",
     "Description": "Give Description",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [
-      ""     
+    "Assets": ["8615a902-c26a-45f0-89d2-c0144e225143",
+      "9c01f507-2c94-4537-83a3-0dfd17669c4f",
+      "b4c387de-e3a4-415a-896b-31c0db443541"
+      
+
     ]
   },
 
   {
-    "Id": "",
-    "Title": "Playlist Title",
+    "Id": "2b635a74-16e2-4874-8451-5c794fccd582",
+    "Title": "Overview of Platform Development",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "c328dfd4-f825-4ca8-80b9-2cd7ba287fc2",
+    "CatId": "7126a2a7-66a1-4236-b158-bfe1ed010a7e",
     "Description": "Give Description",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "",
-      ""
+       "cbdcb819-aab5-45c8-813d-58aeebc57fe9",
+      "a0944d4e-9818-4fa8-b232-944e8166e05b",
+      "8d4454c3-a4c7-43e1-b40b-2cf8f39dc5a8",
+      "bd1cd2ae-9baa-4aed-afd3-b7996c125f19",
+      "74541ffc-e29a-49e2-8fa4-cf16edbbb320",
+      "704df4a2-76ef-4695-ba27-2adcc9a8b04c",
+      "8ca0b7a8-1bcf-4fa3-869c-66c7317e34a7"
+    
+    ]
+  },
+
+
+    {
+    "Id": "dc54111a-d164-4416-9b8d-8a4062718600",
+    "Title": "Exploring Platform Capabilities through Use Cases and Applications",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "7126a2a7-66a1-4236-b158-bfe1ed010a7e",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "db561a24-3fec-4e32-bc29-c47aa22186c2"
+    
+    ]
+  },
+ 
+  {
+    "Id": "316dbe16-e8d3-498a-99a3-353bfc2b4a8b",
+    "Title": "Pre-requisites for the Platform",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "5a986f43-441f-481a-9ac0-e3fcf44fe571",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "7cd81113-03c2-40e7-895a-4fa7d60973ef",
+      "7518ede5-fc0e-45c1-b943-fe568e347ec5",
+      "30e6b72d-a8b9-4e91-9a78-edb234dd0348",
+      "babbf42d-2b07-4a56-9129-f08aeac02f6a",
+      "2ed5faf2-1cd7-4b35-b1ad-1a0baf575bdd",
+      "11ace4b0-941c-480b-8e44-c04f7f17e494",
+      "bd5c7a00-3006-4ae7-a040-717a6c3f8291"
+    
+    ]
+  },
+
+  {
+    "Id": "b64b7ed7-3089-459f-978d-9943568f7f59",
+    "Title": "SDK and Customization",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "5a986f43-441f-481a-9ac0-e3fcf44fe571",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "8f8dddd6-e58c-48b5-adb8-636b0eab7585",
+      "44218364-9794-47c0-84f1-bcc75c5ad5bf"
+    
+    ]
+  },
+
+  {
+    "Id": "daf65d6e-eafb-4945-82d3-57075cfe09cf",
+    "Title": "Configuring Environment and database",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "33c49479-27f7-481b-84c1-ae4675651574",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "34f33c3e-3430-4fdb-a62a-970b3b77d2e2",
+      "5ff11af4-16f5-4b61-8bc6-b0bddb50b440"
+    
+    ]
+  },
+
+  {
+    "Id": "c244286d-a2f9-4fec-84da-eea32b4daf43",
+    "Title": "Installation and Deployment",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "33c49479-27f7-481b-84c1-ae4675651574",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "6c88c8f3-94a0-478a-b320-de5705d2586a",
+      "c8882d33-82c3-4f30-ac46-9687fa3829d4",
+      "22100eac-ad13-43e1-9482-78b0bbd20f1f",
+      "b78596ad-d59a-4b17-b786-4e6d6591cab7"
+    
+    ]
+  },
+
+  {
+    "Id": "a5269eac-8555-40ea-8ea2-6e4faac6c15d",
+    "Title": "Configurations",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "33c49479-27f7-481b-84c1-ae4675651574",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "276c7173-c0f8-48d4-a968-3e5cf812ce26"
     
     ]
   }

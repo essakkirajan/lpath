@@ -1,7 +1,315 @@
 [
   {
-    "Id": "",
-    "Title": "",
+    "Id": "8615a902-c26a-45f0-89d2-c0144e225143",
+    "Title": "Introduction to Low code no code Platforms",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "9c01f507-2c94-4537-83a3-0dfd17669c4f",
+    "Title": "Platform Overview",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "b4c387de-e3a4-415a-896b-31c0db443541",
+    "Title": "Basic Concepts ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "cbdcb819-aab5-45c8-813d-58aeebc57fe9",
+    "Title": "Building Blocks",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "a0944d4e-9818-4fa8-b232-944e8166e05b",
+    "Title": "Data Integration ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8d4454c3-a4c7-43e1-b40b-2cf8f39dc5a8",
+    "Title": "User Interface Design ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "bd1cd2ae-9baa-4aed-afd3-b7996c125f19",
+    "Title": "Workflow Automation ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "74541ffc-e29a-49e2-8fa4-cf16edbbb320",
+    "Title": "Testing and Debugging ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "704df4a2-76ef-4695-ba27-2adcc9a8b04c",
+    "Title": "Deployment and Maintenance ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8ca0b7a8-1bcf-4fa3-869c-66c7317e34a7",
+    "Title": "Platform Enhancements-custom code and APi Integration ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "db561a24-3fec-4e32-bc29-c47aa22186c2",
+    "Title": "Use Cases and Examples ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+    {
+    "Id": "7cd81113-03c2-40e7-895a-4fa7d60973ef",
+    "Title": "Exploring Essentials ",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "7518ede5-fc0e-45c1-b943-fe568e347ec5",
+    "Title": "Platform Data dictionary",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "30e6b72d-a8b9-4e91-9a78-edb234dd0348",
+    "Title": "Core Framework",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "babbf42d-2b07-4a56-9129-f08aeac02f6a",
+    "Title": "Shared Libraries",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "2ed5faf2-1cd7-4b35-b1ad-1a0baf575bdd",
+    "Title": "Fingress Services",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "11ace4b0-941c-480b-8e44-c04f7f17e494",
+    "Title": "Fingress Applications",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "bd5c7a00-3006-4ae7-a040-717a6c3f8291",
+    "Title": "Mobile Applications",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "8f8dddd6-e58c-48b5-adb8-636b0eab7585",
+    "Title": "Software Development Kit",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "44218364-9794-47c0-84f1-bcc75c5ad5bf",
+    "Title": "Customization",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "34f33c3e-3430-4fdb-a62a-970b3b77d2e2",
+    "Title": "Environment Configuration",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "5ff11af4-16f5-4b61-8bc6-b0bddb50b440",
+    "Title": "Setting up of database",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "6c88c8f3-94a0-478a-b320-de5705d2586a",
+    "Title": "Installation of Applications and Services",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "c8882d33-82c3-4f30-ac46-9687fa3829d4",
+    "Title": "Service Deployment",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "22100eac-ad13-43e1-9482-78b0bbd20f1f",
+    "Title": "App Deployment",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "b78596ad-d59a-4b17-b786-4e6d6591cab7",
+    "Title": "Deployment Strategies",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "276c7173-c0f8-48d4-a968-3e5cf812ce26",
+    "Title": "Configuring apps and services",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
