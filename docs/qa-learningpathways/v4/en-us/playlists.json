@@ -364,6 +364,27 @@
     ]
   },
 
+  
+  {
+    "Id": "68404179-1142-45e9-9c40-26a6be36ec5b",
+    "Title": "Non-Functional Tests",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c328dfd4-f825-4ca8-80b9-2cd7ba287fc2",
+    "Description": "Discover the art of skillfully directing test runs, seamlessly navigating from bug identification through the execution process to comprehensive reporting, ensuring a robust and insightful testing journey.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "b3182a75-eee8-4b08-8890-dedc6d857f26",
+      "285c24ab-85cb-4c22-b803-993e11cce5e7",
+      "904f4669-725e-47e3-9694-4c3b8b461597"
+    ]
+  },
+
   {
     "Id": "7b72ffd6-afff-4e6d-a7fe-5123c254cfce",
     "Title": "Installation & Configuration",

@@ -183,7 +183,7 @@
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
           "Name": "Navigating the Test Tool Landscape",
           "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -232,7 +232,7 @@
       "Id": "509a600b-eca5-4594-8cc5-84b7cc94b780",
       "Name": "Automating Tests with Playwright",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -249,7 +249,7 @@
           "Id": "c35db39b-852b-4d7d-8b6f-691e04846a31",
           "Name": "Create your script",
           "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
