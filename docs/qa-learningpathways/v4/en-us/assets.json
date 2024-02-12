@@ -209,28 +209,6 @@
     "StatusNote": ""
   },
   {
-    "Id": "29a5dfb0-2903-4321-9b9d-6c53b6de1a14",
-    "Title": "Agile Testing Methodology",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Agile-Testing-Methodology.aspx?csf=1&web=1&share=EZlEBoYV8d5NkQzh5XlZz1wBLiF8xBc_8J5u6hIwNkY1xw&e=hQMw2t",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "45986cee-de68-4868-9223-fb679671ec21",
-    "Title": "Kanban Framwork",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Kanban-Framwork.aspx?csf=1&web=1&share=EWce9-B-68FMucrWvOw4aVsB4FtttXCtj2Vh1q1ABSfs2g&e=EQs2Lb",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
     "Id": "864efee4-0901-4b0a-bbb0-6fddeb7508b3",
     "Title": "Shift-Left Testing: Benefits and Implementation",
     "Description": "",
