@@ -63,7 +63,7 @@
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Introduction",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -71,7 +71,7 @@
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
           "Name": "Organizational Structure and Processes",
           "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -80,7 +80,7 @@
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
           "Name": "Facilities and Safety",
           "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -89,7 +89,7 @@
           "Id": "30d9a77a-d890-4c4f-9eb0-5bef4386fa25",
           "Name": "Benefits",
           "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -100,7 +100,7 @@
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Employee Development and Communication",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -117,7 +117,7 @@
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
           "Name": "Performance and Standards",
           "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -129,7 +129,7 @@
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
       "Name": "Workplace Skills and Development",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -137,7 +137,7 @@
           "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
           "Name": "Corporate Events and Soft Skills Enhancement",
           "Image": "images/categories/sway.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -148,7 +148,7 @@
       "Id": "f52fec02-a915-4ead-8716-6cadf6ff6ab8",
       "Name": "Technical and Professional Development",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -156,7 +156,7 @@
           "Id": "0c5df167-45b1-4205-8ba7-2f76023fb7ff",
           "Name": "Basic IT and Software Processes",
           "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -165,7 +165,7 @@
           "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
           "Name": "Project Management and Software Development",
           "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -174,7 +174,7 @@
           "Id": "f7527218-78b1-4e81-8acb-a8ee99380130",
           "Name": "IT and Network Fundamentals",
           "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -268,7 +268,7 @@
       "Id": "92861b79-9391-4a8c-a086-a523cc4e6fed",
       "Name": "Cloud and Emerging Technologies",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -276,7 +276,7 @@
           "Id": "4a2c74fa-8f95-4a5e-bd41-60d0466b79ff",
           "Name": "Emerging Technologies",
           "Image": "images/categories/sway.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -287,7 +287,7 @@
       "Id": "d0a8030b-4233-4c9e-bd88-3c78d5c206ab",
       "Name": "Data Visualization and Productivity Tools",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -295,7 +295,7 @@
           "Id": "790e3e39-78a6-40a9-a124-1c3b2cd0e09d",
           "Name": "Data Visualization and Tools ",
           "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
