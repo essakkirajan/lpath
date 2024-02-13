@@ -25,7 +25,7 @@
 
   {
     "Id": "b4c387de-e3a4-415a-896b-31c0db443541",
-    "Title": "Basic Concepts ",
+    "Title": "Basic Concepts",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
@@ -480,18 +480,6 @@
   {
     "Id": "f47a8dd7-e27b-46a4-bb2f-efdcaabc396d",
     "Title": "Continuous Improvement and Feedback Loops",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-
-  {
-    "Id": "51327d2d-d768-4b7b-9773-819fae19df30",
-    "Title": "Security and Compliance Automation",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
