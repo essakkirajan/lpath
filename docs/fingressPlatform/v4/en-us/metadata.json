@@ -84,7 +84,18 @@
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
-        },
+        }
+        
+      ]
+    },
+    {
+      "Id": "a674ffa1-e1fe-40d5-809e-51a0b7e44f99",
+      "Name": "Installation, Deployment of Platform, Services, Apps, Schemas",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
         {
           "Id": "33c49479-27f7-481b-84c1-ae4675651574",
           "Name": "Setting Up and Configuring Platforms, Apps, and Services",
@@ -94,6 +105,7 @@
           "Source": "Fingress Platform",
           "SubCategories": []
         }
+
       ]
     },
     {
@@ -133,6 +145,27 @@
           "Source": "Fingress Platform",
           "SubCategories": []
         }
+      ]
+    },
+
+    {
+      "Id": "db5d9d86-dc55-415d-8e4a-c55f002944b3",
+      "Name": "Understanding Fingress Platform's Functional Components",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+          "Name": " Exploration of Functional Capabilities",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }
+  
       ]
     }
   ],

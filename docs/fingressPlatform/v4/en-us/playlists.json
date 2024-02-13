@@ -20,31 +20,6 @@
     ]
   },
 
-  {
-    "Id": "2b635a74-16e2-4874-8451-5c794fccd582",
-    "Title": "Overview of Platform Development",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "7126a2a7-66a1-4236-b158-bfe1ed010a7e",
-    "Description": "Give Description",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-       "cbdcb819-aab5-45c8-813d-58aeebc57fe9",
-      "a0944d4e-9818-4fa8-b232-944e8166e05b",
-      "8d4454c3-a4c7-43e1-b40b-2cf8f39dc5a8",
-      "bd1cd2ae-9baa-4aed-afd3-b7996c125f19",
-      "74541ffc-e29a-49e2-8fa4-cf16edbbb320",
-      "704df4a2-76ef-4695-ba27-2adcc9a8b04c",
-      "8ca0b7a8-1bcf-4fa3-869c-66c7317e34a7"
-    
-    ]
-  },
-
 
     {
     "Id": "dc54111a-d164-4416-9b8d-8a4062718600",
@@ -60,7 +35,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "db561a24-3fec-4e32-bc29-c47aa22186c2"
+      "cbdcb819-aab5-45c8-813d-58aeebc57fe9"
     
     ]
   },
@@ -79,13 +54,13 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "7cd81113-03c2-40e7-895a-4fa7d60973ef",
-      "7518ede5-fc0e-45c1-b943-fe568e347ec5",
-      "30e6b72d-a8b9-4e91-9a78-edb234dd0348",
-      "babbf42d-2b07-4a56-9129-f08aeac02f6a",
-      "2ed5faf2-1cd7-4b35-b1ad-1a0baf575bdd",
-      "11ace4b0-941c-480b-8e44-c04f7f17e494",
-      "bd5c7a00-3006-4ae7-a040-717a6c3f8291"
+      "404b4004-2a4f-4cb1-9c86-78cda980c9d1",
+      "c01211ec-301e-4d57-ae49-9b5e70625980",
+      "47a7899e-c00b-4334-a328-7bfb192f83ec",
+      "f0ec42c9-f603-49c1-9e1f-44cd7093c283",
+      "5284b246-c321-4dcb-a6f2-0bd7426b709f",
+      "bc43932c-94be-44d6-9737-d029b9482d2a",
+      "abc373c7-dfc4-4e65-b0b6-e8993f73ca61"
     
     ]
   },
@@ -104,8 +79,8 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "8f8dddd6-e58c-48b5-adb8-636b0eab7585",
-      "44218364-9794-47c0-84f1-bcc75c5ad5bf"
+      "123bc755-aaea-462c-81c4-c11e3eea3682",
+      "f64af866-da2f-4403-ab95-c4736dd53ac2"
     
     ]
   },
@@ -124,8 +99,8 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "34f33c3e-3430-4fdb-a62a-970b3b77d2e2",
-      "5ff11af4-16f5-4b61-8bc6-b0bddb50b440"
+      "05e882e2-04db-4235-832a-2a4537fa97e9",
+      "fe79ec9f-2bdb-4d4c-871e-8a623c7f4dc2"
     
     ]
   },
@@ -144,10 +119,10 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "6c88c8f3-94a0-478a-b320-de5705d2586a",
-      "c8882d33-82c3-4f30-ac46-9687fa3829d4",
-      "22100eac-ad13-43e1-9482-78b0bbd20f1f",
-      "b78596ad-d59a-4b17-b786-4e6d6591cab7"
+      "8d635098-367f-4209-93e7-2af178302b2f",
+      "5bb36f5b-bfe8-4cba-a94d-4d9ade405dc9",
+      "ff94ce87-2807-4ded-8e1a-74ec8d0dce68",
+      "01ea0fcf-aeb7-46f6-84a7-2641a2a3b752"
     
     ]
   },
@@ -166,8 +141,168 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "276c7173-c0f8-48d4-a968-3e5cf812ce26"
+      "590c16eb-770d-4854-95f5-691ca25a76ec"
     
     ]
+  },
+
+  {
+  "Id": "9e642577-6179-4657-8035-1cdd45a96f03",
+  "Title": "Key Features",
+  "Image": "images/playlists/access-intro-to-access.png",
+  "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+  "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+  "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "f61de3b3-05bc-42d3-966a-9617a50b92a4",
+  "Description": "Give Description",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [   
+    "1444cd81-1639-4533-b9ff-b22f7ddf5be4",
+    "1dc87ea7-e30f-4d56-8198-a5a5fdd4b84f",
+    "d4d79439-f0ea-4d90-b0b5-09c66b147f2d",
+    "db43a2fa-a7c0-48b3-bd91-e7b60ba8d673"
+  
+  ]
+},
+
+{
+"Id": "740d4998-a80c-4ef2-8001-a490adc6dfe1",
+"Title": "Functional Features",
+"Image": "images/playlists/access-intro-to-access.png",
+"LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+"AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+"TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "f61de3b3-05bc-42d3-966a-9617a50b92a4",
+"Description": "Give Description",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [   
+  "525f997c-a7ce-4e4c-8d0e-ebe6cc8cb01d",
+  "988fbdbb-5f52-4b19-9ac7-0b1b6c4f0eb5",
+  "12a415c6-407d-4514-99f8-70451ad7b68f",
+  "312e8d7f-e7b1-4563-9f50-cf7dad6eb944",
+  "f1fa2292-b09b-4d11-bdc1-b119d34c4094"
+
+]
+},
+{
+
+"Id": "05170cae-ddba-49a4-9fc6-9c2b733960f3",
+"Title": "Command Line Interface for Scripts",
+"Image": "images/playlists/access-intro-to-access.png",
+"LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+"AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+"TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "7c2f7879-3954-430d-a912-200f7ade7db3",
+"Description": "Give Description",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [   
+  "bcd09d5f-4d82-4a52-aee5-510201aae64e",
+  "2d6850f1-187d-4298-ae55-13b1cf0e5d8d",
+  "9b9cc7c3-fa6c-4e54-a6ff-6df058f15c96",
+  "04ab18f3-5870-4da5-9fb8-e63a1b6928cf"
+]
+},
+
+{
+"Id": "eb186546-8a25-459a-becb-17ebbaa85683",
+"Title": "DevOps Fundamentals",
+"Image": "images/playlists/access-intro-to-access.png",
+"LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+"AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+"TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "f0a86cfe-9a58-436d-81ea-7e070d0f566e",
+"Description": "Give Description",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [   
+  "937cd090-b31d-4f09-93cf-6a4fd0905c65",
+  "f8a26eb6-256d-4b9c-a713-a0e62f19a326",
+  "0079b508-d120-4c08-8e5a-d0f2dbbdb522"
+
+]
+},
+
+{
+"Id": "63b57283-d992-4d96-89ec-c714b97dbc49",
+"Title": "Automation and Integration",
+"Image": "images/playlists/access-intro-to-access.png",
+"LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+"AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+"TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "f0a86cfe-9a58-436d-81ea-7e070d0f566e",
+"Description": "Give Description",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [   
+  "7002c4d0-4deb-4ccf-9e0b-cbeadd8a43a7",
+  "f5031519-89c2-4359-905a-00bfce2bfe22",
+  "b255b551-b37b-4f85-bd67-835e7d7f8f99",
+  "02855f2d-a592-48da-9f74-804a9e27db01",
+  "876943f7-1fa7-4873-9178-43cf85a056a0",
+  "96aa9c3a-5aaa-4618-8fb6-6df7f354223c"
+
+]
+},
+
+{
+"Id": "73225dbe-f32e-41b2-901f-86476b41772b",
+"Title": "Security and Optimization",
+"Image": "images/playlists/access-intro-to-access.png",
+"LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+"AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+"TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "f0a86cfe-9a58-436d-81ea-7e070d0f566e",
+"Description": "Give Description",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [   
+  "51327d2d-d768-4b7b-9773-819fae19df30",
+  "f47a8dd7-e27b-46a4-bb2f-efdcaabc396d"
+
+]
+},
+
+{
+  "Id": "9cb1b5fe-ff57-4275-86c2-959abf3dc2d2",
+  "Title": "Functional Features Deep Dive: Unveiling Fingress Platform's Capabilities",
+  "Image": "images/playlists/access-intro-to-access.png",
+  "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+  "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+  "TechnologyId": "9c18d262-89c5-499b-be11-be58279c86bd",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+  "Description": "Give Description",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [   
+    "84feb83e-1164-4569-9a2c-2f2cb76e9364",
+    "4a1fe235-13de-47c7-b89b-293efaa9b417",
+    "38b4799c-cbf4-4c62-ba5e-dc73f7842943",
+    "9c545145-2a50-49de-a13e-6566c491fec3",
+    "17a47f51-0ac0-42cb-ba2b-df62e660654b",
+    "30d29cce-38c6-4123-99f0-27add42cc1cd",
+    "256e3e73-04a2-45bb-b86e-ead501c8f427",
+    "e6b18fac-d1eb-471a-9233-6e174097eed3",
+    "87a93396-a5b9-41e1-bb01-d55f62ef04f0",
+    "675752b3-bbf6-4e4f-939c-1632486c432a"
+    
+  
+  ]
   }
 ]

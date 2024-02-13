@@ -1,7 +1,7 @@
 [
   {
     "Id": "8615a902-c26a-45f0-89d2-c0144e225143",
-    "Title": "Introduction to Low code no code Platforms",
+    "Title": "Introduction to Low Code No Code Platforms",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
@@ -37,7 +37,7 @@
 
   {
     "Id": "cbdcb819-aab5-45c8-813d-58aeebc57fe9",
-    "Title": "Building Blocks",
+    "Title": "Use Cases and Examples",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
@@ -48,19 +48,8 @@
   },
 
   {
-    "Id": "a0944d4e-9818-4fa8-b232-944e8166e05b",
-    "Title": "Data Integration ",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "8d4454c3-a4c7-43e1-b40b-2cf8f39dc5a8",
-    "Title": "User Interface Design ",
+    "Id": "404b4004-2a4f-4cb1-9c86-78cda980c9d1",
+    "Title": "Exploring Essentials(Environment,Pre-requisites)",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
@@ -71,76 +60,7 @@
   },
 
   {
-    "Id": "bd1cd2ae-9baa-4aed-afd3-b7996c125f19",
-    "Title": "Workflow Automation ",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "74541ffc-e29a-49e2-8fa4-cf16edbbb320",
-    "Title": "Testing and Debugging ",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "704df4a2-76ef-4695-ba27-2adcc9a8b04c",
-    "Title": "Deployment and Maintenance ",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "8ca0b7a8-1bcf-4fa3-869c-66c7317e34a7",
-    "Title": "Platform Enhancements-custom code and APi Integration ",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-
-  {
-    "Id": "db561a24-3fec-4e32-bc29-c47aa22186c2",
-    "Title": "Use Cases and Examples ",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-
-    {
-    "Id": "7cd81113-03c2-40e7-895a-4fa7d60973ef",
-    "Title": "Exploring Essentials ",
-    "Description": "",
-    "Url": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-
-  {
-    "Id": "7518ede5-fc0e-45c1-b943-fe568e347ec5",
+    "Id": "c01211ec-301e-4d57-ae49-9b5e70625980",
     "Title": "Platform Data dictionary",
     "Description": "",
     "Url": "",
@@ -150,9 +70,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "30e6b72d-a8b9-4e91-9a78-edb234dd0348",
+    "Id": "47a7899e-c00b-4334-a328-7bfb192f83ec",
     "Title": "Core Framework",
     "Description": "",
     "Url": "",
@@ -162,9 +81,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "babbf42d-2b07-4a56-9129-f08aeac02f6a",
+    "Id": "f0ec42c9-f603-49c1-9e1f-44cd7093c283",
     "Title": "Shared Libraries",
     "Description": "",
     "Url": "",
@@ -174,9 +92,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "2ed5faf2-1cd7-4b35-b1ad-1a0baf575bdd",
+    "Id": "5284b246-c321-4dcb-a6f2-0bd7426b709f",
     "Title": "Fingress Services",
     "Description": "",
     "Url": "",
@@ -186,9 +103,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "11ace4b0-941c-480b-8e44-c04f7f17e494",
+    "Id": "bc43932c-94be-44d6-9737-d029b9482d2a",
     "Title": "Fingress Applications",
     "Description": "",
     "Url": "",
@@ -198,9 +114,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "bd5c7a00-3006-4ae7-a040-717a6c3f8291",
+    "Id": "abc373c7-dfc4-4e65-b0b6-e8993f73ca61",
     "Title": "Mobile Applications",
     "Description": "",
     "Url": "",
@@ -210,10 +125,9 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "8f8dddd6-e58c-48b5-adb8-636b0eab7585",
-    "Title": "Software Development Kit",
+    "Id": "123bc755-aaea-462c-81c4-c11e3eea3682",
+    "Title": "Software Development Kit(Key Features)",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
@@ -222,9 +136,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "44218364-9794-47c0-84f1-bcc75c5ad5bf",
+    "Id": "f64af866-da2f-4403-ab95-c4736dd53ac2",
     "Title": "Customization",
     "Description": "",
     "Url": "",
@@ -234,9 +147,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "34f33c3e-3430-4fdb-a62a-970b3b77d2e2",
+    "Id": "05e882e2-04db-4235-832a-2a4537fa97e9",
     "Title": "Environment Configuration",
     "Description": "",
     "Url": "",
@@ -246,9 +158,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "5ff11af4-16f5-4b61-8bc6-b0bddb50b440",
+    "Id": "fe79ec9f-2bdb-4d4c-871e-8a623c7f4dc2",
     "Title": "Setting up of database",
     "Description": "",
     "Url": "",
@@ -258,9 +169,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "6c88c8f3-94a0-478a-b320-de5705d2586a",
+    "Id": "8d635098-367f-4209-93e7-2af178302b2f",
     "Title": "Installation of Applications and Services",
     "Description": "",
     "Url": "",
@@ -270,9 +180,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "c8882d33-82c3-4f30-ac46-9687fa3829d4",
+    "Id": "5bb36f5b-bfe8-4cba-a94d-4d9ade405dc9",
     "Title": "Service Deployment",
     "Description": "",
     "Url": "",
@@ -282,9 +191,8 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "22100eac-ad13-43e1-9482-78b0bbd20f1f",
+    "Id": "ff94ce87-2807-4ded-8e1a-74ec8d0dce68",
     "Title": "App Deployment",
     "Description": "",
     "Url": "",
@@ -294,10 +202,284 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-
   {
-    "Id": "b78596ad-d59a-4b17-b786-4e6d6591cab7",
+    "Id": "01ea0fcf-aeb7-46f6-84a7-2641a2a3b752",
     "Title": "Deployment Strategies",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "590c16eb-770d-4854-95f5-691ca25a76ec",
+    "Title": "Configuring apps and services",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1444cd81-1639-4533-b9ff-b22f7ddf5be4",
+    "Title": "Data Modelling",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1dc87ea7-e30f-4d56-8198-a5a5fdd4b84f",
+    "Title": "Forms",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d4d79439-f0ea-4d90-b0b5-09c66b147f2d",
+    "Title": "List Pages",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "db43a2fa-a7c0-48b3-bd91-e7b60ba8d673",
+    "Title": "Applications",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "525f997c-a7ce-4e4c-8d0e-ebe6cc8cb01d",
+    "Title": "Rules(DMN,Drools)",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "988fbdbb-5f52-4b19-9ac7-0b1b6c4f0eb5",
+    "Title": "Functions",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "12a415c6-407d-4514-99f8-70451ad7b68f",
+    "Title": "Data Events",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "312e8d7f-e7b1-4563-9f50-cf7dad6eb944",
+    "Title": "Event Triggers",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f1fa2292-b09b-4d11-bdc1-b119d34c4094",
+    "Title": "Flows",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "bcd09d5f-4d82-4a52-aee5-510201aae64e",
+    "Title": "Command Line Interface (CLI) Overview",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2d6850f1-187d-4298-ae55-13b1cf0e5d8d",
+    "Title": "Exporting SDK Objects with CLI",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9b9cc7c3-fa6c-4e54-a6ff-6df058f15c96",
+    "Title": "Exporting Format with CLI",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "04ab18f3-5870-4da5-9fb8-e63a1b6928cf",
+    "Title": "Troubleshooting CLI Issues and Errors",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "937cd090-b31d-4f09-93cf-6a4fd0905c65",
+    "Title": "Continuous Integration (CI) Pipelines&Continuous Deployment (CD) Strategies",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f8a26eb6-256d-4b9c-a713-a0e62f19a326",
+    "Title": "Release Management and Version Control",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0079b508-d120-4c08-8e5a-d0f2dbbdb522",
+    "Title": "Automated Testing Frameworks and Execution",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "7002c4d0-4deb-4ccf-9e0b-cbeadd8a43a7",
+    "Title": "Sprint Planning and Agile Project Management Integration",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f5031519-89c2-4359-905a-00bfce2bfe22",
+    "Title": "Ticketing System Integration for Issue Tracking",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b255b551-b37b-4f85-bd67-835e7d7f8f99",
+    "Title": "Knowledge Base (KB) and Wiki Integration for Documentation",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "02855f2d-a592-48da-9f74-804a9e27db01",
+    "Title": "Infrastructure as Code (IaC) Implementation",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "876943f7-1fa7-4873-9178-43cf85a056a0",
+    "Title": "Monitoring and Logging Setup for Application Performance",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "96aa9c3a-5aaa-4618-8fb6-6df7f354223c",
+    "Title": "Collaboration Tools Integration for Team Communication",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "51327d2d-d768-4b7b-9773-819fae19df30",
+    "Title": "Security and Compliance Automation",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f47a8dd7-e27b-46a4-bb2f-efdcaabc396d",
+    "Title": "Continuous Improvement and Feedback Loops",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
@@ -308,8 +490,8 @@
   },
 
   {
-    "Id": "276c7173-c0f8-48d4-a968-3e5cf812ce26",
-    "Title": "Configuring apps and services",
+    "Id": "51327d2d-d768-4b7b-9773-819fae19df30",
+    "Title": "Security and Compliance Automation",
     "Description": "",
     "Url": "",
     "TechnologyId": "",
@@ -317,5 +499,115 @@
     "Source": "Microsoft",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
-  }
+  },
+  {
+    "Id": "84feb83e-1164-4569-9a2c-2f2cb76e9364",
+    "Title": "Enrollment",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "4a1fe235-13de-47c7-b89b-293efaa9b417",
+    "Title": "Entitlement",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "38b4799c-cbf4-4c62-ba5e-dc73f7842943",
+    "Title": "Authorisation Flows(Sequential and Parallel)",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9c545145-2a50-49de-a13e-6566c491fec3",
+    "Title": "Stage Flows",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "17a47f51-0ac0-42cb-ba2b-df62e660654b",
+    "Title": "Process Flows",
+    "Description": "",
+    "Url": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+    {
+      "Id": "30d29cce-38c6-4123-99f0-27add42cc1cd",
+      "Title": "Transaction Flows",
+      "Description": "",
+      "Url": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "StatusNote": ""
+    },
+    {
+      "Id": "256e3e73-04a2-45bb-b86e-ead501c8f427",
+      "Title": "Notifications-Templates,Rules, Channels, Secured attachments",
+      "Description": "",
+      "Url": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "StatusNote": ""
+    },
+      {
+        "Id": "e6b18fac-d1eb-471a-9233-6e174097eed3",
+        "Title": "Reports, Dashboards & Analytics",
+        "Description": "",
+        "Url": "",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "87a93396-a5b9-41e1-bb01-d55f62ef04f0",
+        "Title": "Bulk Uploads & Layouts",
+        "Description": "",
+        "Url": "",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "675752b3-bbf6-4e4f-939c-1632486c432a",
+        "Title": "Document Template",
+        "Description": "",
+        "Url": "",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      }
 ]
