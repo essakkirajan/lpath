@@ -185,7 +185,7 @@
       "Id": "f8125a56-ff98-4d61-b49e-d53abe35c64a",
       "Name": "Data Science and Database Management",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -193,7 +193,7 @@
           "Id": "cd41b84d-f4ce-4051-b117-82f760453f08",
           "Name": "Data Science",
           "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -202,7 +202,7 @@
           "Id": "4b79f2ca-5f5f-47c2-9409-b284aa493eeb",
           "Name": "Databases",
           "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -213,7 +213,7 @@
       "Id": "a49ef2d1-2f49-429d-8f2a-313dd14d76e4",
       "Name": "Development Tools and Practices",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -221,7 +221,7 @@
           "Id": "968f6438-5617-49f8-b765-bf97c3cb9f47",
           "Name": "Version Control with Git",
           "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -230,7 +230,7 @@
           "Id": "94f3053d-2021-4bab-adeb-5f7c581e6a72",
           "Name": "Integration Fundamentals",
           "Image": "images/categories/access.png",
-          "TechnologyId": "",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -239,7 +239,7 @@
           "Id": "d30621fb-599b-4635-a5c6-c54e740adbe6",
           "Name": "API Integration with Postman",
           "Image": "images/categories/vivalearning_learningpathways.png",
-          "TechnologyId": "",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -248,7 +248,7 @@
           "Id": "23af85ac-acb1-45a1-a294-9df8f4be04e6",
           "Name": "Remote Access and File Transfer",
           "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -257,7 +257,7 @@
           "Id": "910aa3ae-3408-44ec-95f2-88340b374b4d",
           "Name": "DevOps and Continuous Integration/Continuous Deployment (CI/CD)",
           "Image": "images/categories/access.png",
-          "TechnologyId": "",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
