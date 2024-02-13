@@ -12,11 +12,10 @@
     "Description": "Give Description",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["8615a902-c26a-45f0-89d2-c0144e225143",
+    "Assets": [
+      "8615a902-c26a-45f0-89d2-c0144e225143",
       "9c01f507-2c94-4537-83a3-0dfd17669c4f",
       "b4c387de-e3a4-415a-896b-31c0db443541"
-      
-
     ]
   },
 
@@ -27,7 +26,7 @@
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "7126a2a7-66a1-4236-b158-bfe1ed010a7e",
@@ -35,8 +34,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "cbdcb819-aab5-45c8-813d-58aeebc57fe9"
-    
+      "cbdcb819-aab5-45c8-813d-58aeebc57fe9"    
     ]
   },
  
@@ -46,7 +44,7 @@
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5a986f43-441f-481a-9ac0-e3fcf44fe571",
@@ -60,8 +58,7 @@
       "f0ec42c9-f603-49c1-9e1f-44cd7093c283",
       "5284b246-c321-4dcb-a6f2-0bd7426b709f",
       "bc43932c-94be-44d6-9737-d029b9482d2a",
-      "abc373c7-dfc4-4e65-b0b6-e8993f73ca61"
-    
+      "abc373c7-dfc4-4e65-b0b6-e8993f73ca61"    
     ]
   },
 
