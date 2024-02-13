@@ -169,7 +169,7 @@
         {
           "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
           "Name": "Spotlight on Popular Tools",
-          "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
+          "Image": "images/categories/vivalearning_learningpathways.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -226,7 +226,7 @@
         {
           "Id": "c35db39b-852b-4d7d-8b6f-691e04846a31",
           "Name": "Create your script",
-          "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
+          "Image": "images/categories/toolkit.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -290,7 +290,7 @@
         {
           "Id": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
           "Name": "Networking Basics & Protocols",
-          "Image": "images/categories/set-up-Fingress Platform-365-learning-pathway.png",
+          "Image": "images/categories/toolkit.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",

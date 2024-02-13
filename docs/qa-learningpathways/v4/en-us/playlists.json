@@ -283,6 +283,24 @@
     ]
   },
   {
+    "Id": "012a6f71-8961-4472-b2fb-20e90d939503",
+    "Title": "Spotlight on Popular Tools",
+    "Image": "images/playlists/work_remotely_with_o365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
+    "Description": "Explore the landscape of test tools, understanding the factors that guide decision-making for effective test automation and management solutions.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+            "c8faf420-cadd-4f07-b543-7704a2f87398"
+    ]
+  },
+
+  {
     "Id": "997ecfcb-29a0-4a0c-acec-7ad055329f06",
     "Title": "Work Item Lifecycle Management",
     "Image": "images/playlists/work_remotely_with_o365.png",
