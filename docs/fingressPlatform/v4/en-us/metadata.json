@@ -108,6 +108,27 @@
 
       ]
     },
+
+    {
+      "Id": "db5d9d86-dc55-415d-8e4a-c55f002944b3",
+      "Name": "Understanding Fingress Platform's Functional Components",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+          "Name": "Exploration of Functional Capabilities",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }
+  
+      ]
+    },
     {
       "Id": "e2307705-0069-4717-9961-2a8ebf089ba6",
       "Name": "Exploring Tools",
@@ -146,29 +167,8 @@
           "SubCategories": []
         }
       ]
-    },
-
-    {
-      "Id": "db5d9d86-dc55-415d-8e4a-c55f002944b3",
-      "Name": "Understanding Fingress Platform's Functional Components",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Fingress Platform",
-      "SubCategories": [
-        {
-          "Id": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
-          "Name": "Exploration of Functional Capabilities",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        }
-  
-      ]
     }
-  ],
+],
   "Audiences": [
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
