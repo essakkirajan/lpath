@@ -277,6 +277,26 @@
 },
 
 {
+  "Id": "f137bf62-f132-401d-83a0-4cc5f42275e6",
+  "Title": "2023",
+  "Image": "images/playlists/access-intro-to-access.png",
+  "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+  "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+  "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "f0a86cfe-9a58-436d-81ea-7e070d0f566e",
+  "Description": "Give Description",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [   
+    "8b2901e0-ff1e-4f9e-ba23-4a9b035a11af"
+    
+  
+  ]
+  },
+
+{
   "Id": "9cb1b5fe-ff57-4275-86c2-959abf3dc2d2",
   "Title": "Functional Features Deep Dive: Unveiling Fingress Platform's Capabilities",
   "Image": "images/playlists/access-intro-to-access.png",
