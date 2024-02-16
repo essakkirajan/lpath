@@ -274,17 +274,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-  {
-    "Id": "7c178a07-19ae-4179-83e5-f280a9a04aaa",
-    "Title": "Component Testing",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Component-Testing.aspx?csf=1&web=1&share=EasBqKAa75NAo0DhV11eN7wBcLav7BFI9ZGM6OP00bDrWg&e=l4WIoF",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
+
   {
     "Id": "eccfd498-8307-4a09-9e09-3c122c3f779d",
     "Title": "Integration Testing",
@@ -395,28 +385,7 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-  {
-    "Id": "3adbf391-f722-43e2-af4a-2574d1de7581",
-    "Title": "Mastering Varied Testing Techniques",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Mastering-Varied-Testing-Techniques.aspx?csf=1&web=1&share=EdQFuiALdhxBhD_c9o8_HyABgnaUrqXj74NmzbCVJS0--g&e=mHX9ar",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "56559b95-9360-4273-a1ca-5d8135a7df05",
-    "Title": "Harnessing Static and Dynamic Testing",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Harnessing-Static-and-Dynamic-Testing.aspx?csf=1&web=1&share=EZGSUnIEqR1Fm1aR2YnxHFIBpQdtiA1jbPVNnvNq9g3KpQ&e=SkyOIJ",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
+
   {
     "Id": "82d40bfe-ddf4-4966-aa16-e6747dece771",
     "Title": "Independent Testing: Balancing Act",
@@ -1342,10 +1311,10 @@
     "StatusNote": ""
   },
   {
-    "Id": "4d724441-fdb3-4d94-ab6c-8ead1ef435dd",
-    "Title": "Key Concepts",
+    "Id": "54db933b-15d4-4185-906c-4b595c4460db",
+    "Title": "Types Of Penetration Testing",
     "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Key-Concepts.aspx?csf=1&web=1&share=EZg1uX_xMiFLk3lzNp9ULTcBltMCi_YG3rCJP3jecP5liQ&e=Q8xMlE",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Tyoes-of-Pentesting.aspx?csf=1&web=1&share=EdCdvk9exZdNhQu63Nig4dgBC8fhEZOnSFOnGHDMmD7S7g&e=mTSa1g",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
