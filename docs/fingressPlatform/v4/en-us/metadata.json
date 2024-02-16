@@ -110,26 +110,6 @@
     },
 
     {
-      "Id": "ca7c0da8-9605-4016-8dbd-e2ce9c11fedd",
-      "Name": "Releases",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Fingress Platform",
-      "SubCategories": [
-        {
-          "Id": "b490fa29-c6a2-40af-ab55-91b5271f96cb",
-          "Name": "Release Notes",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-      ]
-    },
-
-    {
       "Id": "db5d9d86-dc55-415d-8e4a-c55f002944b3",
       "Name": "Understanding Fingress Platform's Functional Components",
       "Image": "",
@@ -181,6 +161,26 @@
           "Id": "f0a86cfe-9a58-436d-81ea-7e070d0f566e",
           "Name": "Implementing DevOps Practices at Fingress: Empowering the Team",
           "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }
+      ]
+    },
+
+  {
+      "Id": "ca7c0da8-9605-4016-8dbd-e2ce9c11fedd",
+      "Name": "Releases",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "b490fa29-c6a2-40af-ab55-91b5271f96cb",
+          "Name": "Release Notes",
+          "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
