@@ -290,6 +290,30 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
+
+  {
+    "Id": "4f11897b-129b-4f86-b87c-386507e09f4f",
+    "Title": "Business Codes",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Business-Codes.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "85330afa-4d34-424c-8f61-e7c85dfb6354",
+    "Title": "Integration",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Integration.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
   {
     "Id": "12a415c6-407d-4514-99f8-70451ad7b68f",
     "Title": "Data Events",
@@ -581,6 +605,17 @@
         "Title": "Bulk Uploads & Layouts",
         "Description": "",
         "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Bulk-Uploads-%26-Layouts.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "613db193-1dd4-4bce-9002-8f776c6d49e3",
+        "Title": "Jobs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Jobs.aspx",
         "TechnologyId": "",
         "SubjectId": "",
         "Source": "Microsoft",
