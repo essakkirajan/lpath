@@ -180,6 +180,18 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
+
+  {
+    "Id": "be76248a-e138-424c-bde0-aa7e142811fd",
+    "Title": "System Configuration",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/System-Configuration.aspx?Mode=Edit",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
   {
     "Id": "5bb36f5b-bfe8-4cba-a94d-4d9ade405dc9",
     "Title": "Service Deployment",
