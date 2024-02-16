@@ -182,6 +182,17 @@
   },
 
   {
+    "Id": "1f34387e-cd79-4a88-989a-cfde5b933c54",
+    "Title": "Security",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Security.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
     "Id": "be76248a-e138-424c-bde0-aa7e142811fd",
     "Title": "System Configuration",
     "Description": "",
