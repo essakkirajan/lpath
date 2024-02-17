@@ -147,6 +147,18 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
+
+  {
+    "Id": "dff0d23a-f7c7-4372-8507-0fd55f4d1076",
+    "Title": "Portal",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Portal.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
   {
     "Id": "05e882e2-04db-4235-832a-2a4537fa97e9",
     "Title": "Environment Configuration",
