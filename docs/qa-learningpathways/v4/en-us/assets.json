@@ -2,7 +2,7 @@
   {
     "Id": "8a9c40b0-578d-4838-964f-e152bf54bf66",
     "Title": "Decoding Quality Assurance",
-    "Description": "",
+    "Description": "Explore the nuances of decoding quality assurance to achieve precision and reliability in information processing.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Decoding-Quality-Assurance.aspx?csf=1&web=1&share=ETQpeoyrbYVMrR4TWgaA57oBNwuIu7tZ2SFU7phq7F83ng&e=EsBXEk",
     "TechnologyId": "",
     "SubjectId": "",
@@ -13,7 +13,7 @@
   {
     "Id": "b04fc621-4fda-4076-a742-9531e70828fe",
     "Title": "Cultivating the Tester's Mindset",
-    "Description": "",
+    "Description": "Immerse yourself in the essential skills and mindset required for effective testing, cultivating expertise that elevates quality assurance to new heights.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Cultivating-the-Tester%27s-Mindset.aspx?csf=1&web=1&share=ESKvhMLbc_lMhH4VzL7Ke00BhShC9GcrbW2sgjzFDokFHg&e=oKuNB1",
     "TechnologyId": "",
     "SubjectId": "",
@@ -24,7 +24,7 @@
   {
     "Id": "3264cf4b-f3e5-4259-8136-a1d1ff520e86",
     "Title": "Understanding Testing Objectives",
-    "Description": "",
+    "Description": "Gain profound insights into the essence of testing objectives, unraveling the principles and strategies that drive a thorough and effective quality assurance process.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Understanding-Testing-Objectives.aspx?csf=1&web=1&share=ERGS3g39ModNoyfLu-TwLp0B-BD0K0a3ZgPzACAb1CAGPA&e=bSmsMP",
     "TechnologyId": "",
     "SubjectId": "",
@@ -35,7 +35,7 @@
   {
     "Id": "d02b976b-0757-487f-8668-810861b8611c",
     "Title": "Best Practices in Test Case Design",
-    "Description": "",
+    "Description": "Explore the pinnacle of quality assurance with this guide to crafting test cases that stand as beacons of precision, efficiency, and reliability, encompassing industry-leading best practices for unparalleled testing success.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Best-Practices-in-Test-Case-Design.aspx?csf=1&web=1&share=EZMxrMzf8XRFhKwdRfUlO3UBNTBB0fiOb4Q5JTs-uY1_6Q&e=Hdc8hh",
     "TechnologyId": "",
     "SubjectId": "",
@@ -46,7 +46,7 @@
   {
     "Id": "5f1b05e3-7a3a-4173-80af-a39ed3ee9788",
     "Title": "Test Data Generation Strategies",
-    "Description": "",
+    "Description": "Dive into the art and science of test data generation, discovering proven strategies that optimize accuracy, coverage, and efficiency, ensuring robust testing practices for superior quality assurance outcomes.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Data-Generation-Strategies.aspx?csf=1&web=1&share=ERVfcOLI9elFohCX0IlnT30BkhzlSrJOxss1pV5D_kDyVQ&e=pFtxEa",
     "TechnologyId": "",
     "SubjectId": "",
@@ -67,7 +67,7 @@
   },
   {
     "Id": "6f10717d-1319-4e2a-befc-4ed8255a1094",
-    "Title": "Software Testing",
+    "Title": "Elevate your bug reporting prowess with this guide that unveils proven strategies and effective communication techniques, empowering you to advocate for software perfection through clear, concise, and impactful bug reporting.Software Testing",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploring-Dynamic-Testing-Approaches.aspx?csf=1&web=1&share=ETWOIS8i-oBCm1mOBimz88YBauFAEjXCgl1XReyPnhGh6Q&e=HgOc0w",
     "TechnologyId": "",
@@ -79,7 +79,7 @@
   {
     "Id": "78d21659-e754-48e8-97ad-b4ac9130e3b2",
     "Title": "Crafting User and Test Scenarios",
-    "Description": "",
+    "Description": "Navigate the intricate process of scenario design with precision, as this guide unveils the art and methodology behind crafting user and test scenarios, ensuring a comprehensive approach to quality assurance that aligns seamlessly with user experiences.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Crafting-User-and-Test-Scenarios.aspx?csf=1&web=1&share=ES7y1s9ECzpBkn4ACm8LulkBIqx_0rRX0sMf0W-StmTHHQ&e=YSEdm2",
     "TechnologyId": "",
     "SubjectId": "",
@@ -90,7 +90,7 @@
   {
     "Id": "922ab84e-4077-440c-adbb-88749d9034d5",
     "Title": "Root Cause Analysis",
-    "Description": "",
+    "Description": "Exploring the essence of software intricacies with this guide, offering expert insights and methodologies to conduct thorough root cause analysis, empowering you to uncover the core issues that impact quality, enabling sustainable improvements in software development and quality assurance processes.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Delving-into-Root-Cause-Analysis.aspx?csf=1&web=1&share=EQqFFb6K3GRJkHIPk7DI_kwB0gYGH5MxIgx3pd-DIGDLjg&e=EZYCgu",
     "TechnologyId": "",
     "SubjectId": "",
@@ -101,7 +101,7 @@
   {
     "Id": "6027d385-e2ce-47e0-995a-12793f6d8df1",
     "Title": " Errors, Defects, and Failures",
-    "Description": "",
+    "Description": "Explore the intricate landscape of software anomalies as we dissect errors, defects, and failures, providing a comprehensive guide to understanding, identifying, and effectively managing these challenges in the realm of quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Navigating-Errors,-Defects,-and-Failures.aspx?csf=1&web=1&share=Ecc4saAZrjJLjdn7Z6lrPhQBnfHe-zzJqiAewLPkagcCRw&e=F6WcO3",
     "TechnologyId": "",
     "SubjectId": "",
@@ -112,7 +112,7 @@
   {
     "Id": "fdb5321b-b173-47d4-99ed-04a2f401e600",
     "Title": "Key Concepts of testing",
-    "Description": "",
+    "Description": "Explore the fundamental principles and critical concepts that form the backbone of effective testing in this comprehensive guide, providing a foundational understanding for professionals seeking to excel in the dynamic realm of quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploring-Exploratory-Testing-Techniques.aspx?csf=1&web=1&share=EU3PxkdU9ZxPl1zvwOu6QScBFyTkhMCUf15ymz7Qh-0w8w&e=eG59XE",
     "TechnologyId": "",
     "SubjectId": "",
@@ -120,65 +120,11 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-  {
-    "Id": "b81fdd3a-29d3-4ea4-883b-382d3a94d42f",
-    "Title": "Usability Testing: Ensuring a Smooth User Experience",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Usability-Testing--Ensuring-a-Smooth-User-Experience.aspx?csf=1&web=1&share=ESO4aFa17JtHlEeySTG_30IBAOC4OZb8P1E1tmSiQeEGBg&e=rSkDK3",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "4f34dd6b-4340-4aa6-86ea-75312302cfdf",
-    "Title": "Accessibility Testing: Ensuring Inclusivity",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Accessibility-Testing--Ensuring-Inclusivity.aspx?csf=1&web=1&share=EUa7Ct02kcRBkp86ob0V7QQBPgWB-LD6HZXDing2EUWxnA&e=6ESALr",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "b2dbe836-6cef-4446-acfe-7d21e6d83e13",
-    "Title": "Compatibility Testing: Cross-Browser and OS Testing",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Compatibility-Testing--Cross-Browser-and-OS-Testing.aspx?csf=1&web=1&share=Ea4UDiY0BKxGjcsr8a5OQJABLgL6pixHcse6JaPn4BSwpw&e=1NKtp6",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "b40e5733-3289-427a-bed9-4515ec580d4a",
-    "Title": "Ad-hoc Testing: Strategies and Benefits",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Ad-hoc-Testing--Strategies-and-Benefits.aspx?csf=1&web=1&share=EfX2jad0y5ZIkag2N-I1XawBvMrrnYFOHZETxUsTSFL-uw&e=AxgRfa",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
-    "Id": "9ef640aa-c5be-4877-9130-169ce840de25",
-    "Title": "Smoke and Sanity Testing: Key Concepts",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Smoke-and-Sanity-Testing--Key-Concepts.aspx?csf=1&web=1&share=EVaUzY4AWcVLmol8rcnLQNoB0v_f9NduwYHavV6DEk2sKA&e=Mrrvdh",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
+
   {
     "Id": "46fe4f76-489e-4da2-a1ae-8511d1f2a657",
     "Title": "Integrating Testing into SDLC Models",
-    "Description": "",
+    "Description": "Uncover the pivotal strategies for weaving testing into Software Development Lifecycle (SDLC) models, ensuring a user-focused approach that enhances overall product quality.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Integrating-Testing-into-SDLC-Models.aspx?csf=1&web=1&share=EccAapCeUrFAhOLULHYKxQ0BwUHfpbfPGQk20madHi8VUQ&e=HcEBxH",
     "TechnologyId": "",
     "SubjectId": "",
@@ -189,7 +135,7 @@
   {
     "Id": "725a6586-afab-4654-892c-f5acf883bc2a",
     "Title": "Agile Insights: Scrum, Agile Methodology, Kanban",
-    "Description": "",
+    "Description": "This guide provides a deep dive into the agile landscape, empowering teams with the knowledge to navigate Scrum, embrace Agile Methodology, and leverage Kanban for seamless and adaptive project management.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Agile-Insights--Scrum,-Agile-Methodology,-Kanban.aspx?csf=1&web=1&share=EcTc6QcR2ulLnejkfVaqiNABPtRq2-lPp4FDwViHtT5pqw&e=QQYBAO",
     "TechnologyId": "",
     "SubjectId": "",
@@ -200,7 +146,7 @@
   {
     "Id": "9ca7312a-760d-4d38-a701-b09867489f5f",
     "Title": "Testing in Scrum",
-    "Description": "",
+    "Description": "Explore the intricacies of Testing in Scrum with this guide, offering practical insights and strategies to seamlessly integrate testing practices within the Scrum framework.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Testing-in-Scrum.aspx?csf=1&web=1&share=EVLl0bXkNvdKloKM2978KGABozqMddFFIAOI2mnYG3qzoA&e=gH0eRJ",
     "TechnologyId": "",
     "SubjectId": "",
@@ -211,7 +157,7 @@
   {
     "Id": "864efee4-0901-4b0a-bbb0-6fddeb7508b3",
     "Title": "Shift-Left Testing: Benefits and Implementation",
-    "Description": "",
+    "Description": " Explore how shifting testing activities earlier in the development process enhances efficiency, quality, and collaboration, ensuring a robust foundation for accelerated and reliable software delivery.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Shift-Left-Testing--Benefits-and-Implementation.aspx?csf=1&web=1&share=EfmrqyD4r51DpAAfdntWx1UBNQzN5Yd0QWO_txbRZCdHug&e=3bQW1t",
     "TechnologyId": "",
     "SubjectId": "",
@@ -222,7 +168,7 @@
   {
     "Id": "01b3a61e-9627-40e7-ae86-b13dbee20642",
     "Title": "Embracing the Seven Testing Principles",
-    "Description": "",
+    "Description": "xplore the core principles that define effective testing practices with this guide, providing a comprehensive understanding of the seven testing principles. From thorough analysis to continuous improvement, this resource empowers professionals to integrate these principles seamlessly, ensuring a holistic and strategic approach to quality assurance in software development.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Embracing-the-Seven-Testing-Principles.aspx?csf=1&web=1&share=ETBzxtoi2CVPlrxo1iJS-dwBk4g68FdPBQqOuDzTLflMQg&e=IFCsuQ",
     "TechnologyId": "",
     "SubjectId": "",
@@ -233,7 +179,7 @@
   {
     "Id": "c23e05f4-18b9-4865-89a7-2b2a13176066",
     "Title": "Ethical Considerations in Software Testing",
-    "Description": "",
+    "Description": " Explore the ethical challenges, principles, and guidelines essential for maintaining trust and upholding ethical standards throughout the software testing process.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Ethical-Considerations-in-Software-Testing.aspx?csf=1&web=1&share=EfDu1C8L01BHlOLQYrmAzlABiQFhoROIyroPwsfyg2Reyg&e=Ylg5ne",
     "TechnologyId": "",
     "SubjectId": "",
@@ -244,7 +190,7 @@
   {
     "Id": "28a76d9b-98a3-48f6-96e0-1fc6a8f76738",
     "Title": "Managing Test Environments Effectively",
-    "Description": "",
+    "Description": "Dive into the art of managing test environments with precision, exploring proven strategies and best practices that ensure a streamlined, reliable, and efficient testing process. This guide provides insights and techniques to optimize test environment management, enhancing overall quality assurance outcomes.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Managing-Test-Environments-Effectively.aspx?csf=1&web=1&share=EY9xdsFzgUBEpwedFfW_fLIBkRl1RNx3ASI06RwoHxy3jA&e=jwNaCn",
     "TechnologyId": "",
     "SubjectId": "",
@@ -255,7 +201,7 @@
   {
     "Id": "77f21ec0-5bf8-4b2f-b302-e15946fc6dc0",
     "Title": "Ascending Testing Levels",
-    "Description": "",
+    "Description": "Explore the progressive journey through testing levels, uncovering the methodologies, strategies, and best practices that propel quality assurance to new heights. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Ascending-Testing-Levels.aspx?csf=1&web=1&share=EYut-RvM5mlPjsEmRLygCOEBL8BhedwFssFHCCkk0QFTBw&e=2U01Ab",
     "TechnologyId": "",
     "SubjectId": "",
@@ -266,7 +212,7 @@
   {
     "Id": "21fc2a0a-51eb-4c87-883c-490a592a5e13",
     "Title": "Unit Testing",
-    "Description": "",
+    "Description": "Learn how unit testing forms the cornerstone of software reliability, uncovering the key techniques that empower developers to build and maintain code with confidence.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Unit-Testing.aspx?csf=1&web=1&share=EUs0tucER-JPpxovWYz3JiEBEOQPbEZBd9L20Bl0sLiKFQ&e=w3fjCq",
     "TechnologyId": "",
     "SubjectId": "",
@@ -278,7 +224,7 @@
   {
     "Id": "eccfd498-8307-4a09-9e09-3c122c3f779d",
     "Title": "Integration Testing",
-    "Description": "",
+    "Description": "Explore the world of integration testing with this guide, offering a deep dive into methodologies and strategies that ensure the smooth collaboration of software components. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Integration-Testing.aspx?csf=1&web=1&share=EREPUkRFNSFPn4jPeBYM_hoBUIoSpHJJHZiHp9xffco3Cw&e=AsTo9T",
     "TechnologyId": "",
     "SubjectId": "",
@@ -289,7 +235,7 @@
   {
     "Id": "026bb3da-b038-4a89-9a0e-6cf65b5bbdc8",
     "Title": "System Testing",
-    "Description": "",
+    "Description": "Explore methodologies, scenarios, and best practices that orchestrate a harmonious symphony of tests to ensure the robustness, functionality, and reliability of your software at the system level.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/System-Testing.aspx?csf=1&web=1&share=EQW5-OKiGRNJk8cdwNd_brgB5sRUXY97ZshWWa0MRClNKg&e=1jVEUY",
     "TechnologyId": "",
     "SubjectId": "",
@@ -300,7 +246,7 @@
   {
     "Id": "41a19699-6dc2-4415-af95-18ceb2ea2705",
     "Title": "Acceptance Testing",
-    "Description": "",
+    "Description": "Explore the principles, methodologies, and best practices that facilitate effective acceptance testing, paving the way for successful software deployment and user satisfaction.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Acceptance-Testing.aspx?csf=1&web=1&share=ER0BCG4BQ8tAnD5jZf5P2_IBJjTh1VBzuxPxC9oNCC1p6w&e=o6cBPK",
     "TechnologyId": "",
     "SubjectId": "",
@@ -311,7 +257,7 @@
   {
     "Id": "bf30a1d3-aad7-4823-a9d7-a8dc94d6bef5",
     "Title": "Unveiling Diverse Testing Types",
-    "Description": "",
+    "Description": "Explore the rich variety of testing types with this guide, providing a comprehensive overview of diverse testing methodologies and their unique contributions to ensuring robust quality assurance. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Unveiling-Diverse-Testing-Types.aspx?csf=1&web=1&share=EdCMKVav4KNAmRL-siA8pxEBHRq5fxDyXIsXEqwlIsTjeQ&e=nFigdd",
     "TechnologyId": "",
     "SubjectId": "",
@@ -322,7 +268,7 @@
   {
     "Id": "6e6414d6-b38a-4ac0-bebb-73bf992daad5",
     "Title": "Functional Testing",
-    "Description": "",
+    "Description": "From validating features to user interactions, explore the comprehensive approach to functional testing that guarantees the reliability and effectiveness of your software.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Adapting-to-Maintenance-Testing-Realities.aspx?csf=1&web=1&share=ESzJ-3zO6-xIgcMtfJNu_4oBrQVVlZ5iuyLDOnfEJo65Ag&e=FpE9vw",
     "TechnologyId": "",
     "SubjectId": "",
@@ -333,7 +279,7 @@
   {
     "Id": "6d5ad83b-5ea0-4980-b33d-f196255631af",
     "Title": "Non-Functional Testing",
-    "Description": "",
+    "Description": "Explore the realm of non-functional testing with this guide, delving into methodologies and best practices that go beyond mere functionality to assess aspects like performance, security, and usability.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Non-Functional-Testing.aspx?csf=1&web=1&share=Ef3PtPeSvYZHpZAk_5rgyL4BF9cxg56XtQqiuHqgjz0odQ&e=mGglNI",
     "TechnologyId": "",
     "SubjectId": "",
@@ -344,7 +290,7 @@
   {
     "Id": "dc9d5566-2b85-47b7-822e-fa366ab46011",
     "Title": "Structural based testing",
-    "Description": "",
+    "Description": "Explore the foundations of structural-based testing with this guide, delving into methodologies and approaches that examine the internal structures of software. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Structural-based-testing.aspx?csf=1&web=1&share=EQWqwOoiHPREqVcAKGYGuk0BR9TDY48iZxjyzSdAPoxEig&e=VfkBHt",
     "TechnologyId": "",
     "SubjectId": "",
@@ -355,7 +301,7 @@
   {
     "Id": "75856df0-418c-466b-ac1f-085ed45b71e2",
     "Title": "Change related testing",
-    "Description": "",
+    "Description": "Explore the realm of change-related testing with this guide, unveiling strategies and best practices that ensure software resilience in the face of modifications. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Change-related-testing.aspx?csf=1&web=1&share=Edbez9lBkuVFgMVPikiUYQYBmhVT8wtrJonPQu9WYufIOA&e=A9erJk",
     "TechnologyId": "",
     "SubjectId": "",
@@ -366,7 +312,7 @@
   {
     "Id": "a8ef207c-071f-4773-aa31-eda4592202e2",
     "Title": "Maintenance Testing",
-    "Description": "",
+    "Description": "Explore the crucial role maintenance testing plays in sustaining excellence and addressing evolving requirements to keep software systems in optimal condition.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Maintenance-Testing.aspx?csf=1&web=1&share=EbGf2XOYPOZKtVVP-m0vOE8B-Pm5NvwUWu1_-ulJ0aPbLQ&e=CF1g3j",
     "TechnologyId": "",
     "SubjectId": "",
@@ -377,7 +323,7 @@
   {
     "Id": "926aceb5-bd5a-4426-9942-85b508147997",
     "Title": "Journey through Software Test Lifecycle Phases",
-    "Description": "",
+    "Description": "Embark on a holistic exploration of the software test lifecycle with this guide, guiding you through each phase from planning to execution and beyond.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Journey-through-Software-Test-Lifecycle-Phases.aspx?csf=1&web=1&share=EVab5mXQ98RFnZCdZdtQpSwB09B9eIK0z_h0H8HqVXZI6w&e=eszKoc",
     "TechnologyId": "",
     "SubjectId": "",
@@ -387,20 +333,9 @@
   },
 
   {
-    "Id": "82d40bfe-ddf4-4966-aa16-e6747dece771",
-    "Title": "Independent Testing: Balancing Act",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Independent-Testing--Balancing-Act.aspx?csf=1&web=1&share=EX6E3m_o2S5NsjOKDlA1TAcByFEheqlAwgNS-_NbGsP4HA&e=6NQ9gc",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-  {
     "Id": "684a48d9-ddda-4dc6-8832-0ab9be42bcbb",
     "Title": "Roles, Planning, and Estimation Dynamics",
-    "Description": "",
+    "Description": "Explore the pivotal elements of software testing, uncovering the intricate dynamics of roles, strategic planning, and estimation processes. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Roles,-Planning,-and-Estimation-Dynamics.aspx?csf=1&web=1&share=EYIuf3TIP5tCoFTBGVv9YQoBHvbJnnRN3EQE9sQDhCV13Q&e=WVULwB",
     "TechnologyId": "",
     "SubjectId": "",
@@ -411,7 +346,7 @@
   {
     "Id": "e0ae26a8-f0fd-466e-9b9e-a2c7ee1eab21",
     "Title": "Category of Test Techniques- Types and Why we use?",
-    "Description": "",
+    "Description": "This comprehensive guide provides insights into the purpose and significance of various test techniques, empowering practitioners to make informed decisions and optimize testing strategies for robust software quality.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Category-of-Test-Techniques--Types-and-Why-we-use-.aspx?csf=1&web=1&share=EU7Z0JQWQOlPs4d_I3ulthcBUE-WVmPLm3zIqZo5syknJg&e=6Nu0DB",
     "TechnologyId": "",
     "SubjectId": "",
@@ -422,7 +357,7 @@
   {
     "Id": "f5d534e3-e27b-4909-a4a6-102cc4a7ee80",
     "Title": "Conditions, Coverages, and Cases",
-    "Description": "",
+    "Description": "Navigate the testing landscape with precision, exploring the intricacies of conditions, coverages, and cases. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Conditions,-Coverages,-and-Cases.aspx?csf=1&web=1&share=Ef5rszfEy1FNnzTQysNlXtoBy8ZutSLaYlfemettI4IGqw&e=ZOlRqD",
     "TechnologyId": "",
     "SubjectId": "",
@@ -433,7 +368,7 @@
   {
     "Id": "ba026a33-ee40-4c73-a9a1-62e75bf44ca8",
     "Title": "Equivalence Partitioning",
-    "Description": "",
+    "Description": "Explore the strategic application of Equivalence Partitioning to streamline testing processes and ensure comprehensive coverage for more effective software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Equivalence-Partitioning.aspx?csf=1&web=1&share=EYF0aHXoJ49HjKU9irL0V8ABgD6Fwln2geBQI3gGUkMWCQ&e=rwTOYH",
     "TechnologyId": "",
     "SubjectId": "",
@@ -444,7 +379,7 @@
   {
     "Id": "f0070072-8523-48d5-a36c-bb01e4b17b97",
     "Title": "Boundary Value Analysis",
-    "Description": "",
+    "Description": "Learn how this technique ensures the reliability and robustness of software by testing boundary conditions, providing valuable insights into the potential vulnerabilities that may arise at the edges of parameter ranges.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Boundary-Value-Analysis.aspx?csf=1&web=1&share=EfE9bPQ-zJRJlqWmGgWWRTYB33b7ZhhmGXuIfd2DoMC9oA&e=tKN0bS",
     "TechnologyId": "",
     "SubjectId": "",
@@ -455,7 +390,7 @@
   {
     "Id": "218fe9cd-78e5-422c-8bcd-2f4d3b516e1a",
     "Title": "Decision Table Testing",
-    "Description": "",
+    "Description": "Learn how this strategic approach enhances test coverage and ensures thorough examination of various input combinations, contributing to the overall success of software testing endeavors.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Decision-Table-Testing.aspx?csf=1&web=1&share=EZwvUpJoCctEgzTDZJikeS4BbusQiXiW_UTPKFkrQSDdXw&e=Ug3VBW",
     "TechnologyId": "",
     "SubjectId": "",
@@ -466,7 +401,7 @@
   {
     "Id": "7a6a3d4c-2974-4911-89b4-842826f78436",
     "Title": "State Transition Testing",
-    "Description": "",
+    "Description": "Learn how this strategic approach ensures the reliability and robustness of software by systematically validating the transitions, providing insights into potential anomalies that may occur during state change",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/State-Transition-Testing.aspx?csf=1&web=1&share=ETi9Mm9dpcVKqJE2uIYT7DYBVsIhKX6SS41Bc5Uq8L7Kmg&e=yHWOCH",
     "TechnologyId": "",
     "SubjectId": "",
@@ -477,7 +412,7 @@
   {
     "Id": "47441b0f-9225-4839-9d66-d42234d8bf93",
     "Title": "Use Case Testing",
-    "Description": "",
+    "Description": "Learn how this approach ensures comprehensive coverage, aligning software behavior with end-user expectations and delivering a more robust and user-centric testing strategy for enhanced software quality.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Use-Case-Testing.aspx?csf=1&web=1&share=EQ_uFYKbs-JCrHhK3ERblGcBysQo45dpCoPfpTihKE1hlA&e=4cNALd",
     "TechnologyId": "",
     "SubjectId": "",
@@ -488,7 +423,7 @@
   {
     "Id": "b3d7ad40-a7b8-45a5-85a8-f126b4b67365",
     "Title": "Statement Coverage",
-    "Description": "",
+    "Description": "Learn how Statement Coverage provides crucial insights into the extent of code execution during testing, ensuring comprehensive code scrutiny for enhanced software quality and reliability.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Statement-Coverage.aspx?csf=1&web=1&share=EZgnJbKjAVtGrpY8RkwTLNgB6tipEHuKy-7wHPb7uPJz_A&e=sihJ8a",
     "TechnologyId": "",
     "SubjectId": "",
@@ -499,7 +434,7 @@
   {
     "Id": "92f10897-05a8-4a74-85ae-3144ed65531b",
     "Title": "Decision Coverage",
-    "Description": "",
+    "Description": "Learn how Decision Coverage provides crucial insights into the logic flow and decision-making process during testing, ensuring comprehensive scrutiny for robust software quality and reliability.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Decision-Coverage.aspx?csf=1&web=1&share=Ebprzp821uJMog1nnN2aFvkBiE2b3LOY5csQ7PzAdHtZYA&e=zK6o4h",
     "TechnologyId": "",
     "SubjectId": "",
@@ -510,7 +445,7 @@
   {
     "Id": "d308ab2e-e125-4c2d-8438-ec49c0c61563",
     "Title": "Experienced based Testing Techniques",
-    "Description": "",
+    "Description": "Explore methodologies that leverage the expertise and intuition of testing professionals, ensuring a holistic and thorough validation process for robust software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Experienced-based-Testing-Techniques.aspx?csf=1&web=1&share=EUiNpcRZuWtJq5frdkmDbKEBHsCrBlF1O0HBuunnEJ_x-w&e=OCgPjx",
     "TechnologyId": "",
     "SubjectId": "",
@@ -521,7 +456,7 @@
   {
     "Id": "63012c62-e45e-4b53-9408-a4a4a8b51a70",
     "Title": "Independent Testing",
-    "Description": "",
+    "Description": " Learn how independent testing ensures unbiased scrutiny, providing a critical perspective on software quality to enhance reliability and meet user expectations.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Crafting-a-Strategic-Test-Approach.aspx?csf=1&web=1&share=EReVhEdE7OJDjk-wr6kk97wBPHToPqfI-oMufeLqYrEYKA&e=ilUQ4b",
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
@@ -529,21 +464,11 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-  {
-    "Id": "90c33280-b1b6-4da6-b514-d394e2ef517d",
-    "Title": "Benefits and Drawbacks of Independent Testing",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Benefits-and-Drawbacks-of-Independent-Testing.aspx?csf=1&web=1&share=ETnOhYx83FBLpB6TgBwWqbwB6hWtk-jGNaeWhgcNWD4U3A&e=IAarHD",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
+
   {
     "Id": "dcff3d50-f923-4a62-8720-90c0c96d24c3",
     "Title": "Role of a Tester and Test Manager",
-    "Description": "",
+    "Description": "From meticulous testing execution to strategic management, discover the essential responsibilities, skills, and collaborative efforts that drive effective testing and ensure the delivery of high-quality software solutions.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Role-of-a-Tester-and-Test-Manager.aspx?csf=1&web=1&share=ETNiiUjY4f9JmEWQj_LDXAQBjA7IxyO8kZytz80je6kYhQ&e=28br0k",
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
@@ -551,21 +476,11 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-  {
-    "Id": "f95e7309-2c37-4cb8-a66b-76984a461ec5",
-    "Title": "Test Organization",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Organizationjey.aspx?csf=1&web=1&share=ETAXRlWODQ1PqDh1o-J1A_gBoAjL3UcG5mr8lNP48xawfQ&e=NhHA5x",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
+
   {
     "Id": "7b2399f9-5400-4064-81c3-75356ddc0efc",
     "Title": "Test Planning and Estimation",
-    "Description": "",
+    "Description": "Explore methodologies and best practices that empower testing teams to create comprehensive plans and accurate estimates, ensuring efficient resource allocation and successful software quality assurance outcomes.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Planning-and-Estimation.aspx?csf=1&web=1&share=EX42dmAMBm9FjRYKFtzLiwYB6FCyKfGveDbUNLiUw3G4lw&e=0AzTMv",
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
@@ -576,7 +491,7 @@
   {
     "Id": "e535cb84-d401-4eb1-b99e-7549d5090646",
     "Title": "Purpose of a Test Plan",
-    "Description": "",
+    "Description": "Explore the essential role of a test plan in the software development lifecycle, understanding how this strategic document serves as a roadmap for testing activities.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Purpose-of-a-Test-Plan.aspx?csf=1&web=1&share=EdXnQPJ5SE1PrRvTn-Gbf-MByKtFtr3vU_gnljOM4b9tKw&e=JhRCkd",
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
@@ -587,7 +502,7 @@
   {
     "Id": "ef670880-2a8c-4e5d-a5ac-9e9e9d326208",
     "Title": "Test Strategy and Test Approach",
-    "Description": "",
+    "Description": "Explore the strategic brilliance that defines these crucial elements, providing insights into the overarching planning and execution methodologies essential for achieving comprehensive and effective software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Strategy-and-Test-Approach.aspx?csf=1&web=1&share=EenHTDfE4BpIpzIOuJByb1oB5CgXMR86KylJIAePw_kaJw&e=rg3NS9",
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
@@ -598,7 +513,7 @@
   {
     "Id": "ea2de8ec-d278-4b69-9b77-abc7c3af2b1a",
     "Title": "Enrty Criteria and Exit Criteria",
-    "Description": "",
+    "Description": "Gain insights into how these criteria ensure systematic testing processes, setting the standards for entry into testing and the conditions for exit, ultimately contributing to robust and high-quality software outcomes.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Enrty-Criteria-and-Exit-Criteria.aspx?csf=1&web=1&share=EQcV2ZC6OANMp87g3u3HsrcB6Lm4gQ5ucGv2nUhxHDj1gw&e=0JCiuc",
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
@@ -609,7 +524,7 @@
   {
     "Id": "6e324ffc-7b56-4b14-94b2-2d01c3b857d8",
     "Title": "Test Schedule",
-    "Description": "",
+    "Description": "Learn how a well-crafted test schedule contributes to systematic testing, enhances resource utilization, and ultimately leads to the delivery of high-quality software solutions.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Schedule.aspx?csf=1&web=1&share=EQR4y9tnVBFHnuEFqZUyIEAB2HPfjQRfJUzflLkQCHHW7A&e=MAjdRy",
     "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
     "SubjectId": "",
@@ -620,7 +535,7 @@
   {
     "Id": "b97dee91-731f-4cd1-a08b-7fdb5770bfd4",
     "Title": "Factors Influencing the Test Effort",
-    "Description": "",
+    "Description": " From project complexity to resource availability, gain insights into the dynamic elements that impact the test effort, empowering testing teams to adapt and optimize strategies for comprehensive software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Factors-Influencing-the-Test-Effort.aspx?csf=1&web=1&share=EagyhwOhRExCk_2RYIp3sTkBvwmBtDE04aFImlDdbfQ0sw&e=zoD8aY",
     "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
     "SubjectId": "",
@@ -631,7 +546,7 @@
   {
     "Id": "c4426dff-ac3f-45e1-b223-81919aef0fe8",
     "Title": "Test Estimation Techniques",
-    "Description": "",
+    "Description": "Learn how to employ effective test estimation techniques for accurate planning, ensuring successful software quality assurance outcomes.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Estimation-Techniques.aspx?csf=1&web=1&share=Ea7bnOfjJS5Irc0sTbAeUTcBdNq-mEk9A3nV7V4jqmJoSw&e=RsJZVz",
     "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
     "SubjectId": "",
@@ -642,7 +557,7 @@
   {
     "Id": "3708b73e-e49d-46d8-9c67-f4864869256c",
     "Title": "Test Monitoring and Control",
-    "Description": "",
+    "Description": "Explore the vital aspects of test monitoring and control with this guide, unraveling strategic methodologies that empower testing teams to oversee and regulate the testing process effectively.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Monitoring-and-Control.aspx?csf=1&web=1&share=EXkqnzSefIFIg32vqPyik2MBzJtpd9w65eklYd4n_X1DVg&e=TosdBO",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -653,7 +568,7 @@
   {
     "Id": "ed81a07b-1f74-4283-942c-0bb28cddeb26",
     "Title": "Risk-Based Testing Strategies",
-    "Description": "",
+    "Description": "Learn how to navigate uncertainty, identify critical areas, and allocate resources strategically to ensure robust software quality assurance in the face of varying project complexities.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Risk-Based-Testing-Strategies.aspx?csf=1&web=1&share=EQsQ-B16yllJuXPlCaeu_1IBpn-yLa-mc_X9jXSxKMojug&e=nh7G9E",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -664,7 +579,7 @@
   {
     "Id": "294687ed-cd28-4ec8-8c6b-0bd10e520094",
     "Title": "Effective Communication in Testing",
-    "Description": "",
+    "Description": "Learn how to articulate findings, share insights, and establish transparent communication channels, ensuring a cohesive and efficient approach to software testing.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Effective-Communication-in-Testing.aspx?csf=1&web=1&share=EcamL76ZzhBJpFIiJKJLg34B_1-D7z6jA5WGVEL8GRd6uQ&e=3vWoqT",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -675,7 +590,7 @@
   {
     "Id": "1eab837f-ec0f-468c-87ae-2da8f15bb856",
     "Title": "Metrics, Reports, and Quality Criteria",
-    "Description": "",
+    "Description": "Learn how to orchestrate a metrics symphony that informs decision-making and ensures adherence to quality criteria throughout the software development lifecycle.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Metrics,-Reports,-and-Quality-Criteria.aspx?csf=1&web=1&share=Efle8QOp5WRMjY8Xxa8aZYMBWDVmWBJ8BPmNdvxjYrfh-g&e=VZaj1B",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -686,7 +601,7 @@
   {
     "Id": "c339fce8-6110-401e-988a-87f40e627de3",
     "Title": "Defining Key Performance Indicators (KPIs) for Testing",
-    "Description": "",
+    "Description": "Learn how to align KPIs with project objectives, measure testing effectiveness, and drive informed decision-making, ultimately contributing to a culture of continuous improvement and testing excellence.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Defining-Key-Performance-Indicators-(KPIs)-for-Testing.aspx?csf=1&web=1&share=ER-YY44RZChCoXJ0Vg93fLYBbka_KEfWQL66qf-7uHDB7A&e=NDMPKs",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -694,21 +609,11 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "3404448f-2756-4cfd-814d-3d2ba88e15e8",
-    "Title": "Test Status Reporting: Best Practices",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Status-Reporting--Best-Practices.aspx?csf=1&web=1&share=EcdsHS5J9SRBip9LAYucN8wBepFcgzJjAYGV0BhFt3UZGw&e=FBnwRP",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
+
   {
     "Id": "e695be43-0e5b-4e01-9fa8-fe78e0550b77",
     "Title": "Defect Lifecycle",
-    "Description": "",
+    "Description": "Uncover strategies and best practices for managing defects effectively, ensuring a systematic approach that contributes to the overall improvement of software quality throughout its development lifecycle.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Defect-Lifecycle.aspx?csf=1&web=1&share=EbgvazMkuFRClnbFFkl9vwcB4kxYVwc8oj3vWquXkiratg&e=i5D2Md",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -719,7 +624,7 @@
   {
     "Id": "8cb28d3c-3856-459f-b667-4956460a4199",
     "Title": "Defect Triage and Prioritization",
-    "Description": "",
+    "Description": "Learn how to strategically prioritize defects based on severity and impact, ensuring a focused and efficient approach to improving software quality.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Defect-Triage-and-Prioritization.aspx?csf=1&web=1&share=Eb3H6UeSAiRCh8crlVS-W-kBbgEfiPnNGJeONTRFk4GQPw&e=DlBQgi",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -727,21 +632,11 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "05e44487-79bb-4a5d-9681-3f509adcb802",
-    "Title": "Root Cause Analysis for Defects",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Root-Cause-Analysis-for-Defects.aspx?csf=1&web=1&share=EU-yqyF2J9lBkjqokWxIi5oBEs1_orf-fzuKpk6OifHwbw&e=SSP9wZ",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
+
   {
     "Id": "c418e006-504d-45e3-b12a-c861155d3db5",
     "Title": "Test Tool Considerations",
-    "Description": "",
+    "Description": "Uncover strategies for selecting, implementing, and leveraging test tools effectively to enhance efficiency, accuracy, and overall success in the quality assurance process.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Tool-Considerations.aspx?csf=1&web=1&share=EZqXGb6KpLJCrKEwO44bydIBqt41RXj2rAB82wiPh2IKzQ&e=ao55oB",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -752,7 +647,7 @@
   {
     "Id": "7c1f6a43-767f-4e42-8525-f7ee901f166b",
     "Title": "Impact of Tools",
-    "Description": "",
+    "Description": "Gain insights into strategic considerations for tool adoption and learn how the right tools can significantly elevate the effectiveness of testing processes throughout the software development lifecycle.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Impact-of-Tools.aspx?csf=1&web=1&share=EdOE7U3OhE9Ita1U3quaDsQBCCCg9S_Av4VSZ9pJmFTNGw&e=wiFleX",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -763,7 +658,7 @@
   {
     "Id": "c8faf420-cadd-4f07-b543-7704a2f87398",
     "Title": "Other Tools Spotlight: Jira, Bugzilla, Redmine",
-    "Description": "",
+    "Description": " Uncover how these tools empower teams to streamline workflows, enhance collaboration, and track software anomalies efficiently, ensuring a spotlight on their impactful roles within the software development and quality assurance landscape.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Other-Tools-Spotlight--Jira,-Bugzilla,-Redmine.aspx?csf=1&web=1&share=Ef_2VmN3t1ZFmZed4X-pg2oBFCGsqlHfTpYDUSfbIGNPpA&e=snBC1e",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -774,7 +669,7 @@
   {
     "Id": "323e5998-aa9e-48e7-b500-94cf694407e4",
     "Title": "Work Item Lifecycle Management",
-    "Description": "",
+    "Description": "Explore how effective management contributes to project evolution, collaboration, and the successful delivery of high-quality software solutions.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Work-Item-Lifecycle-Management.aspx?csf=1&web=1&share=Ed6ODQOI0cxDhIXq9vgAaXwBbTP8okCTxEpBWez72fPwSw&e=Pzynhn",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -785,7 +680,7 @@
   {
     "Id": "178ec8fe-6a1c-4e6a-b513-4b92cd10e1a1",
     "Title": "Traceability Matrix: Importance and Creation",
-    "Description": "",
+    "Description": "Learn how to create a comprehensive traceability matrix that enhances visibility, accountability, and the overall efficiency of the testing process, ensuring a systematic approach to software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Traceability-Matrix--Importance-and-Creation.aspx?csf=1&web=1&share=EanYZl7ueH9Nqj9KU7x_lJYBa45st0oaZfyxobKhn3YwVw&e=DEBlec",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -793,21 +688,11 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "62747c9d-8563-43e3-9cd1-51fa9122a3b3",
-    "Title": "Effective Requirements Analysis for Testing",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Effective-Requirements-Analysis-for-Testing.aspx?csf=1&web=1&share=EWGFh1YbT_ROm_FLEM-oKroBDvqI5zn6n45plc1cChybrg&e=2putS8",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
+
   {
     "Id": "f2228167-fce7-44f5-b935-7fc76135f669",
     "Title": "Hands-on Wizardry: Test Plan and Suite Creation",
-    "Description": "",
+    "Description": "Explore practical strategies and methodologies to wield testing tools effectively, empowering testing professionals to orchestrate comprehensive and efficient testing processes for superior software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Hands-on-Wizardry--Test-Plan-and-Suite-Creation.aspx?csf=1&web=1&share=Ee8TgdTNSgBHjVlu0dIzEhoB1ReLA6wLPXgpdb730EC9wA&e=g6ekKp",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -829,7 +714,7 @@
   {
     "Id": "1fe2d2fa-37e5-40d9-9400-c4cb6594b17a",
     "Title": "Define/ Modify Test Cases",
-    "Description": "",
+    "Description": "Explore the meticulous process of defining and modifying test cases with this guide, uncovering strategies and best practices to ensure precision and thoroughness in software validation.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Define--Modify-Test-Cases.aspx?csf=1&web=1&share=EX77A5tEJvRNpMb4Y9jP1agBNL0yXLjcn7D9-R-6czkNaQ&e=L1Qj90",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -840,7 +725,7 @@
   {
     "Id": "4428e17f-69d5-41f3-aea9-942f04ebdfac",
     "Title": "Bulk Upload through csv and Grid of any WIT",
-    "Description": "",
+    "Description": "Discover the power of bulk upload through CSV and Grid for any Work Item Type (WIT), unraveling strategies and methods that enable seamless and efficient management of diverse work items.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Bulk-Upload-through-csv-and-Grid-of-any-WIT.aspx?csf=1&web=1&share=EXQJh5wR2ylFsOgbgOpXU1cB3P83n7FzeIlSdsUzL1y1lg&e=FmTcXW",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -851,7 +736,7 @@
   {
     "Id": "2a3d7bdb-d37f-49f3-8d17-431623e4a17c",
     "Title": "Associating Bugs with Test Cases",
-    "Description": "",
+    "Description": "Explore the art of associating bugs with test cases with this guide, unveiling strategies and best practices for seamless collaboration between testing and bug tracking. ",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Associating-Bugs-with-Test-Cases.aspx?csf=1&web=1&share=EWB0YHF6V-BAiPd0sBzSZ9QBD-4_vzNBBXLe6YEvrv1YZg&e=EamPiA",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -862,7 +747,7 @@
   {
     "Id": "aa349fbb-e0b0-4e5a-87c6-5c1e67d078e8",
     "Title": "Test Runs and Configuration",
-    "Description": "",
+    "Description": "Learn how effective configuration control enhances test runs, ensuring systematic and efficient software validation for optimal quality assurance outcomes.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Commanding-Test-Runs--From-Bugs-to-Reports.aspx?csf=1&web=1&share=ESU1-1ImLMRFgvnu-5vb7dkBRlXB_iQHwvVebyn5kk1I5w&e=gh1hRP",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -873,7 +758,7 @@
   {
     "Id": "63420672-ffc6-44e1-b426-b7e84c10ca32",
     "Title": "Test Log and Report Generation REST API and UI",
-    "Description": "",
+    "Description": "Explore the seamless integration of Test Log and Report Generation using REST API and UI with this guide.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Log-and-Report-Generation-REST-API-and-UI.aspx?csf=1&web=1&share=EWuloY1XBWJHr-JDG26QW10BHfZVomrwYJ6paHcsQklJZg&e=1KCzU2",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -884,7 +769,7 @@
   {
     "Id": "e78b43d1-a1a2-4aeb-840f-e81cbc9b1869",
     "Title": "Continuous Monitoring in Testing",
-    "Description": "",
+    "Description": "Explore how continuous monitoring enhances visibility, detects anomalies, and contributes to proactive quality assurance practices for sustained software excellence.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Continuous-Monitoring-in-Testing.aspx?csf=1&web=1&share=ERLjm3oAPBlLnWEoggA_5nABfhYbrzcCtOLSwCDiDVs-5w&e=ShE7t8",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -895,7 +780,7 @@
   {
     "Id": "a7606b70-4273-4696-aba8-53cec23c9027",
     "Title": "Test Automation- What? Why?",
-    "Description": "",
+    "Description": "Understand the key aspects of What and Why in test automation, gaining insights into how it enhances efficiency, accelerates testing cycles, and contributes to overall excellence in software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Risk-and-Configuration-Management-Symphony.aspx?csf=1&web=1&share=Ed0QyoQg6p5AuZhYZHX-3ywBUQtJXZgDLm_xLLs3wjkt5g&e=pd96xn",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -906,7 +791,7 @@
   {
     "Id": "6a297214-8b54-487a-9ca1-fa1075795be7",
     "Title": "How to Approach Test Automation",
-    "Description": "",
+    "Description": "Learn how to strategically plan, design, and implement test automation, uncovering methodologies and best practices that contribute to efficiency, reliability, and overall excellence in software quality assurance.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/How-to-Approach-Test-Automation.aspx?csf=1&web=1&share=EUFXS_ntzsZFnYz536XMOOEBHPRjhhWWfFKl6iozEhYAIw&e=JucCKo",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -917,7 +802,7 @@
   {
     "Id": "73448647-2130-4329-bd53-1700a8bea2e1",
     "Title": "Decide what to Automate",
-    "Description": "",
+    "Description": "Explore the decision-making process for test automation with this guide, unveiling strategies to identify and prioritize test scenarios for automation",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Decide-what-to-Automate.aspx?csf=1&web=1&share=Ecv9tgVIbUFDqOBQOrfgsooBcVWgwaKXB6LNFWeOJkleaA&e=5l9BQK",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -928,7 +813,7 @@
   {
     "Id": "ba2c26da-2600-4a27-8001-254b3349b874",
     "Title": "Testing Tools",
-    "Description": "",
+    "Description": "Explore how these tools empower testing teams to streamline processes, enhance efficiency, and ensure robust software quality assurance throughout the development lifecycle.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Testing-Tools.aspx?csf=1&web=1&share=EVHwzuN9GzxHhCCYIfztSpkBbKUoRjYhuRhqXEk3ybzMLg&e=6gJCv8",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -939,7 +824,7 @@
   {
     "Id": "b3182a75-eee8-4b08-8890-dedc6d857f26",
     "Title": "Security Testing Introduction",
-    "Description": "",
+    "Description": "Uncover the importance of security testing in identifying and mitigating potential threats, ensuring the development of resilient and secure software applications.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Security-Testing-Introduction.aspx?csf=1&web=1&share=EeQ0IPG8c-pHh9d65pIfjQsBV3BHTmbn5UIH89Ojf5G4gQ&e=bEfCoq",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -950,7 +835,7 @@
   {
     "Id": "285c24ab-85cb-4c22-b803-993e11cce5e7",
     "Title": "Basics of Performance Testing",
-    "Description": "",
+    "Description": "Explore the essential aspects of load, stress, and scalability testing, empowering testing teams to enhance the performance and reliability of software systems.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Basics-of-Performance-Testing.aspx?csf=1&web=1&share=EXx0cwrIZHtKq-GgC9rX7jABwVnP-tGN4ARrTsu3_BWmQw&e=ZuiKHw",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -972,7 +857,7 @@
   {
     "Id": "3b975f8a-6db3-4afc-bc29-9ffd5b43d37d",
     "Title": "Features and Benefits of Playwright",
-    "Description": "",
+    "Description": " Explore how Playwright facilitates cross-browser testing, improves speed and reliability, and empowers testers and developers to create robust and efficient automated tests for web applications.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Features-and-Advantages-in-Playwright.aspx?csf=1&web=1&share=Ef2YSi9S8PtPkBeqLF9LoioBIaNJ6zqH5Gza7v_JOi-BVw&e=DxLjgu",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -983,7 +868,7 @@
   {
     "Id": "bc118552-5f48-46fb-9705-81d7b1822384",
     "Title": "Prerequisites and getting started with Playwright",
-    "Description": "",
+    "Description": "It provides step-by-step insights, setting the foundation for harnessing Playwright's capabilities and streamlining the process of creating robust automated tests for web applications.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Prerequisites-and-getting-started-with-Playwright.aspx?csf=1&web=1&share=EQ4LBKrVE29KtCPUnZDiERYBWTSN5Hgia7jOXP0u_Fy16Q&e=GaXi8P",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -994,7 +879,7 @@
   {
     "Id": "621ef3b8-c43e-4f53-a340-29efeb851043",
     "Title": "Learn about Configuration and Commands",
-    "Description": "",
+    "Description": "Comprehensive insights into configuring Playwright for optimal performance and mastering the commands that empower testers and developers to orchestrate efficient browser automation, ensuring a seamless and powerful testing experience.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-about-Configuration-and-Commands.aspx?csf=1&web=1&share=EXrNPQr1Ap5Gku--KgCX9AABNvJ5UBPqgLiOHNbmt69W9g&e=9frB9U",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -1005,7 +890,7 @@
   {
     "Id": "577d5cca-6b6f-4a55-8b41-1f9777a8b818",
     "Title": "Create First script with codegen",
-    "Description": "",
+    "Description": "Explore how Playwright's codegen feature simplifies script creation, providing a hands-on introduction to writing efficient and effective automation scripts for browser testing.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Create-the-First-script-with-Codegen.aspx?csf=1&web=1&share=EfKdAVSq20dJm2l4Y86V8TQBTTpINcADWkn-ssQGdSsyWg&e=lcPgot",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -1016,7 +901,7 @@
   {
     "Id": "20b13f5e-9692-4669-b58c-8ee975ff870a",
     "Title": "Learn to define Locators",
-    "Description": "",
+    "Description": "A hands-on insights into leveraging locators effectively, empowering testers and developers to enhance the accuracy and reliability of their browser automation scripts.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Learn-to-define-Locators.aspx?csf=1&web=1&share=EVQGbeNnwuFAin980ylr8G4BflnJx6GMEgDXKaSXTFqtOw&e=XsMVZQ",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -1027,7 +912,7 @@
   {
     "Id": "75e86db2-21dc-4b63-a142-5770ea68d33d",
     "Title": "Creating own script",
-    "Description": "",
+    "Description": "Explore the syntax, commands, and best practices to harness the full potential of Playwright, ensuring a customized and effective approach to browser automation in your testing endeavors.",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Creating-own-script.aspx?csf=1&web=1&share=EclTSLai9EFDiVr7Un9t55EBZtVOQ7wzgjROkfi7dAZcIQ&e=q4clA2",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
@@ -1321,6 +1206,30 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
+  {
+    "Id": "62da20ec-e5e3-4957-b31c-302417bb1a41",
+    "Title": "Importance Of Penetration Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Importance-of-Pentesting.aspx?csf=1&web=1&share=EV-xblp_0yRGqslXl76x24gByx9r1RascZjWL8mNuMDADg&e=5wXeUe",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  
+  {
+    "Id": "b81fdd3a-29d3-4ea4-883b-382d3a94d42f",
+    "Title": "Introduction on SANS 25",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Intro-I.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+
   {
     "Id": "2636a000-e426-4623-9518-91a307fd3d82",
     "Title": "Network Security",
@@ -1818,7 +1727,7 @@
   },
   {
     "Id": "ed8dee49-0914-47fa-9917-fba1f1d7eb1c",
-    "Title": "The CWE Top 25",
+    "Title": "Introduction on SANS 25",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/The-CWE-Top-25.aspx?csf=1&web=1&share=EXbMDebPACVHqX6z5nIyowoBV6Onw5TeoiLvGANybmHHZw&e=AxotSk",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
