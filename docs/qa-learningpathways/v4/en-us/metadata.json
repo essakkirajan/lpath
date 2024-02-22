@@ -344,8 +344,44 @@
       "SubCategories": [
         {
           "Id": "7e36cc7d-e6ff-4076-b91e-1f4811b8fbfb",
-          "Name": "Performance Metrics",
+          "Name": "Fundamentals of Performance testing",
           "Image": "images/categories/toolkit.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "464124b9-e6d0-4cc2-a08f-cdb07288b196",
+          "Name": "Get started with K6",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "886d55d5-0a39-4289-93e9-1c94c48e4116",
+          "Name": "Basic Script Creation",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "e463848b-b0f4-4526-8ed1-5ff28a494f9f",
+          "Name": "Performance tests with K6",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "bd251ac9-bc00-4ee0-a394-1c168dc872d5",
+          "Name": "Advanced Approach",
+          "Image": "images/categories/work_remotely.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",

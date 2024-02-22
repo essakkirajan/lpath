@@ -553,7 +553,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e4fd0b0f-9d41-4675-8c71-7ec8fa126ee8",
-    "Description": "",
+    "Description": "Uncover the benefits of seamless data integration, real-time monitoring, and smart decision-making, ensuring a more efficient and sustainable future for pipeline operations.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -572,7 +572,7 @@
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
+    "SubjectId": "Stay ahead in the cybersecurity landscape with insights into the evolving world of security testing.",
     "Source": "Microsoft",
     "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
     "Description": "",
@@ -596,7 +596,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
-    "Description":"",
+    "Description":"Equip yourself with insights into the comprehensive world of security testing to ensure robust protection against evolving cyber threats.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -609,7 +609,7 @@
   },
   {
     "Id": "56c15f44-e5e4-40d0-8adf-43f66079fd09",
-    "Title": "Terminology Used",
+    "Title": "Domain Terminologies",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
@@ -617,7 +617,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
-    "Description":"",
+    "Description":"Gain a solid understanding of terms like penetration testing, zero-day exploits, and multi-factor authentication.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -642,7 +642,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
-    "Description":"",
+    "Description":"Uncover the importance of a holistic approach that encompasses penetration testing, code reviews, and continuous monitoring.",
      "StatusTagId": "",
     "StatusNote": "",
     "Assets": [  
@@ -662,7 +662,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
-    "Description":"",
+    "Description":"Delve into the essentials of TCP/IP protocols, network topologies, and the intricacies of data transmission.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -682,7 +682,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
-    "Description":"",
+    "Description":"Embark on a journey into the realm of network security, where we unravel the critical strategies and technologies that protect digital landscapes.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -700,7 +700,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
-    "Description":"",
+    "Description":"Uncover the role of IP addressing, subnetting, and routing in efficient data transmission. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -722,7 +722,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
-    "Description":"",
+    "Description":"Understand the significance of footprinting, network discovery, and domain reconnaissance in building a strategic cybersecurity foundation.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -739,7 +739,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
-    "Description":"",
+    "Description":"Embark on the dynamic journey of Stage 2 - Scanning in cybersecurity as we delve into the art and science of probing digital landscapes. From vulnerability assessments to port scanning and network mapping, this guide illuminates the critical techniques employed to identify potential weaknesses. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -756,7 +756,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
-    "Description":"",
+    "Description":"Uncover the art of meticulous exploration in Stage 3 - Manual Penetration Testing as we delve into the hands-on approach to fortifying digital defenses. From ethical hacking techniques to in-depth vulnerability analysis, this guide unveils the strategic and targeted methods employed by cybersecurity professionals. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -773,7 +773,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
-    "Description":"",
+    "Description":"Explore the depth of cybersecurity expertise with Stage 4 - Exploitation, where the battle against vulnerabilities intensifies. From crafting and executing exploits to understanding privilege escalation, this guide delves into the strategic exploitation of identified weaknesses. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -790,7 +790,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
-    "Description":"",
+    "Description":"Navigate the culmination of cybersecurity endeavors with Stage 5 - Reporting, where insights transform into actionable impact. This guide unravels the art of comprehensive reporting, from detailing discovered vulnerabilities to providing strategic recommendations. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -807,7 +807,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "536da769-f2ed-4862-90df-7fff2601e1a4",
-    "Description":"",
+    "Description":"Embark on the journey of resilience with Stage 6 - Remediation and Continuous Monitoring in cybersecurity, where proactive measures meet perpetual vigilance. Uncover the strategic approaches to addressing vulnerabilities discovered during testing, implementing effective remediation strategies, and fortifying digital fortresses.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -824,7 +824,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f838c09e-e9f3-4071-9dc0-d0e2fd02d8b1",
-    "Description":"",
+    "Description":"Explore the forefront of cybersecurity challenges with our guide on OWASP Top 10 vulnerabilities. Uncover the critical threats facing web applications, from injection flaws to security misconfigurations. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -851,7 +851,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f838c09e-e9f3-4071-9dc0-d0e2fd02d8b1",
-    "Description":"",
+    "Description":"Explore the forefront of cybersecurity threats with the SANS Top 25, a comprehensive guide highlighting critical security challenges. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -871,7 +871,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-     "Description":"",   
+     "Description":"Explore how enforcing HSTS protocols enhances website security by ensuring secure and encrypted connections.",   
      "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -888,7 +888,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Stay informed about evolving cookie regulations and best practices, ensuring a responsible and secure approach to cookie management in today's interconnected online environment.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -905,7 +905,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Explore the foundational elements of digital security with our comprehensive guide on Session Management",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -922,7 +922,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Explore password policies, multi-factor authentication, and intrusion detection systems as essential tools in the defense against relentless attacks.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -939,7 +939,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Navigate the intricate landscape of web security with our comprehensive guide on Cross-Site Scripting (XSS).",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -956,7 +956,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Master the techniques to mitigate CSRF risks and safeguard the integrity of your online platforms.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -973,7 +973,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Explore the critical realm of database security with our guide on SQL Injection defenses. Uncover the insidious tactics cyber adversaries employ to manipulate and exploit vulnerabilities in SQL queries.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -990,7 +990,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Explore the nuances of securing file uploads with our in-depth guide on File Upload Security. Uncover potential risks associated with file uploads and learn how to implement robust measures to mitigate vulnerabilities.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -1007,7 +1007,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Navigate the intricate landscape of data security with our comprehensive guide on XML External Entity (XXE) defenses.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -1024,7 +1024,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"",
+    "Description":"Understand the mechanics of Clickjacking to implementing defensive measures like frame-busting scripts, X-Frame-Options headers, and secure UI design principles, this resource empowers developers, security professionals, and website administrators to fortify against Clickjacking threats.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -1041,7 +1041,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "de8534eb-613c-4932-9a72-8007d341fdb0",
-    "Description":"", 
+    "Description":"Explore the frontier of web security with our comprehensive guide on Content Security Policy (CSP). Uncover the power of CSP in mitigating risks associated with cross-site scripting (XSS) and unauthorized content loading.", 
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -1058,7 +1058,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
-    "Description":"",
+    "Description":"Explore the powerful tools and features of Kali Linux, designed for cybersecurity professionals, ethical hackers, and enthusiasts.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -1076,7 +1076,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
-    "Description":"",
+    "Description":"Familiarise with the real-world scenarios, best practices, and emerging trends in network scanning, ensuring a proactive and vigilant approach to cybersecurity. ",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -1094,7 +1094,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
-    "Description":"",
+    "Description":"Learn on the versatile capabilities of proxy tools, designed to provide anonymity, content filtering, and enhanced control over online activities.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
@@ -1112,14 +1112,206 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
-    "Description":"To enhance online security",
+    "Description":"Understand the power of automated scanning solutions designed to identify and mitigate security risks in web applications.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
     "8e5c7a3c-0e9c-4a1c-9d0a-cd2b4ed95572",
     "de15121a-bd3f-4039-80f4-0a3858e19f93"
     ]
+  },
+  {
+    "Id": "59affe19-db47-4d0b-9df2-7d2d30bb9251",
+    "Title": "Performance Concepts",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "7e36cc7d-e6ff-4076-b91e-1f4811b8fbfb",
+    "Description":"Learn the performance concepts that drive efficiency, speed, and reliability in digital environments.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "9c800603-977c-4f47-a99c-d70742bf194c",
+     "eaee18ee-84ef-4e0d-8150-e33c2aeec393",
+      "131e6868-16b4-4cd7-9e07-a18e469558a6",
+      "eb52d4ac-7f56-448e-a0e2-3bf602042024",
+      "8082bf36-ee21-448c-b391-e25ea60a9cdd",
+      "796a8fd7-2088-4e14-8da0-11df606a932d",
+      "a1eeb85d-af8d-439d-a110-24be2539377f"
+    ]
+  },
+  {
+    "Id": "6fb62774-24c6-497a-9c66-0affde6e4121",
+    "Title": "Installation and setup",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "464124b9-e6d0-4cc2-a08f-cdb07288b196",
+    "Description":"Streamline your journey into performance testing with our comprehensive guide on the installation and setup of k6",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+   "9aaa6f88-ee9e-4701-b263-919e48c22b61",
+   "7c6038f6-56cc-4828-9b35-bf79ef5bf4d1"
+    ]
+  },
+  {
+    "Id": "f1ff46e2-345f-440a-9292-1b41f40e1263",
+    "Title": "Basic test scripting",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "886d55d5-0a39-4289-93e9-1c94c48e4116",
+    "Description":"Embark on your performance testing journey with our beginner's guide to basic test scripting using k6",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+    "ff080060-01c5-4eb1-bf51-07ba7b24c5ef",
+      "f57fa1d9-0c8c-42b3-b79e-ee363fc9167d",
+      "7eb804d3-5e1e-4132-a2bf-fe00de050750"
+    ]
+  },
+  {
+    "Id": "ec534597-abb1-4031-8f66-1047d453b905",
+    "Title": "Parameterization and Dynamic data",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e463848b-b0f4-4526-8ed1-5ff28a494f9f",
+    "Description":"Elevate your performance testing proficiency with our comprehensive guide on parameterization and dynamic data handling in k6.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+   "fffd01e9-eab4-49e6-aaff-46042d34c55c",
+   "1f5b640a-1613-4fd8-baa8-20fa7e7e1a41"
+    ]
+  },
+  {
+    "Id": "14848f7d-ad92-4953-931a-562886c854e0",
+    "Title": "Load testing strategies",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e463848b-b0f4-4526-8ed1-5ff28a494f9f",
+    "Description":"Understand the goals of load testing to crafting realistic scenarios, this resource provides insights for developers, QA professionals, and performance engineers",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+"138185a4-8873-4169-b500-8a5978d6039b",
+"83c29f5b-72e6-4f19-a517-f393d2542225",
+"e78bb0cd-4d73-4e91-8e9c-42d8ded62f82"
+    ]
+  },
+  {
+    "Id": "a4ea1f80-8e0d-4228-87c3-c2de9e541b9e",
+    "Title": "Assertions and validations",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e463848b-b0f4-4526-8ed1-5ff28a494f9f",
+    "Description":"Elevate the accuracy and reliability of the performance tests with our comprehensive guide on assertions and validations in k6.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "b975f13c-68c4-43d6-8c57-927e85edf0a8",
+      "5dd7572a-275b-4371-a480-fc23168dbfc6",
+      "ec4506b7-942f-449c-b92a-8b789f2e54fa"
+    ]
+  },
+  {
+    "Id": "ad889ee4-7ddf-4f8b-827d-5a8e59830394",
+    "Title": "Browser testing with k6",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e463848b-b0f4-4526-8ed1-5ff28a494f9f",
+    "Description":"Explore the world of browser testing with the playlist by leveraging k6 for comprehensive performance testing",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "319ccced-6e41-4877-af3b-3509d91325d7",
+      "7884d89f-2ff3-48cf-a14a-2178ec267c7d"
+    ]
+  },
+  {
+    "Id": "acf01e68-b3f0-4028-85ef-dc1743e2e1d1",
+    "Title": "Web vitals monitoring",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e463848b-b0f4-4526-8ed1-5ff28a494f9f",
+    "Description":"Learn the significance of Core Web Vitals, including Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS).",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "5f83e140-0994-48e9-869c-1f46009db71b",
+      "6cfa9d4c-5b12-4e37-a13e-90f808ea58a2"
+    ]
+  },
+  {
+    "Id": "31c83f78-0909-486e-866c-4e21a79922d1",
+    "Title": "Advanced scripting techniques",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "bd251ac9-bc00-4ee0-a394-1c168dc872d5",
+    "Description":"Master advanced scripting features to optimizing scenarios for complex use cases, this resource provides in-depth insights for seasoned developers, QA professionals, and performance engineers.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+ "fa98aa04-a64e-46cc-8984-cf2faa72022a",
+ "0384505c-e1c2-4cfc-a400-3e10ba8ee48f",
+ "ad711d6f-7724-495e-911f-760fa414d0f2",
+ "f2abc4c2-6d6e-4258-9484-c9dccbf68aea"
+    ]
+  },
+  {
+    "Id": "1676dc84-8d59-4fb5-add5-1e280dbb0c94",
+    "Title": "Integration and automation",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "bd251ac9-bc00-4ee0-a394-1c168dc872d5",
+    "Description":"It provides insights on Integration patterns to implementing automation frameworks with real-world examples, best practices, and emerging trends in creating harmonious digital ecosystems",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "24ea80a1-245b-40b9-848d-3318f9af9e99",
+      "d25d78da-3401-429f-bce5-647046c6dc48",
+      "baf25ebd-abf0-4532-9046-2862eb8494eb",
+      "90130e14-16e1-4877-9b37-93c5d21f9cd9",
+      "8683acc6-aa94-49aa-82ac-74d062e73fce"
+    ]
   }
-
 ]
 

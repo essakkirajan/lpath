@@ -1970,13 +1970,222 @@
   {
     "Id": "de15121a-bd3f-4039-80f4-0a3858e19f93",
     "Title": "OWSAP ZAP scanner",
-    "Description": "Web App Security Scanner",
+    "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/OWSAP-ZAP-scanner.aspx?csf=1&web=1&share=EVoO7-6jNYxLo1lMGPPgTowBIDOiOReK7kXNs1WvYzLd5Q&e=aJxHGH",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "54e8a64b-3594-46e8-bc58-ce65891d8c72",
+    "Title": "Objectives",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Objectives.aspx?csf=1&web=1&share=EW-SLuawV_xBu_2I39n4gg0BiFsYQmuEIPb361gGs816KA&e=n2zTAv",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9c800603-977c-4f47-a99c-d70742bf194c",
+    "Title": "Why do performance testing?",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Why-do-performance-testing-.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "eaee18ee-84ef-4e0d-8150-e33c2aeec393",
+    "Title": "Performance, Load and Stress testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Performance,-Load-and-Stress-testing.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "131e6868-16b4-4cd7-9e07-a18e469558a6",
+    "Title": "Baselines in Performance Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Baselines-in-Performance-Testing.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "131e6868-16b4-4cd7-9e07-a18e469558a6",
+    "Title": "Baselines in Performance Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Baselines-in-Performance-Testing.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "eb52d4ac-7f56-448e-a0e2-3bf602042024",
+    "Title": "Benchmarking",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Benchmarking.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8082bf36-ee21-448c-b391-e25ea60a9cdd",
+    "Title": "Types of Performance testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Types-of-Performance-testing.aspx?csf=1&web=1&share=EYN8gUNfmJtCsOoFEjZffOwBu3LCHm8degnJYkQEwTLnnQ&e=iznmyF",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "796a8fd7-2088-4e14-8da0-11df606a932d",
+    "Title": "Significance in SDLC",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Significance-in-SDLC.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a1eeb85d-af8d-439d-a110-24be2539377f",
+    "Title": "Performance Metrics and Assessing Tools",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Performance-Metrics-and-Assessing-Tools.aspx?csf=1&web=1&share=Ea8WhZcpjQZEnKQFbaxNbm0B1K5LRd1p1-30lfYQWFSo0w&e=qxc708",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6357a603-c024-403d-ac63-5b8541bdf353",
+    "Title": "Purpose and benefits of k6",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Purpose-and-benefits-of-k6.aspx?csf=1&web=1&share=ES2ru_MT78pAvCDjW-fxMiIBC863JliUsZypXlA7c4YP_Q&e=9o9f7q",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "28c1df38-1476-4973-81ff-2d8e09c35d38",
+    "Title": "Features and capabilities",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Features-and-capabilities.aspx?csf=1&web=1&share=EbLNc4W17tRGmGLzA-5dkiwBXYgiyuTnkB-nHsTzQH2GjQ&e=Ozo4YL",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e46be850-5038-43d5-9b64-c88893be824e",
+    "Title": "Key differences and usecases",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Key-differences-and-usecases.aspx?csf=1&web=1&share=Ee_Bvy4CX21IgQLOcc06iUEBC591pmr_YJY5ZkWKeZrnFA&e=4hxIGd",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "9aaa6f88-ee9e-4701-b263-919e48c22b61",
+    "Title": "Installing K6 on Various Operating Systems ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Installing-K6-on-Various-Operating-Systems.aspx?csf=1&web=1&share=EVy59gO-NuNJgErgV4FK8zcBeY_27QRjV-zPGGknrYX8Iw&e=Bm9IGZ",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "7c6038f6-56cc-4828-9b35-bf79ef5bf4d1",
+    "Title": "Installation and basic commands",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Installation-and-basic-commands.aspx?csf=1&web=1&share=Ec_ts42frXVPj-PzvY3_37YBglNC9BOid8u-CNI739rIPQ&e=hL61nL",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ff080060-01c5-4eb1-bf51-07ba7b24c5ef",
+    "Title": "Introduction to JavaScript Basics for k6",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Introduction-to-JavaScript-Basics-for-k6.aspx?csf=1&web=1&share=EbvVCFOxPQhCrmset3ydt5MBDBzf_obTIpiDhx8Zp_HSCg&e=Z5pHfF",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f57fa1d9-0c8c-42b3-b79e-ee363fc9167d",
+    "Title": "Anatomy of k6 test script",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Anatomy-of-k6-test-script.aspx?csf=1&web=1&share=EeM4OJSH8MVBgOz9tl0KG8EBMuz2FxVNHZME4bR-5fbVYg&e=ijcBkZ",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "7eb804d3-5e1e-4132-a2bf-fe00de050750",
+    "Title": "Writing simple HTTP request scripts",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Writing-simple-HTTP-request-scripts.aspx?csf=1&web=1&share=EYbKKCFDMAlNobJPGvbNm5wBQfNtyABPuxRsgObGDUSPqQ&e=3AUZwj",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fffd01e9-eab4-49e6-aaff-46042d34c55c",
+    "Title": "Parameterization techniques",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Parameterization-techniques.aspx?csf=1&web=1&share=EfJ4nUDyw_xEgtYSNmVhs7MBrVC_M2_zSZGlGGLDCUZqdg&e=xvQDOQ",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1f5b640a-1613-4fd8-baa8-20fa7e7e1a41",
+    "Title": "Dynamic data handling",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Dynamic-data-handling.aspx?csf=1&web=1&share=EZPRI6wpQeBFtWUMxChKD-ABouS0g70yYvGEPLMuBX9xXg&e=VhpPf6",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
-  
 ]
