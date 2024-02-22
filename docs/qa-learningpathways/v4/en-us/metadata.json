@@ -40,7 +40,7 @@
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Getting Started with Testing",
-      "Image": "",
+      "Image": "images/Getting_Started_with_Testing.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
@@ -48,7 +48,7 @@
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
           "Name": "Testing Foundation",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/Testing_Foundation.jpg",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -57,7 +57,7 @@
         {
           "Id": "33a58ba0-f36e-4cc8-a52b-c55581e51a2e",
           "Name": "Software Testing Essentials",
-          "Image": "images/categories/recommended.png",
+          "Image": "images/Testing_Essentials.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -66,7 +66,7 @@
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
           "Name": "Principles and SDLC Fusion",
-          "Image": "images/categories/recommended.png",
+          "Image": "images/SDLC.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
