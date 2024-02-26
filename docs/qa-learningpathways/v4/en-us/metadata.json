@@ -85,7 +85,7 @@
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
           "Name": "Exploring Testing Dimensions",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/playlist_bw.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -104,7 +104,7 @@
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
           "Name": "Testing Lifecycle and Techniques",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/Collaboration_Category.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -115,7 +115,7 @@
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
       "Name": "Mastering Test Management",
-      "Image": "",
+      "Image": "images/categories/hybridwork.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
@@ -123,7 +123,7 @@
         {
           "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
           "Name": "Elevating Testing Practices",
-          "Image": "images/categories/sway.png",
+          "Image": "images/categories/customtransformation.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -132,7 +132,7 @@
         {
           "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
           "Name": "Measuring Testing Success",
-          "Image": "images/categories/access.png",
+          "Image": "images/categories/lists_cat.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -141,7 +141,7 @@
         {
           "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
           "Name": "Monitor & Control",
-          "Image": "images/categories/vivalearning_learningpathways.png",
+          "Image": "images/categories/featured.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
