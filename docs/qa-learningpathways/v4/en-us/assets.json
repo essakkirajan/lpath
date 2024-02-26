@@ -2022,17 +2022,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-  {
-    "Id": "131e6868-16b4-4cd7-9e07-a18e469558a6",
-    "Title": "Baselines in Performance Testing",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Baselines-in-Performance-Testing.aspx",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
+
   {
     "Id": "eb52d4ac-7f56-448e-a0e2-3bf602042024",
     "Title": "Benchmarking",
