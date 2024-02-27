@@ -2,7 +2,7 @@
   {
     "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
     "Title": "Decoding Quality Assurance",
-    "Image": "images/playlists/create_and_send_email.png",
+    "Image": "images/playlists/1-decodingQA.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -25,7 +25,7 @@
   {
     "Id": "fafe83ef-2b8d-46de-9ba7-a46df4740947",
     "Title": "Comprehensive Testing Curriculum",
-    "Image": "images/playlists/use_word_for_school.png",
+    "Image": "images/playlists/2-curriculum.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -47,7 +47,7 @@
   {
     "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
     "Title": "Embracing the Seven Testing Principles",
-    "Image": "images/playlists/get-started-with-microsoft-loop.png",
+    "Image": "images/playlists/3-principles.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -66,7 +66,7 @@
   {
     "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
     "Title": "Integrating Testing into SDLC & Agile Framework",
-    "Image": "images/playlists/slides_and_layouts.png",
+    "Image": "images/playlists/4-intSDLC.webp",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -86,7 +86,7 @@
   {
     "Id": "fa3a7737-b33d-4481-9b80-416d20b9ca9f",
     "Title": "Ascending Testing Levels",
-    "Image": "images/playlists/access-create-shape-and-stencils.png",
+    "Image": "images/playlists/5-testLevels.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -107,7 +107,7 @@
   {
     "Id": "e57b3cdc-434e-4f5e-b97e-d8ba7b618faa",
     "Title": "Understanding Testing Types",
-    "Image": "images/playlists/use_across_devices.png",
+    "Image": "images/playlists/6-TestingTypes.JPG",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -129,7 +129,7 @@
   {
     "Id": "9647e1aa-63a1-48d1-aea9-b0913f0f1e0b",
     "Title": "Journey through Software Test Lifecycle Phases",
-    "Image": "images/playlists/use_across_team.png",
+    "Image": "images/playlists/7-stlc.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -146,7 +146,7 @@
   {
     "Id": "cb4effb6-f78e-444a-98b7-6274ad2fe70c",
     "Title": "Foundation of Testing Techniques",
-    "Image": "images/playlists/use_across_org.png",
+    "Image": "images/playlists/playlist-exploring techniques.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -165,7 +165,7 @@
   {
     "Id": "4860061c-0e87-4cc7-ad29-75152501a41d",
     "Title": "Exploring Techinques",
-    "Image": "images/playlists/use_across_org.png",
+    "Image": "images/playlists/8-blackWhite.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -189,7 +189,7 @@
   {
     "Id": "e51271b2-b4c0-4038-aa97-e4498c953afe",
     "Title": "Crafting a Strategic Test Approach",
-    "Image": "images/playlists/LP-security-security-at-work.png",
+    "Image": "images/playlists/playlistApproach.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -218,7 +218,7 @@
   {
     "Id": "72863bbc-46ae-41dc-885d-0edb0a8abaa4",
     "Title": "Metrics, Reports, and Quality Criteria",
-    "Image": "images/playlists/LP-security-security-at-home.png",
+    "Image": "images/playlists/9-KPIs.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -238,7 +238,7 @@
   {
     "Id": "5872570a-e8a6-4d84-8802-4dd053b4dabc",
     "Title": "Defect Lifecycle",
-    "Image": "images/playlists/work_remotely_with_o365.png",
+    "Image": "images/playlists/10-defectLife.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -256,7 +256,7 @@
   {
     "Id": "35f25052-fa93-4daf-8d2e-b29935a002d0",
     "Title": "Test Tool Considerations",
-    "Image": "images/playlists/work_remotely_with_o365.png",
+    "Image": "images/playlists/12-testToolConsi.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -275,7 +275,7 @@
   {
     "Id": "012a6f71-8961-4472-b2fb-20e90d939503",
     "Title": "Spotlight on Popular Tools",
-    "Image": "images/playlists/work_remotely_with_o365.png",
+    "Image": "images/playlists/12-spotlight.jpg ",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -293,7 +293,7 @@
   {
     "Id": "997ecfcb-29a0-4a0c-acec-7ad055329f06",
     "Title": "Work Item Lifecycle Management",
-    "Image": "images/playlists/work_remotely_with_o365.png",
+    "Image": "images/playlists/13-workitem.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -311,7 +311,7 @@
   {
     "Id": "d59b1053-3756-4d9f-82a8-0ac97b11529c",
     "Title": "Hands-on Wizardry: Test Plan and Suite Creation",
-    "Image": "images/playlists/access-quick-start.png",
+    "Image": "images/playlists/14-azureplans.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -332,7 +332,7 @@
   {
     "Id": "3c376578-f821-4184-9365-75011c163f68",
     "Title": "Commanding Test Runs: From Bugs to Reports",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/15-testReports.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -352,7 +352,7 @@
   {
     "Id": "b631987d-116e-4ec4-850d-b0e7c169401d",
     "Title": "Test Automation Fundamentals",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1-TA.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -374,7 +374,7 @@
   {
     "Id": "68404179-1142-45e9-9c40-26a6be36ec5b",
     "Title": "Non-Functional Tests",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1Nonfunctional.webp",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -394,7 +394,7 @@
   {
     "Id": "7b72ffd6-afff-4e6d-a7fe-5123c254cfce",
     "Title": "Installation & Configuration",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/15-Install.webp",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -415,7 +415,7 @@
   {
     "Id": "78d99b85-27fe-41aa-96c2-b2e10ec43397",
     "Title": "Test Script Creation",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/16-scriptCreation.webp",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -438,7 +438,7 @@
   {
     "Id": "c4dbb6e4-4159-4d69-bdad-831a9cbcb344",
     "Title": "Test Reports",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/15-testReports.jpg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -456,7 +456,7 @@
   {
     "Id": "0c98917b-41c0-4c30-967f-d5e175cfd1e4",
     "Title": "Advanced Test Methods",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/advancedTechniques.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -476,7 +476,7 @@
   {
     "Id": "9662d9a1-5d68-4b34-ae6e-7736e3f96ce4",
     "Title": "Visual/ UI Testing",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/16-UI testing.jpg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -494,7 +494,7 @@
   {
     "Id": "e2272e28-1590-4e08-a298-13facd3c895f",
     "Title": "API Testing",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/17-apiTesting.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -512,7 +512,7 @@
   {
     "Id": "11b5b37b-33c6-441f-9f4f-d013caf658f4",
     "Title": "Pros and Cons in Other Approaches",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/16.prosCons.avif",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -528,7 +528,7 @@
   {
     "Id": "742e2590-5989-419f-86ed-5f76537572bd",
     "Title": "Tools & Libraries",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/16-methods.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -546,7 +546,7 @@
   {
     "Id": "b99a5a87-09ea-4e91-b16f-5edd7cf4fc1c",
     "Title": "Automation in Pipeline",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/17-pipeline.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -568,7 +568,7 @@
   {
     "Id": "1fd98418-a122-4fb5-9785-4bc3d93b75c5",
     "Title": "About",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/18-about.jpeg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -589,7 +589,7 @@
   {
     "Id": "2ae48a64-e7bf-4807-a747-29f6db269ef5",
     "Title": "Types of security testing",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/19-pentest.jpg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -610,7 +610,7 @@
   {
     "Id": "56c15f44-e5e4-40d0-8adf-43f66079fd09",
     "Title": "Domain Terminologies",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/19-terminolgies.jpg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1123,7 +1123,7 @@
   {
     "Id": "59affe19-db47-4d0b-9df2-7d2d30bb9251",
     "Title": "Performance Concepts",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/performance-concepts.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1164,7 +1164,7 @@
   {
     "Id": "f1ff46e2-345f-440a-9292-1b41f40e1263",
     "Title": "Basic test scripting",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/basicScripting.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1183,7 +1183,7 @@
   {
     "Id": "ec534597-abb1-4031-8f66-1047d453b905",
     "Title": "Parameterization and Dynamic data",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/parameter.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1201,7 +1201,7 @@
   {
     "Id": "14848f7d-ad92-4953-931a-562886c854e0",
     "Title": "Load testing strategies",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/load-strategy.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1220,7 +1220,7 @@
   {
     "Id": "a4ea1f80-8e0d-4228-87c3-c2de9e541b9e",
     "Title": "Assertions and validations",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/assertions.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1239,7 +1239,7 @@
   {
     "Id": "ad889ee4-7ddf-4f8b-827d-5a8e59830394",
     "Title": "Browser testing with k6",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/browserTesting.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1257,7 +1257,7 @@
   {
     "Id": "acf01e68-b3f0-4028-85ef-dc1743e2e1d1",
     "Title": "Web vitals monitoring",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/web-vitals.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1275,7 +1275,7 @@
   {
     "Id": "31c83f78-0909-486e-866c-4e21a79922d1",
     "Title": "Advanced scripting techniques",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/advancedTechniques.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1295,7 +1295,7 @@
   {
     "Id": "1676dc84-8d59-4fb5-add5-1e280dbb0c94",
     "Title": "Integration and automation",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/Automation.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
