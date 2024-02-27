@@ -104,7 +104,7 @@
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
           "Name": "Testing Lifecycle and Techniques",
-          "Image": "images/categories/Collaboration_Category.png",
+          "Image": "images/categories/stlc-category.jpeg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -123,7 +123,7 @@
         {
           "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
           "Name": "Elevating Testing Practices",
-          "Image": "images/categories/customtransformation.png",
+          "Image": "images/categories/elevatingPractices.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -132,7 +132,7 @@
         {
           "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
           "Name": "Measuring Testing Success",
-          "Image": "images/categories/lists_cat.png",
+          "Image": "images/categories/measuring.JPG",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -141,7 +141,7 @@
         {
           "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
           "Name": "Monitor & Control",
-          "Image": "images/categories/featured.png",
+          "Image": "images/categories/monitor.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -160,7 +160,7 @@
         {
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
           "Name": "Navigating the Test Tool Landscape",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/Navitools.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -169,7 +169,7 @@
         {
           "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
           "Name": "Spotlight on Popular Tools",
-          "Image": "images/categories/vivalearning_learningpathways.png",
+          "Image": "images/categories/softwareTools.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -178,7 +178,7 @@
         {
           "Id": "708c51cb-98ed-49a1-9c44-8a16b7f3a72f",
           "Name": "Microsoft Azure DevOps",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/devops.webp",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -197,7 +197,7 @@
         {
           "Id": "c328dfd4-f825-4ca8-80b9-2cd7ba287fc2",
           "Name": "Empowering Testing",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/empTesting.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -217,7 +217,7 @@
         {
           "Id": "d38c9ada-3f35-4bee-a488-e6cef32dac04",
           "Name": "Installation & Configuration",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/install-play.JPG",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -226,7 +226,7 @@
         {
           "Id": "c35db39b-852b-4d7d-8b6f-691e04846a31",
           "Name": "Create your script",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/cat-script.avif",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -235,7 +235,7 @@
         {
           "Id": "0c01d63f-7a8f-41c6-b380-0b39c870b6d3",
           "Name": "Learn More on TA",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/learnmore.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -244,7 +244,7 @@
         {
           "Id": "163e8ac3-01b4-485c-93ba-56d1ad828101",
           "Name": "Other Testing Approaches",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/otherApproaches.webp",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -253,7 +253,7 @@
         {
           "Id": "b1d93c83-5f8d-4b07-af3c-83179db5c30a",
           "Name": "Tools & Libraries",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/ToolsLibraries.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -262,7 +262,7 @@
         {
           "Id": "e4fd0b0f-9d41-4675-8c71-7ec8fa126ee8",
           "Name": "Automation in Pipeline",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/pipelines.webp",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -281,7 +281,7 @@
         {
           "Id": "5964b3cf-2673-4251-bf37-c3a747dcb0bf",
           "Name": "Fundamentals of Security Testing",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/fund.webp",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -290,7 +290,7 @@
         {
           "Id": "660201eb-bd2e-44bb-ac37-4ea91a2e1cfd",
           "Name": "Networking Basics & Protocols",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/netBasics.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -299,7 +299,7 @@
         {
           "Id": "536da769-f2ed-4862-90df-7fff2601e1a4",
           "Name": "Stages of Pentesting",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/pentesting.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -308,7 +308,7 @@
         {
           "Id": "f838c09e-e9f3-4071-9dc0-d0e2fd02d8b1",
           "Name": "Security Guidance",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/guidance.webp",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -317,7 +317,7 @@
         {
           "Id": "de8534eb-613c-4932-9a72-8007d341fdb0",
           "Name": "Common Vulnerability Exposure",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/cat-cve.jpeg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -326,7 +326,7 @@
         {
           "Id": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
           "Name": "Security Tools",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/secTools.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -345,7 +345,7 @@
         {
           "Id": "7e36cc7d-e6ff-4076-b91e-1f4811b8fbfb",
           "Name": "Fundamentals of Performance testing",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/performancefun.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -354,7 +354,7 @@
         {
           "Id": "464124b9-e6d0-4cc2-a08f-cdb07288b196",
           "Name": "Get started with K6",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/Perget.webp",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -363,7 +363,7 @@
         {
           "Id": "886d55d5-0a39-4289-93e9-1c94c48e4116",
           "Name": "Basic Script Creation",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/cat-k6",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -372,7 +372,7 @@
         {
           "Id": "e463848b-b0f4-4526-8ed1-5ff28a494f9f",
           "Name": "Performance tests with K6",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/performanceTests.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -381,7 +381,7 @@
         {
           "Id": "bd251ac9-bc00-4ee0-a394-1c168dc872d5",
           "Name": "Advanced Approach",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/advanced.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
