@@ -635,7 +635,7 @@
   {
     "Id": "712d96d0-9237-4885-85f4-f042969913bc",
     "Title": "Approach of security testing",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.Approach.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -655,7 +655,7 @@
   {
     "Id": "6b428914-d9fe-4c8a-90b9-8a4acad4328a",
     "Title": "Networking Fundamentals",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.networkingFun.jpg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -675,7 +675,7 @@
   {
     "Id": "a6cad5bf-b278-47bd-a512-a75665c1cd80",
     "Title": "Network Security",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1networkSec.jpg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -693,7 +693,7 @@
   {
     "Id": "54c50d6a-7f98-46a9-afd7-763c616b1d0e",
     "Title": "Internet Protocols Fundamentals",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.protocolFun.jpg",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -715,7 +715,7 @@
   {
     "Id": "88062402-68f8-4beb-8270-8ac1be442513",
     "Title": "Stage 1- Information Gathering",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.Informationgathering.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -732,7 +732,7 @@
   {
     "Id": "301b0a33-7db3-4387-9639-ff4abcf14c4a",
     "Title": "Stage 2 - Scanning",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.scanning.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -749,7 +749,7 @@
   {
     "Id": "b8e9afa3-0195-401b-94c8-8f55c9f65430",
     "Title": "Stage 3 - Manual pentest",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.manualPen.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -766,7 +766,7 @@
   {
     "Id": "8013faae-1ae1-4ac3-b3f4-28b0221332cd",
     "Title": "Stage 4 - Exploitation",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.exploitation.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -783,7 +783,7 @@
   {
     "Id": "aae0ea3f-8280-4d50-b3ff-152aee42c2dd",
     "Title": "Stage 5 - Reporting",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.pentestReport.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -800,7 +800,7 @@
   {
     "Id": "9d3832f7-874a-40b8-9561-f1ca36cb889f",
     "Title": "Stage 6 - Remediation and Continuous Monitoring",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.continousMonitor.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -817,7 +817,7 @@
   {
     "Id": "c84d533c-1172-4e2e-8298-1b302b976f34",
     "Title": "OWSAP TOP 10",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.OWASP.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -844,7 +844,7 @@
   {
     "Id": "ae359454-033c-47a2-a8a9-8a0b3e98eb00",
     "Title": "SANS Top 25",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.sans.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -864,7 +864,7 @@
   {
     "Id": "03c4c0b4-2220-4f00-9b2e-3f32bef06afa",
     "Title": "HSTS Enforcement",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.hsts.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -881,7 +881,7 @@
   {
     "Id": "7bf036ed-c4ca-4826-9562-7924275d6ce6",
     "Title": "Cookie Management",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/3.cyber.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -898,7 +898,7 @@
   {
     "Id": "88765fc4-dec7-44c7-ab7d-def62dfbad50",
     "Title": "Session Management",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.session.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -915,7 +915,7 @@
   {
     "Id": "df519ab9-fc2f-4de3-8851-57a2fb6306a0",
     "Title": "Brute Force Attacks",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/4-BruteForce.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -932,7 +932,7 @@
   {
     "Id": "00627e6f-29d4-4d37-b5f6-3eecbcf98702",
     "Title": "Cross-Site Scripting (XSS)",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.cross.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -949,7 +949,7 @@
   {
     "Id": "8332f467-85b0-4f17-b393-f734371465eb",
     "Title": "Cross-Site Request Forgery (CSRF)",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.csrf.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -966,7 +966,7 @@
   {
     "Id": "6b9f6cb2-df49-48bd-92af-ed508bc4af72",
     "Title": "SQL Injection",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.sql.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -983,7 +983,7 @@
   {
     "Id": "cdf27e21-a612-43d5-9072-4f09e83a9b4c",
     "Title": "File Upload Security",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.upload.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1000,7 +1000,7 @@
   {
     "Id": "275e3ab7-6dcd-40f0-81ef-643ebbd306b6",
     "Title": "XML External Entity (XXE)",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.XMLentity.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1017,7 +1017,7 @@
   {
     "Id": "e6116f15-113b-4641-ae6f-5415ca6abb40",
     "Title": "Clickjacking",
-    "Image": "images/playlists/access-intro-to  -access.png",
+    "Image": "images/playlists/1-click.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1034,7 +1034,7 @@
   {
     "Id": "04453869-2c1d-4e60-b066-1158f256fd51",
     "Title": "Content Security Policy (CSP)",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1-csp.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1051,7 +1051,7 @@
   {
     "Id": "fa7846b9-ed93-4041-86b5-231f2389cc0d",
     "Title": "Kali linux",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1-kali.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1069,7 +1069,7 @@
   {
     "Id": "b15fe6af-3956-4913-a553-aaa5b8caeee6",
     "Title": "Network Scanning",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.scanning.jpg",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1087,7 +1087,7 @@
   {
     "Id": "7714f710-a217-4225-ae6d-4a05dfd70879",
     "Title": "Web proxy tools",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1-webProxy.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1105,7 +1105,7 @@
   {
     "Id": "cc7bb8ac-af9e-4374-b4af-f0dc2166c0bd",
     "Title": "Web Vulnerability scanner tools",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1networkScan.webp",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
  "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
@@ -1146,7 +1146,7 @@
   {
     "Id": "6fb62774-24c6-497a-9c66-0affde6e4121",
     "Title": "Installation and setup",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1-installSetup.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
