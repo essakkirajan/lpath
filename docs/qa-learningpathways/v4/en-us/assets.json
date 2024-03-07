@@ -67,8 +67,8 @@
   },
   {
     "Id": "6f10717d-1319-4e2a-befc-4ed8255a1094",
-    "Title": "Elevate your bug reporting prowess with this guide that unveils proven strategies and effective communication techniques, empowering you to advocate for software perfection through clear, concise, and impactful bug reporting.Software Testing",
-    "Description": "",
+    "Title": "Software Testing-An Introduction",
+    "Description": "Elevate your bug reporting prowess with this guide that unveils proven strategies and effective communication techniques, empowering you to advocate for software perfection through clear, concise, and impactful bug reporting",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploring-Dynamic-Testing-Approaches.aspx?csf=1&web=1&share=ETWOIS8i-oBCm1mOBimz88YBauFAEjXCgl1XReyPnhGh6Q&e=HgOc0w",
     "TechnologyId": "",
     "SubjectId": "",
@@ -781,7 +781,7 @@
     "Id": "a7606b70-4273-4696-aba8-53cec23c9027",
     "Title": "Test Automation- What? Why?",
     "Description": "Understand the key aspects of What and Why in test automation, gaining insights into how it enhances efficiency, accelerates testing cycles, and contributes to overall excellence in software quality assurance.",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Risk-and-Configuration-Management-Symphony.aspx?csf=1&web=1&share=Ed0QyoQg6p5AuZhYZHX-3ywBUQtJXZgDLm_xLLs3wjkt5g&e=pd96xn",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Automation--What--Why-.aspx?csf=1&web=1&share=EWKULRbeXHtNrus7u0HB8CQBQgpWDcB7JE59vKsavZDFtA&e=XT7rKN",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -1107,17 +1107,7 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "c162e435-66fb-46d0-ad60-048361d4930d",
-    "Title": "Empty job/ YAML",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Empty-job--YAML.aspx?csf=1&web=1&share=EQmr7WADyXRIjXZgO2JEaCgBQBjzddgPQpdtrno11vDtnA&e=onI6ra",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
+
   {
     "Id": "6d976581-9a40-4b73-a267-95b045c07f60",
     "Title": "Standalone pipeline execution",
@@ -2177,5 +2167,215 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "138185a4-8873-4169-b500-8a5978d6039b",
+    "Title": "Load testing concepts",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Load-testing-concepts.aspx?csf=1&web=1&share=EfcuoORCLFpGok30Mi1R_LgBFAtArXPX8efMVqC0EXl8gA&e=llUzGJ",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "83c29f5b-72e6-4f19-a517-f393d2542225",
+    "Title": "Load testing strategies",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Load-testing-strategies.aspx?csf=1&web=1&share=ERNM1Xvu_TFOmNthzv3wqmcB30aQ8ZkaHuLC2S5g-BdMyg&e=J0vijc",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e78bb0cd-4d73-4e91-8e9c-42d8ded62f82",
+    "Title": "Analyzing test results",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Analysing-test-results.aspx?csf=1&web=1&share=EY67F_uUYHJEtK3QB9wH5QMBYHtZX93xArJxDj94oxsmLA&e=4CrJ8t",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b975f13c-68c4-43d6-8c57-927e85edf0a8",
+    "Title": "Writing Assertions",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Writing-Assertions.aspx?csf=1&web=1&share=Ed8yPP7SaMlDrg_HoNvwhWsBFEMRfCLaIlzGTgOHS3lFEA&e=j5SQ6o",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5dd7572a-275b-4371-a480-fc23168dbfc6",
+    "Title": "Setting Thresholds for Performance Metrics ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Setting-Thresholds-for-Performance-Metrics.aspx?csf=1&web=1&share=EeZjcscWzd9LrAecCg4YO5UBKT-UG0x5AdO92AGgkh4cqw&e=f4uFo6",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ec4506b7-942f-449c-b92a-8b789f2e54fa",
+    "Title": "Handling Errors and Failures",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Handling-Errors-and-Failures.aspx?csf=1&web=1&share=EcBuHiYMSpZNm-yd5UgFG40BqcyZEpkewJHgxKR9V3VqCA&e=AAc8mN",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "319ccced-6e41-4877-af3b-3509d91325d7",
+    "Title": "Introduction to Browser Testing Capabilities in K6 ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Introduction-to-Browser-Testing-Capabilities-in-K6.aspx?csf=1&web=1&share=Eda0MTV-F1dPicCWJnfNE7YBc2fsJylRLgHFW5Dbz56H_A&e=9VZoQX",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "7884d89f-2ff3-48cf-a14a-2178ec267c7d",
+    "Title": "Interacting with Web Elements in Browser Tests",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Interacting-with-Web-Elements-in-Browser-Tests.aspx?csf=1&web=1&share=EftPAv_ZrKNBqQq85OBv9sIBuMZVjwoa4ZztYgXceyKiLA&e=JC1yNj",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5f83e140-0994-48e9-869c-1f46009db71b",
+    "Title": "Understanding Core Web Vitals Metrics ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Understanding-Core-Web-Vitals-Metrics.aspx?csf=1&web=1&share=ET-iI9pmoBBMnnM0EuMADFYBr4doRMBpkcB_SETKhBM07w&e=CNPSwB",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6cfa9d4c-5b12-4e37-a13e-90f808ea58a2",
+    "Title": "Monitoring and Analyzing Web Vitals Using K6",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Monitoring-and-Analyzing-Web-Vitals-Using-K6.aspx?csf=1&web=1&share=EUb3nAvd51VJgkVcc6kqWV8BpvReqrdUzKCXKiINkX1NDA&e=KyhIQ3",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fa98aa04-a64e-46cc-8984-cf2faa72022a",
+    "Title": "Creating Custom Metrics and Tags",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Creating-Custom-Metrics-and-Tags.aspx?csf=1&web=1&share=EYM76gfDlwBLoitnZQT-v5gBlc_SC3qaEDwaujx4rW4jcA&e=Anw0GK",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0384505c-e1c2-4cfc-a400-3e10ba8ee48f",
+    "Title": "Defining Custom Metrics",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Defining-Custom-Metrics.aspx?csf=1&web=1&share=EQu6Q-EphPxAgFkmDIpsikMB1xAncdHTrnWLitXHvXtBFg&e=e5Lu6m",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ad711d6f-7724-495e-911f-760fa414d0f2",
+    "Title": "Tagging Metrics for Segmentation",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Tagging-Metrics-for-Segmentation.aspx?csf=1&web=1&share=EbSWKDAARydFoRIbkaWroKYBzk-YAIsJHnMx-p9YwLGkYg&e=uWSpJ6",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f2abc4c2-6d6e-4258-9484-c9dccbf68aea",
+    "Title": "Using Environment Variables and Configuration Files ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Using-Environment-Variables-and-Configuration-Files.aspx?csf=1&web=1&share=EbtblavLdztHpEDxLtc92jMB6GVjQXi1aJab5uG7n9bG7g&e=tAznud",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "24ea80a1-245b-40b9-848d-3318f9af9e99",
+    "Title": "Integrating with Continuous Integration (CI) Pipelines ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Integrating-with-Continuous-Integration-(CI)-Pipelines.aspx?csf=1&web=1&share=EQg9PtTQfaFEoFxm8Tdnwp0BGO3dHM8k6D6l0HrPfsPUMQ&e=u9OWX0",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d25d78da-3401-429f-bce5-647046c6dc48",
+    "Title": "Automating Test Execution and Result Analysis ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Automating-Test-Execution-and-Result-Analysis.aspx?csf=1&web=1&share=EVuYW9edj_VPnf6Y-i1D6zgBNd8zHjH27Ulv0d1NUUV-Fw&e=FKJKmJ",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "baf25ebd-abf0-4532-9046-2862eb8494eb",
+    "Title": " Scripting and Scheduling Test Runs ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Scripting-and-Scheduling-Test-Runs.aspx?csf=1&web=1&share=EXN1uBsOPytHs7xVkRBdJCcB3aHLRhBn4ZrujYNi0lr1Rw&e=jlZjrq",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "90130e14-16e1-4877-9b37-93c5d21f9cd9",
+    "Title": "Incorporating Performance Testing into DevOps Workflows ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Incorporating-Performance-Testing-into-DevOps-Workflows.aspx?csf=1&web=1&share=EZFHc5AKOIpIjcTGbHMnjAUB-kbKVm7sHeyZ_d7R0v9XRA&e=OwMWOS",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8683acc6-aa94-49aa-82ac-74d062e73fce",
+    "Title": "Continuous Testing, Deployment Automation ",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Continuous-Testing,-Deployment-Automation.aspx?csf=1&web=1&share=EcXs0E3cepFPmX5lDafzvXkBz2prc_nb613DOjK6Xi7taQ&e=YY3oZl",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
+
 ]
