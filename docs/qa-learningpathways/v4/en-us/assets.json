@@ -57,7 +57,7 @@
   {
     "Id": "56890c21-a99a-460c-a0fa-1c4145bc3c0e",
     "Title": "Effective Bug Advocacy and Reporting",
-    "Description": "",
+    "Description": "Elevate your bug reporting prowess with this guide that unveils proven strategies and effective communication techniques, empowering you to advocate for software perfection through clear, concise, and impactful bug reporting",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Effective-Bug-Advocacy-and-Reporting.aspx?csf=1&web=1&share=EY_ax3kNBKdHh7WNS0FQBfYBOhPh70OxG2cfySRFuvbgJQ&e=MIYwbS",
     "TechnologyId": "",
     "SubjectId": "",
@@ -68,7 +68,7 @@
   {
     "Id": "6f10717d-1319-4e2a-befc-4ed8255a1094",
     "Title": "Software Testing",
-    "Description": "Elevate your bug reporting prowess with this guide that unveils proven strategies and effective communication techniques, empowering you to advocate for software perfection through clear, concise, and impactful bug reporting",
+    "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploring-Dynamic-Testing-Approaches.aspx?csf=1&web=1&share=ETWOIS8i-oBCm1mOBimz88YBauFAEjXCgl1XReyPnhGh6Q&e=HgOc0w",
     "TechnologyId": "",
     "SubjectId": "",
@@ -698,17 +698,6 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "3800bbd0-1b6c-4d97-af17-eefa36246090",
-    "Title": "Handson- Test Plan and Suite Creation",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Handson--Test-Plan-and-Suite-Creation.aspx?csf=1&web=1&share=EX7A7uNEIsxLuIYGIjS8shQBU86UshKHQ7orSop-lZSSNw&e=3kUB2i",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
     "StatusNote": ""
   },
   {
