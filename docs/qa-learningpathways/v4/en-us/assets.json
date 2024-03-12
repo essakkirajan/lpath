@@ -755,17 +755,7 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "e78b43d1-a1a2-4aeb-840f-e81cbc9b1869",
-    "Title": "Continuous Monitoring in Testing",
-    "Description": "Explore how continuous monitoring enhances visibility, detects anomalies, and contributes to proactive quality assurance practices for sustained software excellence.",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Continuous-Monitoring-in-Testing.aspx?csf=1&web=1&share=ERLjm3oAPBlLnWEoggA_5nABfhYbrzcCtOLSwCDiDVs-5w&e=ShE7t8",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
+
   {
     "Id": "a7606b70-4273-4696-aba8-53cec23c9027",
     "Title": "Test Automation- What? Why?",
@@ -1891,17 +1881,7 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "b54af041-561f-4515-a76c-0c28911aab8e",
-    "Title": "Purpose of Scanning",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Purpose-of-Scanning.aspx?csf=1&web=1&share=EaXEFEgnEPREsOPpyBklrbQBCgYMtmvyTX9Ql7hHU23Zng&e=gd0RHq",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
+ 
   {
     "Id": "29336c38-97d6-49e8-b903-797712a323a1",
     "Title": "Nmap",
@@ -1913,28 +1893,7 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "599daf85-a10f-457c-b672-9ac2bf4a2c5b",
-    "Title": "Introduction to Burp suite",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Introduction-to-Burp-suite.aspx?csf=1&web=1&share=Ec0DpmTlXH1CkeJOJXWAyMsBdjoJV91C7v3_bmqS8s6aMw&e=esG6CE",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "991929c3-d2ef-4cf9-8572-c8f4908007fb",
-    "Title": "How to use",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/How-to-use.aspx?csf=1&web=1&share=EV0AYuZNo9VBpWcv-B8sUfQBNHEElOuJZh6qFiW7ZjChPA&e=BfjxIc",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
+
   {
     "Id": "8e5c7a3c-0e9c-4a1c-9d0a-cd2b4ed95572",
     "Title": "Burp suite scanner",
