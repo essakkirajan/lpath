@@ -1881,7 +1881,18 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
- 
+  {
+    "Id": "b54af041-561f-4515-a76c-0c28911aab8e",
+    "Title": "Purpose of Scanning",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Purpose-of-Scanning.aspx?csf=1&web=1&share=EaXEFEgnEPREsOPpyBklrbQBCgYMtmvyTX9Ql7hHU23Zng&e=gd0RHq",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+
   {
     "Id": "29336c38-97d6-49e8-b903-797712a323a1",
     "Title": "Nmap",
