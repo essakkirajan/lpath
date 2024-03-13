@@ -1904,7 +1904,28 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-
+  {
+    "Id": "599daf85-a10f-457c-b672-9ac2bf4a2c5b",
+    "Title": "Burp Suite",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Burp-Suite.aspx?csf=1&web=1&share=EW_slLN98n5MuRaF5xbF4mQBBM_KgGJpvumaD_HDa_D-9w&e=GnS2Lc",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
+    "Id": "991929c3-d2ef-4cf9-8572-c8f4908007fb",
+    "Title": "OWSAP ModSecurity Core Rule Set",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/OWSAP-ModSecurity-Core-Rule-Set.aspx?csf=1&web=1&share=EXhm9ZbQw7lClFsgHzDT3rUB1bPqbRIw_da41JsVJRstsA&e=NU20bJ",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
   {
     "Id": "8e5c7a3c-0e9c-4a1c-9d0a-cd2b4ed95572",
     "Title": "Burp suite scanner",

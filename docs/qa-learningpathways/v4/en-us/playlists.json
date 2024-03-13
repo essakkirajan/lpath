@@ -1082,6 +1082,25 @@
    "29336c38-97d6-49e8-b903-797712a323a1"
     ]
   },
+
+  {
+    "Id": "7714f710-a217-4225-ae6d-4a05dfd70879",
+    "Title": "Advanced Security Concepts",
+    "Image": "images/playlists/1.advanced.jpg",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+ "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f42f8389-ad1a-4e42-82b3-40c88bd80d0a",
+    "Description":"Exploring cutting-edge strategies and innovations in the realm of advanced security concepts for robust protection against evolving threats",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+    "599daf85-a10f-457c-b672-9ac2bf4a2c5b",
+   "991929c3-d2ef-4cf9-8572-c8f4908007fb"
+    ]
+  },
     {
     "Id": "cc7bb8ac-af9e-4374-b4af-f0dc2166c0bd",
     "Title": "Web Vulnerability scanner tools",
