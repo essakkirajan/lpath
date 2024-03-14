@@ -195,7 +195,7 @@
 
   {
     "Id": "1f34387e-cd79-4a88-989a-cfde5b933c54",
-    "Title": "Security",
+    "Title": "Groups",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Security.aspx",
     "TechnologyId": "",
@@ -204,17 +204,7 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-  {
-    "Id": "be76248a-e138-424c-bde0-aa7e142811fd",
-    "Title": "System Configuration",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/System-Configuration.aspx?Mode=Edit",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
+ 
   {
     "Id": "5bb36f5b-bfe8-4cba-a94d-4d9ade405dc9",
     "Title": "Service Deployment",
@@ -248,17 +238,7 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
-  {
-    "Id": "590c16eb-770d-4854-95f5-691ca25a76ec",
-    "Title": "Configuring apps and services",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Configuring-apps-and-services.aspx",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
+ 
   {
     "Id": "1444cd81-1639-4533-b9ff-b22f7ddf5be4",
     "Title": "Data Modelling",
@@ -338,18 +318,7 @@
     "StatusNote": ""
   },
 
-  {
-    "Id": "8b2901e0-ff1e-4f9e-ba23-4a9b035a11af",
-    "Title": "Fingress Platform Release-December 2023",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Fingress-Platform-Release-December-2023.aspx",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": ""
-  },
-
+  
   {
     "Id": "85330afa-4d34-424c-8f61-e7c85dfb6354",
     "Title": "Integration",
@@ -605,7 +574,7 @@
   },
   {
     "Id": "17a47f51-0ac0-42cb-ba2b-df62e660654b",
-    "Title": "Process Flows",
+    "Title": "Business Process Flows",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Process-Flows.aspx",
     "TechnologyId": "",
@@ -679,5 +648,210 @@
         "Source": "Microsoft",
         "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
         "StatusNote": ""
+      },
+
+      {
+        "Id": "4f94bd04-b5b5-4fa5-aef5-31304a79abe0",
+        "Title": "Application Properties",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Application-Properties.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "ad14144a-c3cb-4143-a2cc-61f03562269a",
+        "Title": "Quartz Properties",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Quartz-Properties.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "22a20970-0655-401f-aa09-159729673ef3",
+        "Title": "Message Properties",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Message-Properties.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "563e5000-4c99-4e1f-842d-48c2f6017623",
+        "Title": "Cache Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Cache-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "c2a057c6-89c3-4bf2-9f90-0f3561e99e75",
+        "Title": "Integration Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Integration-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "a572008d-fd61-437b-9c7b-e6baf4a6ce2f",
+        "Title": "Message Flows Configuration",
+        "Description": "",
+        "Url": "ttps://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Message-Flows-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "5d1c3f4c-3623-4c98-bf8a-752547609328",
+        "Title": "Job Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Job-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "d621f1ef-0142-448d-8187-6868ef99ea9d",
+        "Title": "Scheduler Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Scheduler-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "3fafa874-1087-4e3f-86db-f0b27930a565",
+        "Title": "Application Context",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Application-Context.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "94aa90f9-1c3c-471a-95b9-9b8b98fc98bd",
+        "Title": "Interface Context",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Interface-Context.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "3acbded1-d0d7-443f-9176-5787030ea1ff",
+        "Title": "Locale Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Locale-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "264c807f-5067-4129-bb9a-7d7d3a775944",
+        "Title": "Web Application Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Web-Application-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "730711f6-fe07-4da6-aba4-ffb80e698c7c",
+        "Title": "Spring Profiles",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Spring-Profiles.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "a3de48ef-0087-4ce4-8077-5ac9bdb0c359",
+        "Title": "JNDI Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/JNDI-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "bb340177-c173-4329-b23a-ac011ad53439",
+        "Title": "Logging Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Logging-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "8f92310b-844a-4215-83a3-f70fb7adae26",
+        "Title": "Database Migration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Setting-up-of-database(1).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "1d2c7bbf-b1b5-4f14-8d58-9702c2a60bb6",
+        "Title": "Track, version, and deploy database changes",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Track,-version,-and-deploy-database-changes.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
       }
+
 ]
