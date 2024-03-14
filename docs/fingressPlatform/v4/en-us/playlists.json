@@ -301,7 +301,7 @@
 
 {
   "Id": "9cb1b5fe-ff57-4275-86c2-959abf3dc2d2",
-  "Title": "Functional Features Deep Dive: Unveiling Fingress Platform's Capabilities",
+  "Title": "Profile Management",
   "Image": "images/playlists/access-intro-to-access.png",
   "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
   "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -314,18 +314,98 @@
   "StatusNote": "",
   "Assets": [   
     "84feb83e-1164-4569-9a2c-2f2cb76e9364",
-    "4a1fe235-13de-47c7-b89b-293efaa9b417",
-    "38b4799c-cbf4-4c62-ba5e-dc73f7842943",
-    "9c545145-2a50-49de-a13e-6566c491fec3",
-    "17a47f51-0ac0-42cb-ba2b-df62e660654b",
-    "30d29cce-38c6-4123-99f0-27add42cc1cd",
-    "256e3e73-04a2-45bb-b86e-ead501c8f427",
-    "e6b18fac-d1eb-471a-9233-6e174097eed3",
-    "87a93396-a5b9-41e1-bb01-d55f62ef04f0",
-    "613db193-1dd4-4bce-9002-8f776c6d49e3",
-    "675752b3-bbf6-4e4f-939c-1632486c432a"
+    "1f34387e-cd79-4a88-989a-cfde5b933c54"
+    
     
   
   ]
-  }
+  },
+
+  {
+    "Id": "c0a650cb-57cd-4f0e-b00a-2a544ff65cd3",
+    "Title": "Flows and Settings",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "4a1fe235-13de-47c7-b89b-293efaa9b417",
+      "38b4799c-cbf4-4c62-ba5e-dc73f7842943",
+      "9c545145-2a50-49de-a13e-6566c491fec3"
+      
+    
+    ]
+    },
+
+    {
+      "Id": "062bccbd-dd50-45be-b1a9-2dbd2c40f3d0",
+      "Title": "Process Console",
+      "Image": "images/playlists/access-intro-to-access.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+      "Description": "Give Description",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [   
+        "17a47f51-0ac0-42cb-ba2b-df62e660654b"
+        
+      
+      ]
+      },
+
+      {
+        "Id": "bdec3a12-4330-4400-90d6-3ea3f0830ccc",
+        "Title": "System Configurations",
+        "Image": "images/playlists/access-intro-to-access.png",
+        "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+        "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+        "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "CatId": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+        "Description": "Give Description",
+        "StatusTagId": "",
+        "StatusNote": "",
+        "Assets": [   
+          "256e3e73-04a2-45bb-b86e-ead501c8f427",
+          "e6b18fac-d1eb-471a-9233-6e174097eed3",
+          "613db193-1dd4-4bce-9002-8f776c6d49e3",
+          "675752b3-bbf6-4e4f-939c-1632486c432a"
+          
+          
+        
+        ]
+        },
+
+        {
+          "Id": "dc72cc42-ecef-4f4c-b709-2a3529087d0b",
+          "Title": "Bulk Layouts and Uploads",
+          "Image": "images/playlists/access-intro-to-access.png",
+          "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+          "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "CatId": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+          "Description": "Give Description",
+          "StatusTagId": "",
+          "StatusNote": "",
+          "Assets": [   
+            "87a93396-a5b9-41e1-bb01-d55f62ef04f0",
+            ""
+            
+            
+          
+          ]
+          }
 ]
