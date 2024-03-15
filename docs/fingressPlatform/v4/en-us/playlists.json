@@ -314,6 +314,50 @@
             "87a93396-a5b9-41e1-bb01-d55f62ef04f0"
           ]
           },
+          {
+            "Id": "866a12b7-9906-4e8c-bfda-6de9b12f8f39",
+            "Title": "Installation and Deployment",
+            "Image": "images/playlists/access-intro-to-access.png",
+            "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+            "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+            "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+            "SubjectId": "",
+            "Source": "Microsoft",
+            "CatId": "66c007db-554e-4f1d-b285-63bd862cbb3a",
+            "Description": "Give Description",
+            "StatusTagId": "",
+            "StatusNote": "",
+            "Assets": [   
+              "8d635098-367f-4209-93e7-2af178302b2f",
+              "5bb36f5b-bfe8-4cba-a94d-4d9ade405dc9",
+              "ff94ce87-2807-4ded-8e1a-74ec8d0dce68",
+              "01ea0fcf-aeb7-46f6-84a7-2641a2a3b752"
+              
+            
+            ]
+          },
+
+          {
+            "Id": "05d12c91-d627-44de-898e-ee2a54cc0cea",
+            "Title": "Properties",
+            "Image": "images/playlists/access-intro-to-access.png",
+            "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+            "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+            "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+            "SubjectId": "",
+            "Source": "Microsoft",
+            "CatId": "33c49479-27f7-481b-84c1-ae4675651574",
+            "Description": "Give Description",
+            "StatusTagId": "",
+            "StatusNote": "",
+            "Assets": [   
+              "4f94bd04-b5b5-4fa5-aef5-31304a79abe0",
+              "ad14144a-c3cb-4143-a2cc-61f03562269a",
+              "22a20970-0655-401f-aa09-159729673ef3",
+              "563e5000-4c99-4e1f-842d-48c2f6017623"
+            
+            ]
+          },
 
           {
             "Id": "9c21087b-0de8-45bb-8cd7-3b593d833b73",
@@ -417,51 +461,6 @@
               "fe79ec9f-2bdb-4d4c-871e-8a623c7f4dc2",
               "8f92310b-844a-4215-83a3-f70fb7adae26",
               "1d2c7bbf-b1b5-4f14-8d58-9702c2a60bb6"
-            
-            ]
-          },
-
-          {
-            "Id": "866a12b7-9906-4e8c-bfda-6de9b12f8f39",
-            "Title": "Installation and Deployment",
-            "Image": "images/playlists/access-intro-to-access.png",
-            "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-            "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-            "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-            "SubjectId": "",
-            "Source": "Microsoft",
-            "CatId": "66c007db-554e-4f1d-b285-63bd862cbb3a",
-            "Description": "Give Description",
-            "StatusTagId": "",
-            "StatusNote": "",
-            "Assets": [   
-              "8d635098-367f-4209-93e7-2af178302b2f",
-              "5bb36f5b-bfe8-4cba-a94d-4d9ade405dc9",
-              "ff94ce87-2807-4ded-8e1a-74ec8d0dce68",
-              "01ea0fcf-aeb7-46f6-84a7-2641a2a3b752"
-              
-            
-            ]
-          },
-
-          {
-            "Id": "05d12c91-d627-44de-898e-ee2a54cc0cea",
-            "Title": "Properties",
-            "Image": "images/playlists/access-intro-to-access.png",
-            "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-            "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-            "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-            "SubjectId": "",
-            "Source": "Microsoft",
-            "CatId": "33c49479-27f7-481b-84c1-ae4675651574",
-            "Description": "Give Description",
-            "StatusTagId": "",
-            "StatusNote": "",
-            "Assets": [   
-              "4f94bd04-b5b5-4fa5-aef5-31304a79abe0",
-              "ad14144a-c3cb-4143-a2cc-61f03562269a",
-              "22a20970-0655-401f-aa09-159729673ef3",
-              "563e5000-4c99-4e1f-842d-48c2f6017623"
             
             ]
           }
