@@ -62,29 +62,6 @@
   },
 
   {
-    "Id": "b64b7ed7-3089-459f-978d-9943568f7f59",
-    "Title": "SDK and Customization",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "5a986f43-441f-481a-9ac0-e3fcf44fe571",
-    "Description": "Give Description",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "123bc755-aaea-462c-81c4-c11e3eea3682",
-      "dff0d23a-f7c7-4372-8507-0fd55f4d1076",
-      "f64af866-da2f-4403-ab95-c4736dd53ac2"
-    
-    ]
-  },
-
-  
-
-  {
   "Id": "9e642577-6179-4657-8035-1cdd45a96f03",
   "Title": "Key Features",
   "Image": "images/playlists/access-intro-to-access.png",
