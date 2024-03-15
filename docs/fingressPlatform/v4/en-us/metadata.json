@@ -90,7 +90,7 @@
     },
     {
       "Id": "a674ffa1-e1fe-40d5-809e-51a0b7e44f99",
-      "Name": "Configurations,Installation and deployments",
+      "Name": "Installation, Deployment of Platform, Services, Apps, Schemas",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -98,17 +98,8 @@
       "SubCategories": [
         {
           "Id": "33c49479-27f7-481b-84c1-ae4675651574",
-          "Name": "Configurations of Apps, and Services",
+          "Name": "Setting Up and Configuring Platforms, Apps, and Services",
           "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
-          "Id": "66c007db-554e-4f1d-b285-63bd862cbb3a",
-          "Name": "Installation and Deployment of Apps and Services",
-          "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -120,7 +111,7 @@
 
     {
       "Id": "db5d9d86-dc55-415d-8e4a-c55f002944b3",
-      "Name": "Understanding Functional Components",
+      "Name": "Understanding Fingress Platform's Functional Components",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -165,7 +156,15 @@
           "Source": "Fingress Platform",
           "SubCategories": []
         },
-
+        {
+          "Id": "feec05c4-7d1b-477b-8c68-b578f6c34f55",
+          "Name": "Devops Excellence",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": [
+            
         {
           "Id": "f0a86cfe-9a58-436d-81ea-7e070d0f566e",
           "Name": "Implementing DevOps Practices at Fingress: Empowering the Team",
@@ -177,6 +176,7 @@
         }
       ]
     }
+
 ],
   "Audiences": [
     {
