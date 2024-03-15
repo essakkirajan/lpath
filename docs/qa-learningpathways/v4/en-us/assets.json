@@ -1497,6 +1497,28 @@
     "StatusNote": ""
   },
   {
+    "Id": "51dddc61-9096-410f-8eac-3ac84f11cad5",
+    "Title": "SSL and TLS",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/SSL-and-TLS.aspx?csf=1&web=1&share=EQIrjSVDzqpOnJNB5qBPJs0BIkA-ePksdepQTHy_diPslg&e=iWOnN4",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6af29d8a-67c2-4581-89d7-a29ed9102eab",
+    "Title": "Encryption & Hashing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Encryption-%26-Hashing.aspx?csf=1&web=1&share=EVREGgZ4hu5OmVcULe4AfiIBzRw-MGUQ08sR2sk5koOmlg&e=ggvPJk",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
     "Id": "a5c45343-36c5-444d-bd21-ff8675a462ee",
     "Title": "How to test?",
     "Description": "",
@@ -1739,6 +1761,17 @@
     "StatusNote": ""
   },
   {
+    "Id": "9c436885-15b4-4e1f-840e-beeb4a31ebba",
+    "Title": "CVE and CWE",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/CVE-and-CWE.aspx?csf=1&web=1&share=EU6VAFI8Qc1CoD6G0yR8bWsBFIMkaQesWK3FosXXvnpfpw&e=hPdMlJ",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
     "Id": "2340a6c6-fe8d-4bc4-a483-661118608e1c",
     "Title": "HSTS Enforcement",
     "Description": "",
@@ -1964,6 +1997,17 @@
     "Title": "Wireshark",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Wireshark.aspx?csf=1&web=1&share=Ebh-H32vdyVFt5OzYwEwjJoBcoESG0YneLZGMRFTWmV-Ng&e=uWLqzv",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
+    "Id": "Metasploit",
+    "Title": "Metasploit",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Metasploit.aspx?csf=1&web=1&share=EbCYEixFV2hMv_NmOT_jvgEB9EttWaN_195pc9lzMLDGsg&e=p2SqEV",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",

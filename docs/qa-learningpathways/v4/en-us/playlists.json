@@ -707,6 +707,8 @@
     "0a7b95f0-f747-42fb-b4c0-a02562b61f74",
     "4bf7f671-c435-47ed-adcc-1491e6f2bac2",
     "cd9ed3bb-1194-46d3-974a-dd8f65600098",
+    "51dddc61-9096-410f-8eac-3ac84f11cad5",
+    "6af29d8a-67c2-4581-89d7-a29ed9102eab",
     "a5c45343-36c5-444d-bd21-ff8675a462ee"
     ]
   },
@@ -857,6 +859,24 @@
     "ca808671-81d2-4af7-8c99-96fd402f4d2e",
     "f9eef5bd-7fc2-43aa-9aa9-d05857e4edf7",
     "294d628b-51c2-4391-8884-3b9144288290"
+    
+    ]
+  },
+  {
+    "Id": "b6179122-7a5b-4ba2-9e09-92ea27c524f4",
+    "Title": "CVE and CWE",
+    "Image": "images/playlists/cve.jpg",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "43daaefc-4b86-4b88-a069-73bdc2ffb8c1",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f838c09e-e9f3-4071-9dc0-d0e2fd02d8b1",
+    "Description":"Let's learn about the standardized list of publicly disclosed cybersecurity vulnerabilities & exposures and the categorization of software weaknesses and vulnerabilities",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+     "9c436885-15b4-4e1f-840e-beeb4a31ebba"    
     ]
   },
   {
@@ -1102,7 +1122,8 @@
    "5b96613f-4ba0-4787-8d77-f12dec01a534",
    "7c55fd4b-a6bc-4dcf-a389-6ca298f19e97",
    "406a4838-6c56-4fc9-b6b1-617776cede0d",
-   "c182ed80-2602-4d70-9d23-4ceac86a5d87"
+   "c182ed80-2602-4d70-9d23-4ceac86a5d87",
+   "53736288-54ef-47db-beff-a8af8e851926"
     ]
   },
     {
