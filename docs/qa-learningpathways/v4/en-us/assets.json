@@ -1927,6 +1927,50 @@
     "StatusNote": ""
   },
   {
+    "Id": "5b96613f-4ba0-4787-8d77-f12dec01a534",
+    "Title": "Social Engineering",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Social-Engineering.aspx?csf=1&web=1&share=EeMsFzzQO1JIn9z0CNS1BtsBRtpTiaiP7jzGCP8Yct4_gQ&e=XTdKUi",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
+    "Id": "7c55fd4b-a6bc-4dcf-a389-6ca298f19e97",
+    "Title": "Reverse Engineering",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Reverse-Engineering.aspx?csf=1&web=1&share=EZKOMjndwGVAozeCuJX6WFkB4epMHJ0zo_F_FH47xgj0zg&e=OtOf6f",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
+    "Id": "406a4838-6c56-4fc9-b6b1-617776cede0d",
+    "Title": "Exploit DB",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Exploit-DB.aspx?csf=1&web=1&share=Ef9AvQ-x3RVBkfqF878LsC8BNinpo3bboTJKSCcFjuTq_A&e=svSoPY",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
+    "Id": "c182ed80-2602-4d70-9d23-4ceac86a5d87",
+    "Title": "Wireshark",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Wireshark.aspx?csf=1&web=1&share=Ebh-H32vdyVFt5OzYwEwjJoBcoESG0YneLZGMRFTWmV-Ng&e=uWLqzv",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+  {
     "Id": "8e5c7a3c-0e9c-4a1c-9d0a-cd2b4ed95572",
     "Title": "Burp suite scanner",
     "Description": "",
@@ -1942,6 +1986,17 @@
     "Title": "OWSAP ZAP scanner",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/OWSAP-ZAP-scanner.aspx?csf=1&web=1&share=EVoO7-6jNYxLo1lMGPPgTowBIDOiOReK7kXNs1WvYzLd5Q&e=aJxHGH",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "03ae1514-aa75-4354-b88a-5449de1c18a1",
+    "Title": "Nessus Essential Scanner",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Nessus-Essential-Scanner.aspx?csf=1&web=1&share=ETuGDQqBu-BJkXx0ckk2KzcBNVxc_WFedX0gJe5Kxphv9w&e=z8yE0D",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
     "Source": "Microsoft",
