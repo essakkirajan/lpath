@@ -97,15 +97,6 @@
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "33c49479-27f7-481b-84c1-ae4675651574",
-          "Name": "Configurations of Apps, and Services",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
           "Id": "66c007db-554e-4f1d-b285-63bd862cbb3a",
           "Name": "Installation and Deployment of Apps and Services",
           "Image": "images/categories/first_days.png",
@@ -113,7 +104,17 @@
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
+        },
+        {
+          "Id": "33c49479-27f7-481b-84c1-ae4675651574",
+          "Name": "Configurations of Apps, and Services",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
         }
+    
 
       ]
     },
