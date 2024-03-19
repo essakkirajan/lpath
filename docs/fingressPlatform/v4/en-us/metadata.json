@@ -129,13 +129,52 @@
       "SubCategories": [
         {
           "Id": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
-          "Name": "Exploration of Functional Capabilities",
+          "Name": "Profile Management",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
-        }
+        },
+        {
+          "Id": "5410bcf4-9e77-400b-8f48-042c7e67011d",
+          "Name": "System Configuration",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+  {
+    "Id": "49387565-41c6-478a-a2b5-c5f884cb6417",
+    "Name": "Flows and Settings",
+    "Image": "images/categories/modern_workplace_trainingx.png",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": []
+  }
+,
+{
+  "Id": "7a528ae6-b736-4d87-93af-bd370fc92503",
+  "Name": "Bulk Layouts and Uploads",
+  "Image": "images/categories/modern_workplace_trainingx.png",
+  "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+  "SubjectId": "",
+  "Source": "Fingress Platform",
+  "SubCategories": []
+}
+,
+{
+  "Id": "47c1f699-19af-4ec0-a4e2-2d7f750da36d",
+  "Name": "Process Console",
+  "Image": "images/categories/modern_workplace_trainingx.png",
+  "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+  "SubjectId": "",
+  "Source": "Fingress Platform",
+  "SubCategories": []
+}
+
   
       ]
     },
