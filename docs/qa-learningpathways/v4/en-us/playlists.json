@@ -403,9 +403,9 @@
     "Description": "Delve into the intricacies of installation and configuration with this guide, offering step-by-step instructions and best practices to set up and optimize software environments. ",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [   
-      "3b975f8a-6db3-4afc-bc29-9ffd5b43d37d",
+    "Assets": [         
       "bc118552-5f48-46fb-9705-81d7b1822384",
+      "3b975f8a-6db3-4afc-bc29-9ffd5b43d37d",
       "621ef3b8-c43e-4f53-a340-29efeb851043"
     ]
   },
