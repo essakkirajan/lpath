@@ -58,6 +58,24 @@
       "abc373c7-dfc4-4e65-b0b6-e8993f73ca61"
     ]
   },
+
+  {
+    "Id": "316dbe16-e8d3-498a-99a3-353bfc2b4a8b",
+    "Title": "Platform Data dictionary",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "5a986f43-441f-481a-9ac0-e3fcf44fe571",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      
+    ]
+  },
   {
     "Id": "b64b7ed7-3089-459f-978d-9943568f7f59",
     "Title": "SDK and Customization",
@@ -117,7 +135,6 @@
       "312e8d7f-e7b1-4563-9f50-cf7dad6eb944",
       "85330afa-4d34-424c-8f61-e7c85dfb6354",
       "4f11897b-129b-4f86-b87c-386507e09f4f",
-      "1f34387e-cd79-4a88-989a-cfde5b933c54",
       "f1fa2292-b09b-4d11-bdc1-b119d34c4094"
     ]
   },
