@@ -349,7 +349,29 @@
 
   {
     "Id": "1f34387e-cd79-4a88-989a-cfde5b933c54",
-    "Title": "Groups",
+    "Title": "Defining Groups",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Security.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "63e13745-c507-487a-a33b-1b89b4dfcf70",
+    "Title": "Creating Auth and Security Groups",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Security.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "092f0183-ddce-47e9-8512-03c733ecb8ee",
+    "Title": "Association and Disassociation of Users in Group",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Security.aspx",
     "TechnologyId": "",
@@ -683,8 +705,41 @@
     "StatusNote": ""
   },
   {
+    "Id": "f8d04b60-e174-443c-be0b-1bdb4bce59d5",
+    "Title": "Introduction and Purpose of Profiles",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Introduction-and-Purpose-of-Profiles.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "24d004f7-2584-49e8-8903-6c1a12f421f1",
+    "Title": "Profile Levels",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Profile-Levels.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "51f43398-ddc3-4069-b465-917c45ed24d3",
+    "Title": "Enrollment and Entitlement",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Entitlements.aspx?web=1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
     "Id": "84feb83e-1164-4569-9a2c-2f2cb76e9364",
-    "Title": "Enrollment",
+    "Title": "Setting up of Middle Office",
     "Description": "",
     "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Enrollment.aspx",
     "TechnologyId": "",
@@ -694,10 +749,44 @@
     "StatusNote": ""
   },
   {
-    "Id": "4a1fe235-13de-47c7-b89b-293efaa9b417",
-    "Title": "Entitlement",
+    "Id": "99c44a48-ad3f-4c0c-aaf4-e2e0921f5882",
+    "Title": "Middle Office User Onboarding",
     "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Entitlements.aspx",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Middle-Office-User-Onboarding.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "dbb471cd-8812-46cb-b62d-5826165c0dec",
+    "Title": "Customer User Onboarding",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Customer-User-Onboarding.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  
+  {
+    "Id": "360d3afa-23f5-4037-a0b8-84349d04ed01",
+    "Title": "Assigning Permission to Users",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Assigning-Permission-to-Users.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "67214b6f-5631-468c-8ff2-4b56eab1e3f1",
+    "Title": "Assigning Permission to Groups",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Assigning-Permission-to-Groups.aspx",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",

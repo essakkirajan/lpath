@@ -153,6 +153,25 @@
     ]
   },
   {
+    "Id": "863024d8-0ccb-4da6-ad85-6e4614077c2e",
+    "Title": "Profiles - An Overview",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "f8d04b60-e174-443c-be0b-1bdb4bce59d5",
+      "24d004f7-2584-49e8-8903-6c1a12f421f1",
+      "51f43398-ddc3-4069-b465-917c45ed24d3"
+    ]
+  },
+  {
     "Id": "9cb1b5fe-ff57-4275-86c2-959abf3dc2d2",
     "Title": "Enrollment",
     "Image": "images/playlists/access-intro-to-access.png",
@@ -166,7 +185,9 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "84feb83e-1164-4569-9a2c-2f2cb76e9364"
+      "84feb83e-1164-4569-9a2c-2f2cb76e9364",
+      "99c44a48-ad3f-4c0c-aaf4-e2e0921f5882",
+      "dbb471cd-8812-46cb-b62d-5826165c0dec"
     ]
   },
   {
@@ -183,7 +204,27 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "1f34387e-cd79-4a88-989a-cfde5b933c54"
+      "1f34387e-cd79-4a88-989a-cfde5b933c54",
+      "63e13745-c507-487a-a33b-1b89b4dfcf70",
+      "092f0183-ddce-47e9-8512-03c733ecb8ee"
+    ]
+  },
+  {
+    "Id": "df74024b-b5df-49e8-9aee-3c6e652729ba",
+    "Title": "Entitlement",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2f759d6e-aefa-42b1-90ce-c752fdf5c1a3",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "360d3afa-23f5-4037-a0b8-84349d04ed01",
+      "67214b6f-5631-468c-8ff2-4b56eab1e3f1"
     ]
   },
   {
