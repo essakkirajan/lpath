@@ -24,6 +24,18 @@
   },
 
   {
+    "Id": "a9ce295d-6bb6-4d5f-aa06-02c7de14ef4f",
+    "Title": "Platform Capabilities",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Platform-Capabilities.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+
+  {
     "Id": "b4c387de-e3a4-415a-896b-31c0db443541",
     "Title": "Basic Concepts",
     "Description": "",
