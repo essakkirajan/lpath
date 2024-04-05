@@ -60,7 +60,7 @@
   },
 
   {
-    "Id": "316dbe16-e8d3-498a-99a3-353bfc2b4a8b",
+    "Id": "e7e6001d-0545-44ea-a09b-7f40079f29b2",
     "Title": "Platform Data dictionary",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -293,23 +293,6 @@
     "StatusNote": "",
     "Assets": [
       "675752b3-bbf6-4e4f-939c-1632486c432a"
-    ]
-  },
-  {
-    "Id": "062bccbd-dd50-45be-b1a9-2dbd2c40f3d0",
-    "Title": "Entitlement",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "49387565-41c6-478a-a2b5-c5f884cb6417",
-    "Description": "Give Description",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "4a1fe235-13de-47c7-b89b-293efaa9b417"
     ]
   },
   {
