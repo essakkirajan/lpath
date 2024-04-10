@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "f9bd0962-83ec-4eed-a14a-0b094088c090",
+    "Title": "Data Modelling",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "659bf98d-bb5a-427e-9e4c-1cd6f7012b0a",
+      "6db9cfd7-8172-4a59-b076-c3ad59b55770",
+      "f206b9f0-ec96-425e-9976-f03d484bd6ec",
+      "e84f943b-056d-4355-aa8c-ca9c7a78ccb3",
+      "1470ae76-e175-474f-b84d-7ae6c9f3949d"
+    ]
+  }
+]
