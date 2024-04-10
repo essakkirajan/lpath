@@ -77,6 +77,25 @@
         "SubCategories": []
       }
     ]
+  },
+  {
+    "Id": "6ebad751-37e8-4377-a357-77576d219261",
+    "Name": "",
+    "Image": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": [
+      {
+        "Id": "e4841a85-287d-4910-95bb-448b8e18abb5",
+        "Name": "Profile Management",
+        "Image": "images/categories/recommended.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Fingress Platform",
+        "SubCategories": []
+      }
+    ]
   }
 ],
   "Audiences": [

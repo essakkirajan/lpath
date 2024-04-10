@@ -58,6 +58,72 @@
         "Source": "Microsoft",
         "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
         "StatusNote": ""
+      },
+      {
+        "Id": "5ac6736d-6433-473c-8b21-f3b717620d4d",
+        "Title": "Organisation Creation",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Organisation-Creation.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "5eb3d272-3a9f-4488-a38d-4292ac74f2cb",
+        "Title": "Onboarding Users in Organisation",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Onboarding-Users-in-Organisation.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "ca4d5677-b580-4d18-8743-8c8ab7fe1140",
+        "Title": "Creation of a security group",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Creation-of-a-security-group.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "9ae096d6-af6e-4a5a-87cf-21c750cccc9a",
+        "Title": "Associating Users",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Associating-Users.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "62aa5d53-a9bf-4119-b7cc-03877819904e",
+        "Title": "Assigning Product Permissions to the group",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Assigning-Product-Permissions-to-the-group.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "06c5ca6b-c392-46ee-996f-c229f638c741",
+        "Title": "Common Mistakes and FAQs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Common-Mistakes-and-FAQs.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
       }
 
 ]

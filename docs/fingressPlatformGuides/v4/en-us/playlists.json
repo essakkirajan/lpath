@@ -19,5 +19,76 @@
       "e84f943b-056d-4355-aa8c-ca9c7a78ccb3",
       "1470ae76-e175-474f-b84d-7ae6c9f3949d"
     ]
+  },
+  {
+    "Id": "d82171d0-9e7e-4ee2-8386-e823439bd3e2",
+    "Title": "FAQs",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "5d43ccb0-d5c2-4d7f-9cbb-426c666de651"
+    ]
+  },
+  {
+    "Id": "bd49774b-9d4c-4799-aab5-74cefe65346e",
+    "Title": "Onboarding Process",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "5ac6736d-6433-473c-8b21-f3b717620d4d",
+      "5eb3d272-3a9f-4488-a38d-4292ac74f2cb"
+    ]
+  },
+  {
+    "Id": "9d158a3e-3274-4ab8-ac71-f901402004a0",
+    "Title": "Group Settings",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ca4d5677-b580-4d18-8743-8c8ab7fe1140",
+      "9ae096d6-af6e-4a5a-87cf-21c750cccc9a",
+      "62aa5d53-a9bf-4119-b7cc-03877819904e"
+    ]
+  },
+  {
+    "Id": "5b2fc766-4978-4c76-8876-9bde28660575",
+    "Title": "FAQs",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
+    "Description": "Give Description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
   }
 ]
