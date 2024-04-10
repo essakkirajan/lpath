@@ -1033,28 +1033,8 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-  {
-    "Id": "54f415b5-5b5f-4d70-9ffe-3c60c9f42c2e",
-    "Title": "Levels of CMMI",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Levels-of-CMMI.aspx?csf=1&web=1&share=EXtcLoZShy5LuCs0fM6Jv64BuUNMa0zYKzc9xUkvITs2ug&e=S6AQyh",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "98e394c4-6d22-481d-a1da-bc7bb31ca1de",
-    "Title": "Benefits of Process Improvement",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Benefits-of-Process-Improvement.aspx?csf=1&web=1&share=EYbkI7Ffu-dDsahfWJnJac8B-zw5TL1aCLaoZdMLM6pyfw&e=16TuJ6",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
+
+
   {
     "Id": "2f9e7339-0aba-4264-960b-0790e5b47737",
     "Title": "Six Sigma in Software Development",
@@ -1067,28 +1047,6 @@
     "StatusNote": ""
   },
   {
-    "Id": "d5185649-5f34-4af5-8569-5bd1e3234a0b",
-    "Title": "Key Concepts and Tools",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Key-Concepts-and-Tools.aspx?csf=1&web=1&share=EVJB0-7blnZKgphQIW_uJnwB9AV0U61RXmOoydZFrj_Xpg&e=sGYHEH",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "75479cd1-e7f9-4b47-8612-9707658156c3",
-    "Title": "Application in Software Processes",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Application-in-Software-Processes.aspx?csf=1&web=1&share=EQaEa061RRNEnOElDaTJDx8BBJInTiV0Bhp6YdrwB8aU0A&e=DUN3Sn",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
     "Id": "6d0cd655-8563-4af1-b77a-1b960b8c9e35",
     "Title": "Key Performance Indicators (KPIs)",
     "Description": "",
@@ -1097,83 +1055,6 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "54fcb3e5-d30b-4e89-bb08-109330f4f7d7",
-    "Title": "Metrics for Software Quality",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Metrics-for-Software-Quality.aspx?csf=1&web=1&share=EWLA3OZv9XFCtlNx5dSh7nABPmb_645CPeybZJ0-e0D1Rw&e=HtmcPQ",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "438635e3-a571-45e0-a469-feed7f961341",
-    "Title": "Monitoring and Improvement",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Monitoring-and-Improvement.aspx?csf=1&web=1&share=EeHw8y-p3GhLjalB0iQRpc4BlBpOeceC4QXbX11Vv9Qlqg&e=1DD16R",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "692bdc7a-6801-48ad-9810-1ab395a01b1b",
-    "Title": "Types of Testing",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Types-of-Testing.aspx?csf=1&web=1&share=EU1xxKfvFuhPpD0Uft51MaAB-MH9oTrPqEuKBGX-tiSF8A&e=oXqvi4",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "6d76b387-1251-4d4c-a37f-50b65ea7e303",
-    "Title": "Unit Testing, Integration Testing, System Testing, etc",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Unit-Testing,-Integration-Testing,-System-Testing,-etc.aspx?csf=1&web=1&share=EQkmEsnQuqtMrNIrBkF03UsBgufa2uuGGzpyFbIvj559Lw&e=tbrzeT",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "40946a3d-2897-4ec8-ac97-943621edbe0a",
-    "Title": "Test Automation",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Automation.aspx?csf=1&web=1&share=EWFQqljlTTFDkgq6lgE2ZJEBb__SIGErytx61Zdd_kTc8A&e=UHjsqb",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "a490c85a-234f-42f1-877c-5dfb4a857a29",
-    "Title": "Tools and Frameworks",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Tools-and-Frameworks.aspx?csf=1&web=1&share=EVrnS96BkeVIndqGLe2uAR8BdFQEGTVRiCrfKjOOWPmP6g&e=D5Em0T",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
-  {
-    "Id": "df507c96-47b5-4f73-82f1-440408f8eaf2",
-    "Title": "Test Scripting and Execution",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Scripting-and-Execution.aspx?csf=1&web=1&share=EVtU2pHUptxLpVmrd2IfLZoBqPZOE4HWfobdQKioZyST5A&e=Sq1PiZ",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
   {
@@ -1506,17 +1387,7 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-  {
-    "Id": "a3227b3c-b13a-4c92-9602-b2cb6f62bc0e",
-    "Title": "API Testing in Postman",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/API-Testing-in-Postman.aspx?csf=1&web=1&share=EYIBAO4fS-9PhKIAxoau6zUBI8NdO1bl0ibrwVTXiiXD6w&e=I2sEqa",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
+
   {
     "Id": "4f874fab-447e-4d6f-9191-cc3997cdbf70",
     "Title": "Analyzing HTTP Request and Responses",
@@ -1561,17 +1432,7 @@
     "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
     "StatusNote": ""
   },
-  {
-    "Id": "25cbf56b-229d-4824-a70a-92080e8078b9",
-    "Title": "Collaboration and Sharing in Postman",
-    "Description": "",
-    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Collaboration-and-Sharing-in-Postman.aspx?csf=1&web=1&share=EWhoaykDwyhAulKp4_9Y5Z0BzOmvQQQqByTrbmSUR4HyMQ&e=jRH29C",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-    "StatusNote": ""
-  },
+
   {
     "Id": "1d6d912f-bc89-4d59-bb8c-1f0411d6d8ba",
     "Title": "Configuring PuTTY Sessions for SSH Connections",
