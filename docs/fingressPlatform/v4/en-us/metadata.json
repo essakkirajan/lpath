@@ -216,26 +216,7 @@
           "SubCategories": []
         }
       ]
-    },
-  {
-    "Id": "01565225-774c-4339-98a0-621b222db168",
-    "Name": "Data Modelling Techniques",
-    "Image": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "SubCategories": [
-      {
-        "Id": "953533c0-6da5-403a-90cb-e06978264d59",
-        "Name": "Problem-based Data Modelling",
-        "Image": "images/categories/recommended.png",
-        "TechnologyId": "",
-        "SubjectId": "",
-        "Source": "Fingress Platform",
-        "SubCategories": []
-      }
-    ]
-  }
+    }
 ],
   "Audiences": [
     {

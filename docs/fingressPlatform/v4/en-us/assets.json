@@ -1107,66 +1107,6 @@
         "Source": "Microsoft",
         "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
         "StatusNote": ""
-      },
-      
-      {
-        "Id": "7cd0e3c6-fd39-4787-9833-65b5e3175a61",
-        "Title": "Problem Analysis for Solution Design",
-        "Description": "",
-        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Problem-Analysis-for-Solution-Design.aspx",
-        "TechnologyId": "",
-        "SubjectId": "",
-        "Source": "Microsoft",
-        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-        "StatusNote": ""
-      },
-
-      {
-        "Id": "05095c0e-f7d7-412e-ba0f-ec3473cb75a8",
-        "Title": "Identifying Data model and its Attributes",
-        "Description": "",
-        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Identifying-Data-model-and-its-Attributes.aspx",
-        "TechnologyId": "",
-        "SubjectId": "",
-        "Source": "Microsoft",
-        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-        "StatusNote": ""
-      },
-
-      {
-        "Id": "4544d5f4-eea2-496c-a820-aeb2503c0e96",
-        "Title": "Relationship Establishment",
-        "Description": "",
-        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Relationship-Establishment.aspx",
-        "TechnologyId": "",
-        "SubjectId": "",
-        "Source": "Microsoft",
-        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-        "StatusNote": ""
-      },
-
-      {
-        "Id": "877aa781-f9d4-4683-b280-04d19f927ca1",
-        "Title": "Data Model Configurations",
-        "Description": "",
-        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Data-Model-Configurations.aspx",
-        "TechnologyId": "",
-        "SubjectId": "",
-        "Source": "Microsoft",
-        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-        "StatusNote": ""
-      },
-
-      {
-        "Id": "5d43ccb0-d5c2-4d7f-9cbb-426c666de651",
-        "Title": "Addressing Common Queries and Troubleshooting",
-        "Description": "",
-        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Addressing-Common-Queries-and-Troubleshooting.aspx",
-        "TechnologyId": "",
-        "SubjectId": "",
-        "Source": "Microsoft",
-        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-        "StatusNote": ""
       }
 
 ]
