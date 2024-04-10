@@ -20,21 +20,7 @@
       "Name": "Cloud",
       "Subjects": []
     },
-    {
-      "Id": "c209f64e-0291-437a-9615-17747eab50d0",
-      "Name": "Artificial Intelligence",
-      "Subjects": [
-        {
-          "Id": "3bd4b767-148f-4f53-a206-b42e9f3a73cd",
-          "Name": "Gen AI"
-        },
-        {
-          "Id": "615f17eb-2c5b-4494-8541-4304435ca306",
-          "Name": "Machine Learning"
-        }
-      ]
-    },
-    {
+     {
       "Id": "e75b9087-6bb2-417f-a696-e667bea533a7",
       "Name": "Architecture",
       "Subjects": [
@@ -211,7 +197,7 @@
     },
     {
       "Id": "a49ef2d1-2f49-429d-8f2a-313dd14d76e4",
-      "Name": "Development Tools and Practices",
+      "Name": "Tools and Practices",
       "Image": "",
       "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
       "SubjectId": "",
