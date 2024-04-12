@@ -18,18 +18,76 @@
         "Source": "Fingress Platform",
         "SubCategories": []
       },
-      {
-    
+      {    
 
-        "Id": "e4841a85-287d-4910-95bb-448b8e18abb5",
+        "Id": "a508ed0e-ef23-46a7-a4ad-1c6488064c5f",
         "Name": "Profile Management",
         "Image": "images/categories/recommended.png",
         "TechnologyId": "",
         "SubjectId": "",
         "Source": "Fingress Platform",
         "SubCategories": []
-      }
-    ]
+      },
+      {    
+
+      "Id": "0aee2874-1602-4aef-b753-dbcd69b1e429",
+      "Name": "Flows and Settings",
+      "Image": "images/categories/recommended.png",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": []
+    },
+    {    
+
+    "Id": "e4ec7f35-c2ae-41d2-9d02-9706a549b284",
+    "Name": "Job Posting Application Creation",
+    "Image": "images/categories/recommended.png",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": []
+  },
+  {    
+
+  "Id": "44b3c4fa-a01a-4333-a9b4-ab929897c68f",
+  "Name": "Reports and Documents",
+  "Image": "images/categories/recommended.png",
+  "TechnologyId": "",
+  "SubjectId": "",
+  "Source": "Fingress Platform",
+  "SubCategories": []
+},
+{    
+
+"Id": "2e0b7a15-a440-41be-96d3-b4144f25a40c",
+"Name": "Alerts and Notification",
+"Image": "images/categories/recommended.png",
+"TechnologyId": "",
+"SubjectId": "",
+"Source": "Fingress Platform",
+"SubCategories": []
+},
+{    
+
+"Id": "d51c4d3b-bae6-475b-8b04-2f5e4a7c36c9",
+"Name": "File Upload",
+"Image": "images/categories/recommended.png",
+"TechnologyId": "",
+"SubjectId": "",
+"Source": "Fingress Platform",
+"SubCategories": []
+},
+{    
+
+"Id": "89bae1a7-b17b-4d66-881d-436f7f1656c3",
+"Name": "Dashboard Creation",
+"Image": "images/categories/recommended.png",
+"TechnologyId": "",
+"SubjectId": "",
+"Source": "Fingress Platform",
+"SubCategories": []
+}   ]
   }
 ],
 
