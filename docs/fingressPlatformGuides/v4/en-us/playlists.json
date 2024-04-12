@@ -1,15 +1,15 @@
 [
   {
-    "Id": "f9bd0962-83ec-4eed-a14a-0b094088c090",
+    "Id": "89bae1a7-b17b-4d66-881d-436f7f1656c3",
     "Title": "Data Modelling",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
-    "Description": "Give Description",
+    "CatId": "e1a6bcc1-d6be-4b53-89c6-97060e06ab77",
+    "Description": "The process of designing the structure of data repositories, specifying the relationships between different data elements, and optimizing schemas to support data integrity, performance, and scalability in software systems.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -21,16 +21,16 @@
     ]
   },
   {
-    "Id": "d82171d0-9e7e-4ee2-8386-e823439bd3e2",
+    "Id": "fc605cb9-23a1-4235-9c52-efabf8f3113c",
     "Title": "FAQs",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
-    "Description": "Give Description",
+    "CatId": "e1a6bcc1-d6be-4b53-89c6-97060e06ab77",
+    "Description": "A curated list of commonly asked questions and their corresponding answers, designed to provide quick and concise solutions to recurring inquiries.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -38,16 +38,16 @@
     ]
   },
   {
-    "Id": "bd49774b-9d4c-4799-aab5-74cefe65346e",
+    "Id": "1e80387d-041e-4b6f-9a46-aa7ed4a02428",
     "Title": "Onboarding Process",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
-    "Description": "Give Description",
+    "CatId": "a508ed0e-ef23-46a7-a4ad-1c6488064c5f",
+    "Description": "A systematic procedure designed to integrate new users into an organization/corporate, encompassing orientation, training, and assimilation into company culture.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -56,16 +56,16 @@
     ]
   },
   {
-    "Id": "9d158a3e-3274-4ab8-ac71-f901402004a0",
+    "Id": "14834d02-5cd9-4cc5-b47b-9aa63e1e6f4f",
     "Title": "Group Settings",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
-    "Description": "Give Description",
+    "CatId": "a508ed0e-ef23-46a7-a4ad-1c6488064c5f",
+    "Description": "Configurable parameters allowing administrators to define access levels, permissions, and privileges for specific cohorts within a system or platform.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -75,16 +75,203 @@
     ]
   },
   {
-    "Id": "5b2fc766-4978-4c76-8876-9bde28660575",
+    "Id": "5c78a75c-267a-4679-83ac-74de15f1a701",
     "Title": "FAQs",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "953533c0-6da5-403a-90cb-e06978264d59",
-    "Description": "Give Description",
+    "CatId": "a508ed0e-ef23-46a7-a4ad-1c6488064c5f",
+    "Description": "A curated list of commonly asked questions and their corresponding answers, designed to provide quick and concise solutions to recurring inquiries.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "012a6f71-8961-4472-b2fb-20e90d939503",
+    "Title": "Authorisation Flow",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "0aee2874-1602-4aef-b753-dbcd69b1e429",
+    "Description": "A predefined sequence of steps and protocols that authenticate and grant access rights to users or applications, ensuring secure interactions with protected resources.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "09aa88bb-1684-40de-a341-6ce559a98939",
+    "Title": "Stage Flow",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "0aee2874-1602-4aef-b753-dbcd69b1e429",
+    "Description": "A structured sequence of steps or phases delineating the progression of a process, project, or workflow from initiation to completion.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "c50118cc-d81d-4477-b03a-9a52f04e1561",
+    "Title": "FAQs",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "0aee2874-1602-4aef-b753-dbcd69b1e429",
+    "Description": "A curated list of commonly asked questions and their corresponding answers, designed to provide quick and concise solutions to recurring inquiries.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "1233cfef-fec7-4857-b788-d26c65eac065",
+    "Title": "Application Settings",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e4ec7f35-c2ae-41d2-9d02-9706a549b284",
+    "Description": "Configurable parameters that tailor the behavior, appearance, and functionality of an application to meet user preferences and requirements.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "fa12826f-29bf-42e1-ad05-650ecad6daf3",
+    "Title": "Form Page Creation",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e4ec7f35-c2ae-41d2-9d02-9706a549b284",
+    "Description": "The process of designing and constructing web pages that capture user input through structured fields, facilitating data collection and submission within applications or websites.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "e1ee38d3-52f9-4e27-9e3b-2b76a9f7b14f",
+    "Title": "List Page Creation",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e4ec7f35-c2ae-41d2-9d02-9706a549b284",
+    "Description": "The development of web pages presenting structured data in a tabular or list format, enabling users to easily view, search, and interact with information within applications or websites.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "c73dfdd8-2a2e-40e1-b808-95cbe7bc2d3e",
+    "Title": "Document Template",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "44b3c4fa-a01a-4333-a9b4-ab929897c68f",
+    "Description": "A preformatted file containing placeholders and formatting guidelines, serving as a framework for creating consistent and professional documents across various contexts and purposes.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "4d4bcc00-b6bb-4e77-806c-0dde8ba370bf",
+    "Title": "Reports Settings",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "44b3c4fa-a01a-4333-a9b4-ab929897c68f",
+    "Description": "Configurable parameters that define the layout, content, and access permissions for generating and distributing structured summaries of data analysis or system metrics.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "8314aa18-cceb-4a32-9993-e28d871e7d18",
+    "Title": "Mail & SMS",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "2e0b7a15-a440-41be-96d3-b4144f25a40c",
+    "Description": "Communication channels enabling the transmission of messages, notifications, and alerts via email and text messages to users or subscribers.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "dc7b1325-a103-4459-887c-a95601b8cbf5",
+    "Title": "Creation and Configuration",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "d51c4d3b-bae6-475b-8b04-2f5e4a7c36c9",
+    "Description": "Establishing a system that allows users to upload files securely, including setting parameters for accepted file types, size limits, and storage options, ensuring efficient and reliable data transfer within applications or websites.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "06c5ca6b-c392-46ee-996f-c229f638c741"
+    ]
+  },
+  {
+    "Id": "8553630c-945b-4a43-b769-b8f4a37396e2",
+    "Title": "Configure Dashboard",
+    "Image": "images/playlists/access-intro-to-access.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "89bae1a7-b17b-4d66-881d-436f7f1656c3",
+    "Description": "The process of customizing visual elements, data sources, and user preferences to tailor a digital interface for displaying relevant information, key metrics, and insights in a centralized and accessible format.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
