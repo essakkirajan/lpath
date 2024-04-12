@@ -96,6 +96,120 @@
         "SubCategories": []
       }
     ]
+  },
+  {
+    "Id": "7f09d059-5b33-4cb0-b176-7b9094b6e5d5",
+    "Name": "",
+    "Image": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": [
+      {
+        "Id": "834538f7-51a8-4d2f-9a0c-f2d42d717bcc",
+        "Name": "Flows and Settings",
+        "Image": "images/categories/recommended.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Fingress Platform",
+        "SubCategories": []
+      }
+    ]
+  },
+  {
+    "Id": "5fd9aa69-cb80-410f-87d4-f3e555edc8fb",
+    "Name": "",
+    "Image": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": [
+      {
+        "Id": "ebc0d1c2-82bd-4fdc-8da8-c02cce9b0cd6",
+        "Name": "Job Posting Application Creation",
+        "Image": "images/categories/recommended.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Fingress Platform",
+        "SubCategories": []
+      }
+    ]
+  },
+  {
+    "Id": "48dff4da-1fdb-4e13-966f-b711f3b52cb6",
+    "Name": "",
+    "Image": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": [
+      {
+        "Id": "07d821de-c234-41cb-b108-46a953515029",
+        "Name": "Reports and Documents",
+        "Image": "images/categories/recommended.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Fingress Platform",
+        "SubCategories": []
+      }
+    ]
+  },
+  {
+    "Id": "0ae2f27b-5ed4-4ecb-818c-42296182a5cf",
+    "Name": "",
+    "Image": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": [
+      {
+        "Id": "63bcc2eb-fbe1-4fa4-bb43-232ba267a924",
+        "Name": "Alerts and Notification",
+        "Image": "images/categories/recommended.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Fingress Platform",
+        "SubCategories": []
+      }
+    ]
+  },
+  {
+    "Id": "ff46ac4f-4f0a-4bd9-ab1d-241a20884887",
+    "Name": "",
+    "Image": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": [
+      {
+        "Id": "0b28849c-9d62-4424-a5e9-413cb4594b3e",
+        "Name": "File Upload",
+        "Image": "images/categories/recommended.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Fingress Platform",
+        "SubCategories": []
+      }
+    ]
+  },
+  {
+    "Id": "154c473c-5cf7-46b2-867b-eae737b5103f",
+    "Name": "",
+    "Image": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "SubCategories": [
+      {
+        "Id": "f05b4b36-29b6-4e80-a382-80549273e5cf",
+        "Name": "Dashboard Creation",
+        "Image": "images/categories/recommended.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Fingress Platform",
+        "SubCategories": []
+      }
+    ]
   }
 ],
   "Audiences": [

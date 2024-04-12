@@ -124,6 +124,291 @@
         "Source": "Microsoft",
         "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
         "StatusNote": ""
+      },
+      {
+        "Id": "bff1ade4-f1a2-4748-a5f2-1e4b2b169643",
+        "Title": "Creating Auth Flow for Single",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Creating-Auth-Flow-for-Single.aspx?csf=1&web=1&share=EWQNpTBc5i5KmYl8ifkkC88BRBh-agD7cieqd3xEqxlVhw&e=EJulZU",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "a87eaeb4-85e7-41ba-bdf1-8edebc457de6",
+        "Title": "Set up Stage Flow",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Set-up-Stage-Flow.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "ca3a61a8-e59c-41fb-98b2-ffefd44359a2",
+        "Title": "Auth Flow for Bulk",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Auth-Flow-for-Bulk.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "2b00edef-776a-4fed-9e29-7177ad102d41",
+        "Title": "Setting up stage flow for Bulk",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Setting-up-stage-flow-for-Bulk.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "473f2e55-cfb6-478b-9fba-de14d3442516",
+        "Title": "Common Mistakes and FAQs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Common-Mistakes-and-FAQs(6).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "17e05005-80aa-4510-b1a8-fe26f34ef8ab",
+        "Title": "Application Creation",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Application-Creation.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "2ca5bce6-9e7e-405c-bacf-1421495ca942",
+        "Title": "Configuration and Settings",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/ApplicatConfiguration-and-Settings.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "5a295860-fdb9-4c06-8f91-415c60668fa8",
+        "Title": "Common Mistakes and FAQs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Common-Mistakes-and-FAQs(5).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "eae94d6a-3993-440d-b5bc-89ec407465c8",
+        "Title": "Creating a Form",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Creating-a-Form.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "aab778dc-4458-44a8-8d02-d4000b36bbfa",
+        "Title": "Configuration and Settings",
+        "Description": "",
+        "Url": "",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "ce58e124-13f6-4002-b1d7-c35ce66c857c",
+        "Title": "List Page Creation",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/List-Page-Creation.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "c3c4dac7-444d-43e8-adaa-bd5b942fff4c",
+        "Title": "Configuration and Settings",
+        "Description": "",
+        "Url": "",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "ad9aa170-364e-45af-9813-67ed93862e63",
+        "Title": "Design the document template",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Document-Template(1).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "c97d906a-a52c-40d1-aea4-31f41b9c2f90",
+        "Title": "Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Conf.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "bcbf1e44-2d80-4d5e-a90f-33039b4efb31",
+        "Title": "Configuration and Settings",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Reports-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "1572716f-c4c0-4f48-a740-1abce10c4d42",
+        "Title": "Common Mistakes and FAQs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Common-Mistakes-and-FAQs(4).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "7582ac5b-2faf-4a25-87e4-9476f9d639f2",
+        "Title": "Creation of a mail alert",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Creation-of-a-mail-alert.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "24d06f62-9c10-4f92-85f2-388e24d901b3",
+        "Title": "Creation of a SMS alert",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/s.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "6b300c76-cd5b-4f0d-bb07-c28df2704777",
+        "Title": "Common Mistakes and FAQs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Common-Mistakes-and-FAQs(3).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "2fdb28a9-28ba-406e-9667-195fe7a4f81a",
+        "Title": "File Layout Designer for the Data Model",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/File-Layout-Designer-for-the-Data-Model.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "f36846a4-da2d-405a-8e56-7ec1fd54e9fd",
+        "Title": "File Upload Process",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/File-Upload-Process.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "0ecf1e04-5216-4f91-ac3a-5d3e4838ce18",
+        "Title": "Common Mistakes and FAQs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Common-Mistakes-and-FAQs(2).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "f4e5fd93-002f-4fc3-aeda-87e50ce58333",
+        "Title": "Basic Charts Configuration",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Basic-Charts-Configuration.aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "104848d7-88b4-4cd6-9aaa-49cf306c5796",
+        "Title": "Common Mistakes and FAQs",
+        "Description": "",
+        "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/Common-Mistakes-and-FAQs(1).aspx",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
       }
 
 ]
