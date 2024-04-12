@@ -45,7 +45,7 @@
       {
         "Id": "e1a6bcc1-d6be-4b53-89c6-97060e06ab77",
         "Name": "Identify the Data Model",
-        "Image": "images/categories/recommended.png",
+        "Image": "images/categories/1.DataModeling.png",
         "TechnologyId": "",
         "SubjectId": "",
         "Source": "Fingress Platform",
@@ -55,7 +55,7 @@
 
         "Id": "a508ed0e-ef23-46a7-a4ad-1c6488064c5f",
         "Name": "Profile Management",
-        "Image": "images/categories/recommended.png",
+        "Image": "images/categories/2profile",
         "TechnologyId": "",
         "SubjectId": "",
         "Source": "Fingress Platform",
@@ -65,7 +65,7 @@
 
       "Id": "0aee2874-1602-4aef-b753-dbcd69b1e429",
       "Name": "Flows and Settings",
-      "Image": "images/categories/recommended.png",
+      "Image": "images/categories/3flows",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
@@ -75,7 +75,7 @@
 
     "Id": "e4ec7f35-c2ae-41d2-9d02-9706a549b284",
     "Name": "Job Posting Application Creation",
-    "Image": "images/categories/recommended.png",
+    "Image": "images/categories/4app.png",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Fingress Platform",
@@ -85,7 +85,7 @@
 
   "Id": "44b3c4fa-a01a-4333-a9b4-ab929897c68f",
   "Name": "Reports and Documents",
-  "Image": "images/categories/recommended.png",
+  "Image": "images/categories/5reports.png",
   "TechnologyId": "",
   "SubjectId": "",
   "Source": "Fingress Platform",
@@ -95,7 +95,7 @@
 
 "Id": "2e0b7a15-a440-41be-96d3-b4144f25a40c",
 "Name": "Alerts and Notification",
-"Image": "images/categories/recommended.png",
+"Image": "images/categories/6alerts.png",
 "TechnologyId": "",
 "SubjectId": "",
 "Source": "Fingress Platform",
@@ -105,7 +105,7 @@
 
 "Id": "d51c4d3b-bae6-475b-8b04-2f5e4a7c36c9",
 "Name": "File Upload",
-"Image": "images/categories/recommended.png",
+"Image": "images/categories/7upload.png",
 "TechnologyId": "",
 "SubjectId": "",
 "Source": "Fingress Platform",
@@ -115,7 +115,7 @@
 
 "Id": "89bae1a7-b17b-4d66-881d-436f7f1656c3",
 "Name": "Dashboard Creation",
-"Image": "images/categories/recommended.png",
+"Image": "images/categories/9dashboard.png",
 "TechnologyId": "",
 "SubjectId": "",
 "Source": "Fingress Platform",
