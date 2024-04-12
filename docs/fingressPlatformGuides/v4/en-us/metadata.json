@@ -1,4 +1,37 @@
 {
+
+  "Technologies": [
+    {
+      "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+      "Name": "Web",
+      "Subjects": []
+    },
+    {
+      "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+      "Name": "Mobile",
+      "Subjects": []
+    },
+    {
+      "Id": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+      "Name": "API",
+      "Subjects": []
+    },
+    {
+      "Id": "c209f64e-0291-437a-9615-17747eab50d0",
+      "Name": "Artificial Intelligence",
+      "Subjects": []
+    },
+    {
+      "Id": "e75b9087-6bb2-417f-a696-e667bea533a7",
+      "Name": "Architecture",
+      "Subjects": []
+    },
+    {
+      "Id": "e9d69805-edb5-43da-8258-5520000bf3a6",
+      "Name": "Backend Services",
+      "Subjects": []
+    }
+  ],
   
   "Categories": [
   {
