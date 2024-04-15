@@ -98,140 +98,6 @@
     ]
   },
   {
-    "Id": "fa3a7737-b33d-4481-9b80-416d20b9ca9f",
-    "Title": "Office Facilities",
-    "Image": "images/playlists/use_across_devices.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Discover the amenities that contribute to a comfortable work environment. From well-designed cafeteria and break areas to accessible restrooms and parking facilities, we prioritize the needs of our team. Learn about the thoughtful planning behind our office facilities, ensuring that your workspace supports your well-being. Whether you're taking a break, grabbing a meal, or parking your vehicle, our facilities are designed to enhance your overall work experience.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "a89e1199-6304-4e37-9822-1129e83a3c98",
-      "e5e441bd-a2aa-4469-9abb-03652c4cbdfc",
-      "6deb1bc9-932a-41a6-9bab-e31ad1ea8a75"
-    ]
-  },
-  {
-    "Id": "9647e1aa-63a1-48d1-aea9-b0913f0f1e0b",
-    "Title": "Emergency Procedures and Safety Guidelines",
-    "Image": "images/playlists/use_across_team.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Embark on a guided journey through the distinct phases of the Software Test Lifecycle, unraveling the intricacies and significance of each stage in ensuring robust software quality.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "79ee4102-9b1e-4c8c-8b0c-b8f5981d4158",
-      "efcbbf81-c288-4c80-b07f-39cd03148e62",
-      "df0a9773-10c7-4386-8011-0e892177d1e0"
-    ]
-  },
-  {
-    "Id": "cb4effb6-f78e-444a-98b7-6274ad2fe70c",
-    "Title": "Employee Benefits",
-    "Image": "images/playlists/use_across_org.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "30d9a77a-d890-4c4f-9eb0-5bef4386fa25",
-    "Description": "Explore the range of benefits designed to support and enhance your overall well-being. From provident fund options to comprehensive insurance coverage, we prioritize your financial security. Our commitment to your health and professional growth is reflected in these benefits. Dive into the details of our offerings, ensuring you have the resources you need to thrive both inside and outside the workplace. At Bluescope, we consider your well-being an integral part of our success.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "eadcaa7b-e469-470a-8e9a-e3df0665e1c9",
-      "c6b33a99-748b-4246-9730-994d0070c915"
-    ]
-  },
-  {
-    "Id": "e51271b2-b4c0-4038-aa97-e4498c953afe",
-    "Title": "IT and Security",
-    "Image": "images/playlists/LP-security-security-at-work.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Delve into the realm of IT and Security, where we prioritize the protection of our digital infrastructure. Explore our policies on computer and network usage, ensuring a secure digital environment for everyone. Learn about our data protection guidelines, emphasizing the importance of safeguarding sensitive information. At [Company Name], we take cybersecurity seriously, and these measures are in place to create a resilient and secure digital space for our team.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "4f1533ac-01fb-4b63-9645-024ca4662282",
-      "63116f51-8703-4b9f-9fe3-a86c1f1d708d"
-      
-    ]
-  },
-  {
-    "Id": "72863bbc-46ae-41dc-885d-0edb0a8abaa4",
-    "Title": "Communication Guidelines",
-    "Image": "images/playlists/LP-security-security-at-home.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Explore our Communication Guidelines, designed to promote clear and effective interactions within our team. Learn about staying informed through news and events, and find opportunities through job listings. Discover the tools we use for seamless communication, including Viva Engage & Connections, Teams, Outlook, and Google Meet. These guidelines aim to enhance collaboration and ensure that information flows efficiently throughout the organization.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "b8c2031a-3f9d-48fe-a08b-f35de02a29ec",
-      "80895b26-d56c-4527-ad89-6e741ad5c9ea"
-     
-    ]
-  },
-  {
-    "Id": "5872570a-e8a6-4d84-8802-4dd053b4dabc",
-    "Title": "Workplace Tools",
-    "Image": "images/playlists/LP-security-5-simple-steps.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Discover the suite of Workplace Tools that empower your efficiency and collaboration. Navigate through Viva Engage & Connections for engagement, Teams for seamless teamwork, Outlook for organized communication, and Onedrive for efficient file management. Learn how Google Meet facilitates virtual meetings, ensuring connectivity across distances. These tools are designed to enhance your work experience, making tasks smoother and communication more effective. At Bluescope, we believe in providing the right tools for your success.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "b55d4f6c-8db1-4536-93e4-b2d81096e4f7",
-      "3b578491-23fe-448c-9954-0ecb97926b31",
-      "1bfe304f-dd9e-48db-a3cf-67339755923f",
-      "843dee9d-71e4-46fa-a3ba-4333e685818c",
-      "a94a430e-872a-4856-9736-449be407d041"
-    ]
-  },
-  {
-    "Id": "35f25052-fa93-4daf-8d2e-b29935a002d0",
-    "Title": "Talent Management",
-    "Image": "images/playlists/work_remotely_with_o365.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Explore our approach to Talent Management, where we prioritize the growth and excellence of our team members. Learn about our diverse Training Programs, designed to enhance skills and knowledge. Dive into our Skill Development Courses and discover opportunities for continuous learning. Explore our Mentorship Programs, fostering valuable connections and knowledge-sharing. At Bluescope, we are committed to cultivating talent and providing the resources for your professional development journey.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "0d97e0b4-6398-4f4f-95ab-1a263f8a2f5a",
-      "03df00d0-6182-4810-b973-185c426441be",
-      "bb8806bc-ca4a-420c-b5ca-a3bd81239cdf"
-    ]
-  },
-  {
     "Id": "1305e0fa-deb4-4300-ab85-a726304b1e04",
     "Title": "Performance Appraisals",
     "Image": "images/playlists/work_remotely_with_o365.png",
@@ -240,7 +106,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Fingress Platform",
-    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "CatId": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
     "Description": "Discover how we acknowledge and celebrate your accomplishments through our straightforward approach to performance appraisals. We work together to set and measure goals, ensuring your contributions are recognized and rewarded. At our organization, performance appraisals are a reflection of your success and an opportunity for ongoing growth.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
@@ -258,7 +124,7 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Fingress Platform",
-    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "CatId": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
     "Description": "Explore our dedication to upholding high standards across different facets of our operations. Delve into the introduction of ISO Standards, understanding their significance in ensuring excellence. Learn about the ISO Quality Management System and the detailed processes for document control and record-keeping. Uncover our internal auditing procedures, showcasing our commitment to continuous improvement within our standards. At our organization, standards form the bedrock of our pursuit of excellence.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
@@ -273,8 +139,8 @@
     ]
   },
   {
-    "Id": "d59b1053-3756-4d9f-82a8-0ac97b11529c",
-    "Title": "Events and Activities",
+    "Id": "f490024a-81b9-402c-9934-8a264ccad8bc",
+    "Title": "Architecture",
     "Image": "images/playlists/access-quick-start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
