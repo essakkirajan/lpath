@@ -469,7 +469,7 @@
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
-          "SubCategories": []
+          "SubCategories": [] 
         },
         {
           "Id": "4b79f2ca-5f5f-47c2-9409-b284aa493eeb",
@@ -521,15 +521,6 @@
           "Id": "23af85ac-acb1-45a1-a294-9df8f4be04e6",
           "Name": "Remote Access and File Transfer",
           "Image": "images/categories/File T.png",
-          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
-          "Id": "910aa3ae-3408-44ec-95f2-88340b374b4d",
-          "Name": "DevOps and Continuous Integration/Continuous Deployment (CI/CD)",
-          "Image": "images/categories/access.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
