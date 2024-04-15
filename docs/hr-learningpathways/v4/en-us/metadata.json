@@ -233,7 +233,7 @@
         {
           "Id": "5d21f41c-51c2-44d0-9072-8a5ca8a20d68",
           "Name": "Organizational Structure and Processes",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/Org.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -242,7 +242,7 @@
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
           "Name": "Performance and Standards",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/performance.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -389,7 +389,7 @@
         {
           "Id": "899d58d7-8625-4cf6-a867-7d780193063e",
           "Name": "Technical Skills",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/Technical.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -398,7 +398,7 @@
         {
           "Id": "4caffd64-9135-448c-b4a2-d5d606ad64a0",
           "Name": "Non-Technical Skills and Knowledge",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/Non-technical-skills.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -407,7 +407,7 @@
         {
           "Id": "17ecf540-9149-43ba-ade3-05015ffe0a85",
           "Name": "System Design",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/systemdesignthumb.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -428,7 +428,7 @@
         {
           "Id": "0c5df167-45b1-4205-8ba7-2f76023fb7ff",
           "Name": "Basic IT and Software Processes",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/SDLC_-_Software_Development_Life_Cycle.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -446,7 +446,7 @@
         {
           "Id": "f7527218-78b1-4e81-8acb-a8ee99380130",
           "Name": "IT and Network Fundamentals",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "images/categories/Networking.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -465,7 +465,7 @@
         {
           "Id": "cd41b84d-f4ce-4051-b117-82f760453f08",
           "Name": "Data Science",
-          "Image": "images/categories/recommended.png",
+          "Image": "images/categories/what_is_Data_Science.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -474,7 +474,7 @@
         {
           "Id": "4b79f2ca-5f5f-47c2-9409-b284aa493eeb",
           "Name": "Databases",
-          "Image": "images/categories/recommended.png",
+          "Image": "images/categories/SQL.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -493,7 +493,7 @@
         {
           "Id": "968f6438-5617-49f8-b765-bf97c3cb9f47",
           "Name": "Version Control with Git",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/Git.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -502,7 +502,7 @@
         {
           "Id": "94f3053d-2021-4bab-adeb-5f7c581e6a72",
           "Name": "Integration Fundamentals",
-          "Image": "images/categories/access.png",
+          "Image": "images/categories/What-is-an-API.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -511,7 +511,7 @@
         {
           "Id": "d30621fb-599b-4635-a5c6-c54e740adbe6",
           "Name": "API Integration with Postman",
-          "Image": "images/categories/vivalearning_learningpathways.png",
+          "Image": "images/categories/Postman.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -520,7 +520,7 @@
         {
           "Id": "23af85ac-acb1-45a1-a294-9df8f4be04e6",
           "Name": "Remote Access and File Transfer",
-          "Image": "images/categories/toolkit.png",
+          "Image": "images/categories/File T.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -567,7 +567,7 @@
         {
           "Id": "790e3e39-78a6-40a9-a124-1c3b2cd0e09d",
           "Name": "Data Visualization and Tools ",
-          "Image": "images/categories/recommended.png",
+          "Image": "images/categories/Data vis.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
