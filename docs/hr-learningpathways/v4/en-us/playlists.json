@@ -1,6 +1,6 @@
 [
   {
-    "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
+    "Id": "9e9aebdc-eb4d-49c0-a652-0b6e32764585",
     "Title": "Company Culture",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -8,7 +8,7 @@
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Fingress Platform",
-    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "CatId": "5d21f41c-51c2-44d0-9072-8a5ca8a20d68",
     "Description": "Explore the heart of our company by delving into our culture. Learn about our mission, vision, and core values that guide us. Discover the journey of our company's history and the importance we place on customer relationships. Explore the diverse range of products, projects, and solutions that shape our identity. Together, these elements create a positive and unified workplace environment, defining who we are and how we work together.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -25,7 +25,7 @@
   },
 
   {
-    "Id": "fafe83ef-2b8d-46de-9ba7-a46df4740947",
+    "Id": "2aae23f6-2a02-4939-bfe3-718517edf212",
     "Title": "Organization Chart",
     "Image": "images/playlists/manage_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -33,7 +33,7 @@
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Fingress Platform",
-    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "CatId": "5d21f41c-51c2-44d0-9072-8a5ca8a20d68",
     "Description": "Gain insights into the structure of our organization through our Organization Chart. Understand the reporting lines, team structures, and the hierarchy that defines roles and responsibilities. This chart provides a visual representation of how different departments and teams are interconnected, fostering transparency and clarity within our organization.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
+    "Id": "5136eb08-3c8e-4878-ac78-904a98a69a13",
     "Title": "Policies and Procedures",
     "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -52,7 +52,7 @@
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Fingress Platform",
-    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "CatId": "5d21f41c-51c2-44d0-9072-8a5ca8a20d68",
     "Description": "Discover our straightforward Policies and Procedures designed to make your experience here positive and clear. From your first day to everyday operations, we've outlined guidelines for a smooth work journey. Learn about our expectations for attendance, leaves, remote work, and more. Find details on reimbursement, resource approvals, inventory requests, and our referral process. When it's time to move on, our exit process ensures a seamless transition. These guidelines ensure a harmonious and well-regulated workplace for everyone.",
     "StatusTagId": "",
     "StatusNote": "",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
+    "Id": "1cd2c1cd-097e-4657-a6f4-40b1a7a918f8",
     "Title": "Processes",
     "Image": "images/playlists/create_impactful_content_together.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -78,7 +78,7 @@
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "Fingress Platform",
-    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "CatId": "5d21f41c-51c2-44d0-9072-8a5ca8a20d68",
     "Description": "Explore the various processes that keep our organization running smoothly. From leave requests and WFH procedures to resource and inventory requests, understand the steps involved in these crucial aspects. Dive into the intricacies of access requests, sprint processes, and quality approvals, all of which contribute to our efficient workflow. These processes are designed to enhance collaboration, productivity, and the overall effectiveness of our team.",
     "StatusTagId": "",
     "StatusNote": "",
