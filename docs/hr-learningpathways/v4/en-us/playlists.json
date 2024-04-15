@@ -1534,10 +1534,10 @@
       "3a00e688-253d-456e-9481-661fdd5b724b",
       "9b5ac1af-9998-4a37-962b-a82b689572a9",
       "82c2078a-af86-4f5a-ae2a-517164ba5801",
-      "d832a10c-ef2e-4cff-988a-02bd582db12f",
+      "d832a10c-ef2e-4cff-988a-02bd582db12f", 
       "f50e232f-5873-47a3-9d29-61bea3949c11",
       "183d9245-b791-4cd3-9ec2-093258a78a52",
-      "5bb888e7-0f8f-4d94-a7e1-6d1ccb250ded"
+      "5bb888e7-0f8f-4d94-a7e1-6d1ccb250ded" 
     ]
   },
   {
@@ -1673,7 +1673,7 @@
     ]
   },
   {
-    "Id": "c9ecc2e9-bc17-496a-8b0b-9242b6bb3eaf",
+    "Id": "6f02ef8a-0cdc-4dba-8665-89b2da878de4",
     "Title": "OneDrive Quick Start",
     "Image": "images/playlists/onedrive_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -1694,7 +1694,7 @@
     ]
   },
   {
-    "Id": "d6021ad3-8709-4c7f-bd74-58517dfc902e",
+    "Id": "08efb182-af3b-4de1-a912-dee82b75b57d",
     "Title": "Intro to OneDrive (work or school)",
     "Image": "images/playlists/intro_to_onedrive_work_or_school.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -1716,7 +1716,7 @@
     ]
   },
   {
-    "Id": "3c24a6b8-a3d7-4133-ba59-08d705fe8160",
+    "Id": "aac0f8dd-5b0f-4ab8-a0b5-aa6b7799fcc2",
     "Title": "Manage your files with OneDrive",
     "Image": "images/playlists/manage_your_files.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -1738,7 +1738,7 @@
     ]
   },
   {
-    "Id": "f007841f-fde2-463c-8043-035084c00ba5",
+    "Id": "908b278c-f51b-4a7e-8a8a-97067a0cf73c",
     "Title": "Share and sync with OneDrive",
     "Image": "images/playlists/onedrive_share_and_sync.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
