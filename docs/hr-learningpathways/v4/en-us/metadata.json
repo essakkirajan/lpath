@@ -226,7 +226,7 @@
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Introduction",
       "Image": "",
-      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+      "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
@@ -234,7 +234,7 @@
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
           "Name": "Organizational Structure and Processes",
           "Image": "images/categories/first_days.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
@@ -243,7 +243,7 @@
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
           "Name": "Performance and Standards",
           "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
