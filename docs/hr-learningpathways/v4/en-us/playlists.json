@@ -10,7 +10,7 @@
     "Source": "Fingress Platform",
     "CatId": "5d21f41c-51c2-44d0-9072-8a5ca8a20d68",
     "Description": "Explore the heart of our company by delving into our culture. Learn about our mission, vision, and core values that guide us. Discover the journey of our company's history and the importance we place on customer relationships. Explore the diverse range of products, projects, and solutions that shape our identity. Together, these elements create a positive and unified workplace environment, defining who we are and how we work together.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "0d59f982-4bca-4888-8341-1c51c03fb132",
@@ -35,7 +35,7 @@
     "Source": "Fingress Platform",
     "CatId": "5d21f41c-51c2-44d0-9072-8a5ca8a20d68",
     "Description": "Gain insights into the structure of our organization through our Organization Chart. Understand the reporting lines, team structures, and the hierarchy that defines roles and responsibilities. This chart provides a visual representation of how different departments and teams are interconnected, fostering transparency and clarity within our organization.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "35ba9261-b179-4d66-ba00-734cddc81ec6",
@@ -108,7 +108,7 @@
     "Source": "Fingress Platform",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
     "Description": "Discover how we acknowledge and celebrate your accomplishments through our straightforward approach to performance appraisals. We work together to set and measure goals, ensuring your contributions are recognized and rewarded. At our organization, performance appraisals are a reflection of your success and an opportunity for ongoing growth.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "e677ec47-6e61-4b2b-b5b1-7220f46b88e2",
@@ -126,7 +126,7 @@
     "Source": "Fingress Platform",
     "CatId": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
     "Description": "Explore our dedication to upholding high standards across different facets of our operations. Delve into the introduction of ISO Standards, understanding their significance in ensuring excellence. Learn about the ISO Quality Management System and the detailed processes for document control and record-keeping. Uncover our internal auditing procedures, showcasing our commitment to continuous improvement within our standards. At our organization, standards form the bedrock of our pursuit of excellence.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "a089257e-054e-4516-aa27-abc65da083ba",
@@ -1283,7 +1283,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "Building on Yammer, Viva Engage brings together leaders and coworkers across your organization, enabling them to answer each other's questions, share their unique stories, and create belonging at work, combining its communities, conversations, and personalized discovery with new capabilities for self-expression and sharing through storyline and stories.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "729f9fce-3aa6-4478-888c-a1543918c284"
@@ -1300,7 +1300,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "Communities in Viva Engage provide a central place for your conversations, files, events, and updates. When you create a community, you automatically become an owner of that community.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "1ee29da1-5250-4c1e-b773-e7a78cfaf5d4",
@@ -1319,7 +1319,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "Start the conversation or join the ones around you through storyline in Viva Engage. Your storyline is where you share experiences, celebrate milestones, propose ideas, and discuss your interests both inside and outside of the workplace.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "cba3c38e-77c6-4ee6-9d5d-6c20522b1fa0",
@@ -1339,7 +1339,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "Leadership corner in Viva Engage is a place to get to know your leaders and stay in the know. Catch up on the latest content your leaders are posting, discover the communities they've joined, and attend their AMAs to ask them questions directly. Leadership corner gives you the tools you need to learn about your leaders and build lasting connections with them.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "2885e8d8-cb6c-4c11-b9aa-ed24a497b467",
@@ -1359,7 +1359,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "Answers in Viva is a new experience for people in large organizations to learn from each other by asking and answering questions. Answers is a conversational experience for asking questions and connecting employees to crowdsourced answers.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "e6331234-e044-4009-a0c8-7c519a2cf668",
@@ -1385,7 +1385,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "Campaigns in Viva Engage are a way for you to get involved, share your voice, and build your community. You can participate in campaigns from anywhere in Viva Engage by posting with the verified campaign hashtag.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "d7b05128-f80b-4c16-b561-3ddce518eb14",
@@ -1405,7 +1405,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "Analytics in Viva Engage help you understand how your content performs and how to improve engagement in the future. View your analytics dashboard by selecting the analytics icon from the top navigation of Viva Engage.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "0d9f6fd5-6b0c-45a2-a0aa-0576ae1f6895"
@@ -1422,7 +1422,7 @@
     "Source": "Microsoft",
     "CatId": "5a46b888-8b65-40aa-8644-c77cd487de13",
     "Description": "As you'll notice, the Yammer app you love is now called Viva Engage and has all the features you need to keep you connected to your colleagues. To get started, go to your mobile device's app store and download Viva Engage.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "fc2b05a7-bb79-49e0-be9f-9e63c5a35222",
@@ -1683,7 +1683,7 @@
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
     "Description": "Get started quickly with the OneDrive Quick Start guide. Upload files and folders, use OneDrive in your browser or on your desktop, save and open files in your Office apps, create and manage files and folders, search, back up, and share files, manage access and permissions, copy links, change views, collaborate in OneDrive, set up your mobile apps to work on the go.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
       "a1397e56-61ec-4ed2-9dac-727bf8ac3357",
@@ -1704,7 +1704,7 @@
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
     "Description": "Get started with OneDrive to access and edit files, share information, save your files to the cloud so you can work on files with others, and keep your files protected and backed up. Learn what OneDrive is, how to get started, how to use the Navigation pane and Toolbar, and how to set up your mobile apps. Watch this video training to see how.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
       "10f5c3fd-b0f6-40e2-9059-04735ffe01b7",
@@ -1726,7 +1726,7 @@
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
     "Description": "Upload files so you can manage your files in OneDrive and get to them from anywhere. Learn how to upload files and folders, create files and folders, delete and restore deleted files, delete files in the cloud, turn on OneDrive Backup, and restore your OneDrive. Watch this video training to see how.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
       "5bd927ad-d186-495c-93e8-7ca116fe7b83",
@@ -1748,7 +1748,7 @@
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
     "Description": "Learn how to share and sync in OneDrive for work or school. Share files and folders, sync OneDrive files and folders, manage disk space, and sync files with OneDrive Files On-Demand to get to all your files in OneDrive or SharePoint Online, without having to download them and use storage space on your device. Watch this video training to see how.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
       "72f26d6c-bf9e-432c-8b96-e3c2437f5b65",
@@ -1996,7 +1996,7 @@
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
     "Description": "Automatically number rows, calculate the difference between two dates, define and use names in formulas, and combine text from two or more cells in one cell.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "b12e1cc5-e98a-48d0-af9c-41afd3bda3d5",
@@ -2016,7 +2016,7 @@
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
     "Description": "Learn how to use linked data types in Excel to get data on subjects like cities, foods, stocks, geography, and more. You can also get data types provided by your organization through Power BI.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "7e57b140-159f-457a-8ee6-5276bbaf395a",
@@ -2035,7 +2035,7 @@
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
     "Description": "Get started with Excel Power Query and take your data transformation skills to the next level. Import data from the web or an Excel table. Set up a header row, convert a data type, or filter unnecessary rows. Split data into multiple columns or merge queries and join tables.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "b13eed81-33fe-410d-9247-1747269c28e4",
@@ -2245,7 +2245,7 @@
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
     "Description": "Learn tips and best practices to manage and run effective meetings in Microsoft Teams. Join a Teams meeting, create instant meetings with Meet Now, meet in a channel, view and schedule meetings, show your screen or PowerPoint slides during a meeting, and move around during a Teams meeting to check activity and keep working during a meeting. Watch this video training to see how.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "6dd4a6fd-d88f-4baf-b08e-06755a680926",
@@ -2308,7 +2308,7 @@
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
     "Description": "Learn how to manage team schedules with Shifts in Microsoft Teams to create, update, and manage schedules for your team. Managers can create and manage shift schedules, and review, approve, or deny requests. Frontline workers can use Shifts to view and manage their schedule and stay in sync with their team.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "43e3e7df-9e45-4521-bbec-e0be6c812ffb",
@@ -2327,7 +2327,7 @@
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
     "Description": "Bookings in Microsoft Teams lets you track, manage, and organize your team's appointments and calendars all in one place. You can create a Bookings calendar and add team members to it, build new appointment types, and create and manage in-person and virtual visits for your staff and attendees.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "42d4e852-8e99-4d8f-9b70-d7fc93973cb5",
@@ -2598,7 +2598,7 @@
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
     "Description": "Office.com is the best place to start, whether it's the start of the day or you're getting back to your work.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "a544ec77-ffa8-47de-9e8d-de57a02bb5a5",
@@ -2619,7 +2619,7 @@
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
     "Description": "Outlook on the web makes it simple to keep your email, calendar, and contacts right at your fingertips. Here are a few of the great features to use. Send messages and share files to collaborate with others.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "cdc69020-376d-4e05-bbe6-2457ad9be8e9",
@@ -2642,7 +2642,7 @@
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
     "Description": "With Word for the web, create documents, add text, images, and art, and share your file to work with others — no matter where you are.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "a213fd6b-a510-47f3-b39f-b9795f35b5f4",
@@ -2663,7 +2663,7 @@
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
     "Description": "Excel for the web gives you the power of Excel on any device, from almost anywhere.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "4d39f76b-ee15-4029-8a4c-fa7d14f0c80f",
@@ -2686,7 +2686,7 @@
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
     "Description": "PowerPoint for the web gives you the ability to create, edit, and present presentations on any device, from almost anywhere.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "3950c751-2292-47c0-966b-912a2b289b96",
@@ -2708,7 +2708,7 @@
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
     "Description": "Wherever you're working in Office 365, it's simple to share your documents.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "39d8fb04-8063-482f-93e3-2fc4f6f421a9",
