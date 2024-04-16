@@ -135,12 +135,8 @@
    
   ],
   "Sources": [
-    "SOC",
-    "FastTrack",
-    "M365",
-    "Fingress Platform",
-    "LinkedIn",
-    "Bluescope"
+       "Fingress Platform",
+      "Bluescope"
   ],
   "Levels": [
     {
