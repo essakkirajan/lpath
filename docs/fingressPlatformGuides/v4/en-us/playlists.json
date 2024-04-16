@@ -22,7 +22,7 @@
   {
     "Id": "fc605cb9-23a1-4235-9c52-efabf8f3113c",
     "Title": "FAQs",
-    "Image": "images/playlists/2faq.png",
+    "Image": "images/playlists/2faq.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -39,7 +39,7 @@
   {
     "Id": "1e80387d-041e-4b6f-9a46-aa7ed4a02428",
     "Title": "Onboarding Process",
-    "Image": "images/playlists/3onboard.png",
+    "Image": "images/playlists/3onboard.webp",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -111,7 +111,7 @@
   {
     "Id": "09aa88bb-1684-40de-a341-6ce559a98939",
     "Title": "Stage Flow",
-    "Image": "images/playlists/6stage.png",
+    "Image": "images/playlists/6stage.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -129,7 +129,7 @@
   {
     "Id": "c50118cc-d81d-4477-b03a-9a52f04e1561",
     "Title": "FAQs",
-    "Image": "images/playlists/2faq.png",
+    "Image": "images/playlists/2faq.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -165,7 +165,7 @@
   {
     "Id": "fa12826f-29bf-42e1-ad05-650ecad6daf3",
     "Title": "Form Page Creation",
-    "Image": "images/playlists/10formconfig.png",
+    "Image": "images/playlists/10formconfig.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -256,7 +256,7 @@
   {
     "Id": "dc7b1325-a103-4459-887c-a95601b8cbf5",
     "Title": "Creation and Configuration",
-    "Image": "images/playlists/12upload.png",
+    "Image": "images/playlists/12upload.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",

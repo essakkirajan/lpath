@@ -55,7 +55,7 @@
 
         "Id": "a508ed0e-ef23-46a7-a4ad-1c6488064c5f",
         "Name": "Profile Management",
-        "Image": "images/categories/2profile",
+        "Image": "images/categories/2profile.png",
         "TechnologyId": "",
         "SubjectId": "",
         "Source": "Fingress Platform",
@@ -65,7 +65,7 @@
 
       "Id": "0aee2874-1602-4aef-b753-dbcd69b1e429",
       "Name": "Flows and Settings",
-      "Image": "images/categories/3flows",
+      "Image": "images/categories/3flows.jpg",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Fingress Platform",
@@ -85,7 +85,7 @@
 
   "Id": "44b3c4fa-a01a-4333-a9b4-ab929897c68f",
   "Name": "Reports and Documents",
-  "Image": "images/categories/5reports.png",
+  "Image": "images/categories/5reports.jpg",
   "TechnologyId": "",
   "SubjectId": "",
   "Source": "Fingress Platform",
@@ -95,7 +95,7 @@
 
 "Id": "2e0b7a15-a440-41be-96d3-b4144f25a40c",
 "Name": "Alerts and Notification",
-"Image": "images/categories/6alerts.png",
+"Image": "images/categories/6alerts.jpg",
 "TechnologyId": "",
 "SubjectId": "",
 "Source": "Fingress Platform",
@@ -105,7 +105,7 @@
 
 "Id": "d51c4d3b-bae6-475b-8b04-2f5e4a7c36c9",
 "Name": "File Upload",
-"Image": "images/categories/7upload.png",
+"Image": "images/categories/7upload.jpg",
 "TechnologyId": "",
 "SubjectId": "",
 "Source": "Fingress Platform",
@@ -115,7 +115,7 @@
 
 "Id": "89bae1a7-b17b-4d66-881d-436f7f1656c3",
 "Name": "Dashboard Creation",
-"Image": "images/categories/9dashboard.png",
+"Image": "images/categories/9dashboard.jpg",
 "TechnologyId": "",
 "SubjectId": "",
 "Source": "Fingress Platform",
