@@ -2,7 +2,7 @@
   {
     "Id": "89bae1a7-b17b-4d66-881d-436f7f1656c3",
     "Title": "Data Modelling",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1datamodel.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -22,7 +22,7 @@
   {
     "Id": "fc605cb9-23a1-4235-9c52-efabf8f3113c",
     "Title": "FAQs",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/2faq.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -39,7 +39,7 @@
   {
     "Id": "1e80387d-041e-4b6f-9a46-aa7ed4a02428",
     "Title": "Onboarding Process",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/3onboard.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -57,7 +57,7 @@
   {
     "Id": "14834d02-5cd9-4cc5-b47b-9aa63e1e6f4f",
     "Title": "Group Settings",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/4grpSeting.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -76,7 +76,7 @@
   {
     "Id": "5c78a75c-267a-4679-83ac-74de15f1a701",
     "Title": "FAQs",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/3faq.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -93,7 +93,7 @@
   {
     "Id": "012a6f71-8961-4472-b2fb-20e90d939503",
     "Title": "Authorisation Flow",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/6authFlow.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -111,7 +111,7 @@
   {
     "Id": "09aa88bb-1684-40de-a341-6ce559a98939",
     "Title": "Stage Flow",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/6stage.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -129,7 +129,7 @@
   {
     "Id": "c50118cc-d81d-4477-b03a-9a52f04e1561",
     "Title": "FAQs",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/2faq.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -146,7 +146,7 @@
   {
     "Id": "1233cfef-fec7-4857-b788-d26c65eac065",
     "Title": "Application Settings",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/7appsettings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -165,7 +165,7 @@
   {
     "Id": "fa12826f-29bf-42e1-ad05-650ecad6daf3",
     "Title": "Form Page Creation",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/10formconfig.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -183,7 +183,7 @@
   {
     "Id": "e1ee38d3-52f9-4e27-9e3b-2b76a9f7b14f",
     "Title": "List Page Creation",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/8listPage.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -201,7 +201,7 @@
   {
     "Id": "c73dfdd8-2a2e-40e1-b808-95cbe7bc2d3e",
     "Title": "Document Template",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/11doctemp.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -219,7 +219,7 @@
   {
     "Id": "4d4bcc00-b6bb-4e77-806c-0dde8ba370bf",
     "Title": "Reports Settings",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/12report.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -237,7 +237,7 @@
   {
     "Id": "8314aa18-cceb-4a32-9993-e28d871e7d18",
     "Title": "Mail & SMS",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/12emailsms.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -256,7 +256,7 @@
   {
     "Id": "dc7b1325-a103-4459-887c-a95601b8cbf5",
     "Title": "Creation and Configuration",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/12upload.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
@@ -277,7 +277,7 @@
   {
     "Id": "8553630c-945b-4a43-b769-b8f4a37396e2",
     "Title": "Configure Dashboard",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/12dashb.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "8f388524-9a06-40d2-bd49-de78e30a7fa5",
     "TechnologyId": "c57e686c-e752-4ae0-b76d-6b7688233bd1",
