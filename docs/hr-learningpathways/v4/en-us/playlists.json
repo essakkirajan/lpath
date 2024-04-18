@@ -2,7 +2,7 @@
   {
     "Id": "9e9aebdc-eb4d-49c0-a652-0b6e32764585",
     "Title": "Company Culture",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/culture.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -27,7 +27,7 @@
   {
     "Id": "2aae23f6-2a02-4939-bfe3-718517edf212",
     "Title": "Organization Chart",
-    "Image": "images/playlists/manage_meetings.png",
+    "Image": "images/playlists/Orgn.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -46,7 +46,7 @@
   {
     "Id": "5136eb08-3c8e-4878-ac78-904a98a69a13",
     "Title": "Policies and Procedures",
-    "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
+    "Image": "images/playlists/Process.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -72,7 +72,7 @@
   {
     "Id": "1cd2c1cd-097e-4657-a6f4-40b1a7a918f8",
     "Title": "Processes",
-    "Image": "images/playlists/create_impactful_content_together.png",
+    "Image": "images/playlists/process1.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -100,7 +100,7 @@
   {
     "Id": "1305e0fa-deb4-4300-ab85-a726304b1e04",
     "Title": "Performance Appraisals",
-    "Image": "images/playlists/work_remotely_with_o365.png",
+    "Image": "images/playlists/perfor.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -116,9 +116,9 @@
     ]
   },
   {
-    "Id": "8e001da3-98a0-4202-ab4b-a0ccbda766fb",
+    "Id": "5f9c4c15-4131-4042-99ce-16e46fb00e02",
     "Title": "Standards",
-    "Image": "images/playlists/work_remotely_with_o365.png",
+    "Image": "images/playlists/standards.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -332,7 +332,7 @@
   {
     "Id": "89c93c0b-a639-4f66-8196-e77a1d86221d",
     "Title": "Internet Basics",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/internet.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -376,7 +376,7 @@
   {
     "Id": "93214ecf-7b70-464e-be08-dc946295c661",
     "Title": "Security",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/sec.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -395,7 +395,7 @@
   {
     "Id": "25f8746b-ce2d-4baf-adc4-b85b56df0a8b",
     "Title": "OS Fundamentals",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/os.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -414,7 +414,7 @@
   {
     "Id": "1773e9dd-ab58-4f7c-9307-d2db0cd17e30",
     "Title": "Data Science for beginners",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/Data.science.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -433,7 +433,7 @@
   {
     "Id": "d5a069b3-0dd5-4c39-9433-0f233a294e78",
     "Title": "Databases",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/database.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -453,7 +453,7 @@
   {
     "Id": "4402225e-7bcd-4404-a8e0-1ea46de891b9",
     "Title": "Git Essentials",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/git.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -473,7 +473,7 @@
   {
     "Id": "aaff73b8-5779-4773-bf33-c7dc05f4cb02",
     "Title": "Fundamentals of Integration",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/API-Integration-Blog-header.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -493,7 +493,7 @@
   {
     "Id": "c0a363c7-c7a5-40bb-aafb-b3bceccb5d2e",
     "Title": "Postman in API Integration",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/Postman.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -513,7 +513,7 @@
   {
     "Id": "450d662c-9fd5-4c00-bab2-702029e474af",
     "Title": "Remote Access ",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/remote.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -531,7 +531,7 @@
   {
     "Id": "2d55926d-267d-4310-acd8-c0404849959c",
     "Title": "File Transfer ",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/01-file-transfer.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -547,30 +547,9 @@
     ]
   },
   {
-    "Id": "fcc330a4-f2c5-4986-b379-ab21444ee3bb",
-    "Title": "DevOps Practices and CI/CD",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "910aa3ae-3408-44ec-95f2-88340b374b4d",
-    "Description": "Explore the principles and practices of DevOps, including CI/CD pipelines and automation in software development. Understand the benefits and best practices of DevOps, ensuring a streamlined and efficient development process within our dynamic team.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "b46d2111-ab69-492b-9f1b-541ec32eca97",
-      "1a999505-0dca-46a8-9e6e-b24779a65911",
-      "bb073a1c-4c6a-4372-833e-6bb45a0ec85d",
-      "1d066465-92be-4475-a464-5066390597e5",
-      "17f700ed-79ae-47f9-bb9c-665c67ac6026"
-    ]
-  },
-  {
     "Id": "fb175d98-4bf6-491c-a37d-fee2a6d1c6b6",
     "Title": "Powerbi",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/Microsoft-Power-BI-Logo.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -589,7 +568,7 @@
   {
     "Id": "4590dd4a-f387-4af6-aed8-a99eacaccbed",
     "Title": "Visio",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/visio.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -607,7 +586,7 @@
   {
     "Id": "13a6a7d2-8fc7-45f8-90a8-cc8074787583",
     "Title": "VS code editor",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/vs.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -622,7 +601,7 @@
   {
     "Id": "c5c51cae-398c-410e-8f00-3e3cd58ecfba",
     "Title": "Markdown Language",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/md.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2722,7 +2701,7 @@
   {
     "Id": "f490024a-81b9-402c-9934-8a264ccad8bc",
     "Title": "Architecture",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/archi.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2748,7 +2727,7 @@
   {
     "Id": "ffe1e931-2a39-4b7a-a4bd-d0d0e44ae08f",
     "Title": "Foundational Concepts",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/foundation.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2770,7 +2749,7 @@
   {
     "Id": "0c3d4892-61d7-4c86-8dad-5a2a2590692f",
     "Title": "Security and Authentication",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/security.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2790,7 +2769,7 @@
   {
     "Id": "3fadb662-9873-4f1d-8ed7-aa0c4a214194",
     "Title": "Development and Engineering",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/develop.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2813,7 +2792,7 @@
   {
     "Id": "4bf3a967-504a-4c4e-bc97-80286fe77883",
     "Title": "Performance and Scalability",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/performance.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2831,7 +2810,7 @@
   {
     "Id": "72c47552-5c41-4e47-a6bf-6f56a539d716",
     "Title": "Non-Technical Skills",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/nontech.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2852,7 +2831,7 @@
   {
     "Id": "a3c930ae-8ba9-44d8-8698-0b8b7ce46c45",
     "Title": "Industry Knowledge",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/Bank,jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
