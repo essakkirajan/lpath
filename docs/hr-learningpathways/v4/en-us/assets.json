@@ -11068,7 +11068,461 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "b17d99a4-4b01-44ed-b6a5-8c2fff5c10c5",
+    "Title": "Introduction",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Introduction.aspx?csf=1&web=1&share=Ea_J0Ws7pppMmc4jA_NnY0cByPqXN6gynK1IBrvfiQhcLw&e=hD0em6",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d4139057-eeb6-4cd1-9aec-f6494b5b09e5",
+    "Title": "Engineering Manager",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Engineering-Manager.aspx?csf=1&web=1&share=ETs36CIgEItLg7-OkAmNG3cB11Vr1BJfaH66POL8TR7jiQ&e=UeO4Ho",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "13cd49ac-ae36-4a36-a3d2-17606fcdfb91",
+    "Title": "Technical Program Manager",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Technical-Program-Manager.aspx?csf=1&web=1&share=EX0pbCpoQWNIn5BCDJLwGtEB3BkEBGlZVjbsXpEnJEISCw&e=no97hP",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "dda69047-2189-4917-bcf3-19d80dd89952",
+    "Title": "Managing Manager",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Managing-Manager.aspx?csf=1&web=1&share=EaKlzRXTWGVFkA-rBnLQSIcB5ZtnRD0XwmxzAvtGtp0PrQ&e=SkjZTa",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a90823de-fbf0-4d92-822f-7acff68366fa",
+    "Title": "Tech Lead",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Tech-Lead.aspx?csf=1&web=1&share=EeH8Z_WLwvFMhiYUVZ24PmYB7JdCGM7R1R6EQ18EhyqdBw&e=mW5VId",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8fbc1479-fce8-447a-be31-76f5f99646e7",
+    "Title": "Tech Lead vs Engineering Manager",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Tech-Lead-vs-Engineering-Manager.aspx?csf=1&web=1&share=EXtzcjzFI6ZAjhI66OflTtsBlkNkFB6j-5vPiSVeT3G3wQ&e=aVsrts",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2e92162b-00ec-4343-944e-0a487278e45b",
+    "Title": "Architect & Design",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Architect-%26-Design.aspx?csf=1&web=1&share=Ee52StBUukpDi_tKal4NgzsBYCnHLWvYVmjtR-8LOB9Qew&e=raeDzt",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5e2c91f5-3d24-41af-96a2-d07c55ffd161",
+    "Title": "UX Designer",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/UX-Designer.aspx?csf=1&web=1&share=EfoL52tATIdKmpXlCCk3X3ABXTcsiHSwPzkt8m0XogpvWg&e=CsKrM5",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "36d56f5a-962e-42c0-a171-df825974ad19",
+    "Title": "Design Patterns for Humans",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Design-Patterns-for-Humans.aspx?csf=1&web=1&share=EVmZdKTaN3FLneb0SH3GW_EBi2ZRcryjDU-da7SAScRBxA&e=z3LrLz",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "23c8190f-d940-4cb8-ab6c-3219735cf64f",
+    "Title": "Project Governance",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Project-Governance.aspx?csf=1&web=1&share=ETJ2aZ_q7ZVAkPSe9ZYiadkB50WXyBnBx_ULHEV6vLmSSg&e=mUtQYW",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9e89a559-7f8c-4666-a47e-d03a1e8deb17",
+    "Title": "Leadership Principles",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Leadership-Principles.aspx?csf=1&web=1&share=ES60LsRvz5ZHhIHPaSMp-8UBNDKEF1fItYysrxCCJjQVeg&e=Bwnm4b",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "47cfe22c-8ec6-4508-a366-655fede5b8cb",
+    "Title": "Project Checklist",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Project-Checklist.aspx?csf=1&web=1&share=ES7-nf8tmZxEmlL_wI_24y0BpZlfJUNU3Lm-hB_DhCOCJg&e=GSPu8K",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "148ef541-7d8d-4abe-8419-d801a4688963",
+    "Title": "Project Management",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Project-Management.aspx?csf=1&web=1&share=EQAcS8hZVrlFsu73i_jJZXABwGlrn34-T2TZG3NGGSV-_g&e=fP5Oz1",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "52c60f07-9eac-40d4-8020-09e7f1024031",
+    "Title": "Business Analyst",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Business-Analyst.aspx?csf=1&web=1&share=EaBFCvsm92RKq00FX4waoAwBflE-lFctGN_-OYVoBBlBFA&e=geCGO5",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b77380c2-5285-4349-bbc1-f3a8e3174482",
+    "Title": "Developer",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Developer.aspx?csf=1&web=1&share=EQ7Ym_NZnrpNrn9NJQB5gUUBcKI0ACsi2jo0Gj8sy_jp_Q&e=1F4eqp",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fbd09f42-353b-44e7-874d-8cca6c0746fa",
+    "Title": "Programming",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Programming.aspx?csf=1&web=1&share=EUTJxeZh6PdGjLnnYOi9_qYBQHHKS5MuEfDVzg-uhUNfjg&e=cCtvO9",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3743400b-1576-495c-b832-b972177b8989",
+    "Title": "Principles",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Principles.aspx?csf=1&web=1&share=Eepcrh8_BL1Ls9i0u6yqnQEB2H0U83UcasypQcmJ2E2ahw&e=aCuB2P",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2da800ec-2d4e-43f9-ba4e-4acbe95f3357",
+    "Title": "Estimation",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Estimation.aspx?csf=1&web=1&share=EfhQIdgBZWtAtlNaYJaNKQABBrq88wxXMyJSpMqpw1MlXg&e=wP8dvb",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "236e7680-ae72-463a-be12-82803528629f",
+    "Title": "Hardest thing in Software Development",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Hardest-thing-in-Software-Development.aspx?csf=1&web=1&share=EauQjCN-z6FCnm6Gpj7QGiUB0N3wzjC6vHiYrhNSZpIRxQ&e=gk76zg",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "60a3d836-7fc9-4fdf-99b5-d8354e64b2a4",
+    "Title": "Steps to solve your tech problems",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Steps-to-solve-your-tech-problems.aspx?csf=1&web=1&share=EXyBdh-Kn_hFj95PlDvYH54BBoZn-MN26DNb95CidmnINg&e=Wv8aR4",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ae498d34-ca94-4dd7-8e7a-4d2541b9d9dc",
+    "Title": "Development",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Development.aspx?csf=1&web=1&share=ESmZBlLtAdBNnVrWnNSpV34B_Vqr3FWOlrZFC7ywMqOKpA&e=HxfJPs",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8912f71d-0be7-40e7-9bcf-db4ccc3977b5",
+    "Title": "Frontend development roadmap",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Frontend-development-roadmap.aspx?csf=1&web=1&share=EaimQJiTei9KgFIj3s4-XvoB69McvyvGhG7CsSg6QuLxRA&e=l3jRmP",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1fd7d1a4-9a59-4620-a562-17e6bac0e7a3",
+    "Title": "Angular Learning",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Angular-Learning.aspx?csf=1&web=1&share=EYaeEkMzs9BAn_ZLtuC2aG0BOxwIbv_cjqZEoxls1tv4iQ&e=WyweSx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "abee540f-bb0f-438b-831f-c9d0cb5d632e",
+    "Title": "Roadmap To Backend Development",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Roadmap-To-Backend-Development.aspx?csf=1&web=1&share=EV6EvMr0ezJApVfsNqpfcbYBvk_vJ5VCaSS4KwHUbYcvWw&e=8Zla0C",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "c428975b-d822-497a-8ec7-179dc670ebe2",
+    "Title": "Unit Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Unit-Testing(1).aspx?csf=1&web=1&share=ESP8Ha9P9h9OmG-jeKU5I7EBgMRQdeiqM4bzqvDROpKtPw&e=b0wlsn",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d31631f0-642b-4c99-8e40-ba0fec26b86f",
+    "Title": "Part - 1 Java Unit Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Java-Unit-Testing.aspx?csf=1&web=1&share=EbMpkBDuRSRGhmriAf3orkoBxWkdz7Wpv-MGFu8IWmHF9g&e=LqPq6e",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "17f26214-4016-49dc-9eb9-6e3a67a5ab17",
+    "Title": "Part 2 - Test Basics",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Part-2---Test-Basics.aspx?csf=1&web=1&share=Ec1UcFFR9I9OpF7ZefvJSA0B-nk6KNtV06jDbfZ9YwJs-w&e=sssx7W",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d63aff70-f6e6-4b70-b779-7c3bd6698d19",
+    "Title": "Part 3 - Display Names",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Part-3---Display-Names.aspx?csf=1&web=1&share=EZN8UK-xlrlLg1Ute-dshHUBxuWTenLzIadOHeJeuG4IiQ&e=RyKtrG",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b35e69b7-e5e0-4ba1-bcaa-75d5d9aeb5d5",
+    "Title": "Part 4 - Filtering",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Part-4---Filtering.aspx?csf=1&web=1&share=Ef-f3n3Z3tBHvIJzuqj8gDoBQVYt4JfTRTNVZ2wz5od1Zw&e=VrPT7w",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "df9c4b22-23e3-44c4-8fbf-b3e97d6acf40",
+    "Title": "App Builder",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/App-Builder.aspx?csf=1&web=1&share=Eb2iN_680eNNjroCLk1mCskB6knEu-RRKHKYfM_D3uWSKg&e=84H0Pe",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fb49af7c-1275-40bc-8499-2997a8740b89",
+    "Title": "Support",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Support.aspx?csf=1&web=1&share=ETUVV14y0y5JmMlQ6yO1ELUBFlQlkfA8yTjUthmUAfeVhw&e=QO32hC",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e28af849-6f22-49d5-84d6-df433c041b81",
+    "Title": "Anatomy of an Incident",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Anatomy-of-an-Incident.aspx?csf=1&web=1&share=EeBWmz2XX-BNghYHUsVjgW0BkdSeuE9IfVd7rZ25qeX3iA&e=LFacyx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "515b94f2-1a5b-4e50-9e63-6abad33aa534",
+    "Title": "Quality Assurance",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Quality-Assurance.aspx?csf=1&web=1&share=EbWFlcnyad9AiXem9vPvSo4BMvtwmln9U0AdFAS4GPeAFA&e=dJY8WR",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d0fccaf7-0dae-4880-9874-78c542dd7f01",
+    "Title": "The purpose of testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/The-purpose-of-testing.aspx?csf=1&web=1&share=Eb3k1LLDY7pNrBar1hbJKP4BUhGlY1N-KGTx_uZ1wqfU7w&e=EmzSqk",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a270d764-e045-44c6-b03f-2d680b1afbb4",
+    "Title": "Behavioural Driven Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Behavioural-Driven-Testing.aspx?csf=1&web=1&share=ERTQvQcCt41Lk0oMAC-aVlQBMQKYHutlhmQwFDi4GQZpNA&e=z8CP0c",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f4abb77e-3df3-4e5a-be6d-68fb1cdfb99d",
+    "Title": "Testing Pyramid",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Testing-Pyramid.aspx?csf=1&web=1&share=EYE67ichtsZFgnlQZB0HpB4BD0-_ujkavFNV88djbrKX7A&e=Ng8LN4",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "95e24da9-2436-45fa-8c09-88003ec80956",
+    "Title": "Test Automation",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Automation(2).aspx?csf=1&web=1&share=EXNAAEBu7mlJj1xnajzZ9xcBdXmci7TayYpeMWoPMMjjFg&e=F6WoFR",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "c4a518a4-3a6c-4a0c-98a0-25e6994f7ecd",
+    "Title": "Test Cases",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Test-Cases.aspx?csf=1&web=1&share=EW7hmM8bOj9DlorA_mDRpNEBa79fMJGcJ1GlzA2kKju5Rg&e=15CWsV",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

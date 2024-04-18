@@ -442,6 +442,15 @@
           "SubjectId": "",
           "Source": "Fingress Platform",
           "SubCategories": []
+        },
+        {
+          "Id": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+          "Name": "Tailored Responsibilities by Role",
+          "Image": "images/categories/Roles.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
         }
       ]
     },

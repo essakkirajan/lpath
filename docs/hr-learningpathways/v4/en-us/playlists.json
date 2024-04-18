@@ -2822,5 +2822,204 @@
       "2450e31b-198e-4eb8-bdc1-c8faa8dcebdf",
       "d9607117-4fe2-4d77-bbe5-54b128347c5f"
     ]
+  },
+  {
+    "Id": "9c436885-15b4-4e1f-840e-beeb4a31ebba",
+    "Title": "Introduction",
+    "Image": "images/playlists/Intro.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "b17d99a4-4b01-44ed-b6a5-8c2fff5c10c5",
+      "d4139057-eeb6-4cd1-9aec-f6494b5b09e5",
+      "13cd49ac-ae36-4a36-a3d2-17606fcdfb91",
+      "dda69047-2189-4917-bcf3-19d80dd89952",
+      "a90823de-fbf0-4d92-822f-7acff68366fa",
+      "8fbc1479-fce8-447a-be31-76f5f99646e7",
+      "2e92162b-00ec-4343-944e-0a487278e45b"
+    ]
+  },
+  {
+    "Id": "1cab49eb-4ebc-4393-a74f-4a02f39d757e",
+    "Title": "UX Designer",
+    "Image": "images/playlists/How-to-Become-a-UIUX-Designer.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "5e2c91f5-3d24-41af-96a2-d07c55ffd161",
+      "36d56f5a-962e-42c0-a171-df825974ad19"
+    ]
+  },
+  {
+    "Id": "9f39a224-277c-4ccc-b11a-726228478305",
+    "Title": "Project Management",
+    "Image": "images/playlists/Project management.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "23c8190f-d940-4cb8-ab6c-3219735cf64f",
+      "9e89a559-7f8c-4666-a47e-d03a1e8deb17",
+      "47cfe22c-8ec6-4508-a366-655fede5b8cb",
+      "148ef541-7d8d-4abe-8419-d801a4688963"
+    ]
+  },
+  {
+    "Id": "20e95edb-90c6-4731-955c-0ab6d4beeab2",
+    "Title": "Business Analyst",
+    "Image": "images/playlists/BAA.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "52c60f07-9eac-40d4-8020-09e7f1024031"
+    ]
+  },
+  {
+    "Id": "ab8d8cdb-12e0-4327-bac2-9c812b915a2d",
+    "Title": "Developer",
+    "Image": "images/playlists/developer.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "b77380c2-5285-4349-bbc1-f3a8e3174482",
+      "fbd09f42-353b-44e7-874d-8cca6c0746fa",
+      "3743400b-1576-495c-b832-b972177b8989",
+      "2da800ec-2d4e-43f9-ba4e-4acbe95f3357",
+      "236e7680-ae72-463a-be12-82803528629f",
+      "60a3d836-7fc9-4fdf-99b5-d8354e64b2a4",
+      "ae498d34-ca94-4dd7-8e7a-4d2541b9d9dc"
+    ]
+  },
+  {
+    "Id": "b6179122-7a5b-4ba2-9e09-92ea27c524f4",
+    "Title": "Developer Roadmaps",
+    "Image": "images/playlists/roadmap.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "8912f71d-0be7-40e7-9bcf-db4ccc3977b5",
+      "1fd7d1a4-9a59-4620-a562-17e6bac0e7a3",
+      "abee540f-bb0f-438b-831f-c9d0cb5d632e"
+    ]
+  },
+  {
+    "Id": "ce02101d-4446-42d3-a6fa-84c78a5a1a6e",
+    "Title": "Unit Testing",
+    "Image": "images/playlists/unit-testing.jpg",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "c428975b-d822-497a-8ec7-179dc670ebe2",
+      "d31631f0-642b-4c99-8e40-ba0fec26b86f",
+      "17f26214-4016-49dc-9eb9-6e3a67a5ab17",
+      "d63aff70-f6e6-4b70-b779-7c3bd6698d19",
+      "b35e69b7-e5e0-4ba1-bcaa-75d5d9aeb5d5"
+    ]
+  },
+  {
+    "Id": "67a9ed18-de28-419c-8879-989c1a9ea9ba",
+    "Title": "App Builder",
+    "Image": "images/playlists/app-builder.jpg",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "df9c4b22-23e3-44c4-8fbf-b3e97d6acf40"
+    ]
+  },
+  {
+    "Id": "c210ff4a-7d1b-4be9-85b7-25d1d469967c",
+    "Title": "Support",
+    "Image": "images/playlists/support.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "fb49af7c-1275-40bc-8499-2997a8740b89",
+      "e28af849-6f22-49d5-84d6-df433c041b81"
+    ]
+  },
+  {
+    "Id": "65f12645-74c8-49e6-a1f4-f5eac399dec8",
+    "Title": "Quality Assurance",
+    "Image": "images/playlists/QA.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "9fc0bfe6-334c-48e2-aa64-fa48f12e196e",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      "515b94f2-1a5b-4e50-9e63-6abad33aa534",
+      "d0fccaf7-0dae-4880-9874-78c542dd7f01",
+      "a270d764-e045-44c6-b03f-2d680b1afbb4",
+      "f4abb77e-3df3-4e5a-be6d-68fb1cdfb99d",
+      "95e24da9-2436-45fa-8c09-88003ec80956",
+      "c4a518a4-3a6c-4a0c-98a0-25e6994f7ecd"
+    ]
   }
+  
 ]
