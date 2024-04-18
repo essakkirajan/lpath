@@ -426,18 +426,9 @@
       "Source": "Fingress Platform",
       "SubCategories": [
         {
-          "Id": "0c5df167-45b1-4205-8ba7-2f76023fb7ff",
-          "Name": "Basic IT and Software Processes",
-          "Image": "images/categories/SDLC_-_Software_Development_Life_Cycle.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
           "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
-          "Name": "Project Management and Software Development",
-          "Image": "images/categories/work_remotely.png",
+          "Name": "Basic IT and Software Processes",
+          "Image": "images/categories/itsoftprocess.jpg",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Fingress Platform",
@@ -527,25 +518,6 @@
           "SubCategories": []
         }
         ]
-    },
-    {
-      "Id": "92861b79-9391-4a8c-a086-a523cc4e6fed",
-      "Name": "Cloud and Emerging Technologies",
-      "Image": "",
-      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-      "SubjectId": "",
-      "Source": "Fingress Platform",
-      "SubCategories": [
-        {
-          "Id": "4a2c74fa-8f95-4a5e-bd41-60d0466b79ff",
-          "Name": "Emerging Technologies",
-          "Image": "images/categories/sway.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        }        
-      ]
     },
     {
       "Id": "d0a8030b-4233-4c9e-bd88-3c78d5c206ab",

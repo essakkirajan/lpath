@@ -139,104 +139,9 @@
     ]
   },
   {
-    "Id": "4ff3cecd-f3f2-42fc-b56f-156dbc66fa9a",
-    "Title": "Basic IT and Digital Skills",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "0c5df167-45b1-4205-8ba7-2f76023fb7ff",
-    "Description": "Develop proficiency in office software, understand digital tools, and raise cybersecurity awareness, ensuring a tech-savvy and secure work environment",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "27f29f01-3ea1-4466-8288-6e7efe9c2207",
-      "5fd5d5f1-5da5-44b0-8b5c-a55acc3ac45a",
-      "8b48ee19-f002-40e1-a022-a96857ced361"
-    ]
-  },
-  {
-    "Id": "cf2fa0db-dafd-4bb7-84ab-b2a20ae7de16",
-    "Title": "Ethics and Professionalism",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "0c5df167-45b1-4205-8ba7-2f76023fb7ff",
-    "Description": "Uphold workplace ethics, exhibit professional conduct, and prioritize integrity in business practices, fostering a culture of trust and responsibility within our team.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "b9da1534-fa34-44c5-9da0-925140bff348",
-      "3bd03b0b-4953-4b47-9435-e4056ce35f33",
-      "d8f97f14-5627-4bc9-b1ac-fb13bb108756"
-    ]
-  },
-  {
-    "Id": "6e290c39-03ab-41fd-9871-d219382db6aa",
-    "Title": "Effective Meeting Participation",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "0c5df167-45b1-4205-8ba7-2f76023fb7ff",
-    "Description": "Master meeting etiquette, contribute to discussions, and follow up on action items, ensuring productive and collaborative sessions that drive results within our dynamic team.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "c2bfcafd-4f25-410c-9003-89ef71e35aa5",
-      "fe605a5c-68ac-4d26-aa7a-296c11c3364f",
-      "ce5c5a57-db0e-4e87-b5ba-7a4df5a4023c"
-    ]
-  },
-  {
-    "Id": "e92915ea-ee0b-4a23-a2e5-1ad244288187",
-    "Title": "Leadership Basics",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "0c5df167-45b1-4205-8ba7-2f76023fb7ff",
-    "Description": "Understand leadership styles, motivate teams effectively, and lead by example, cultivating strong and inspiring leadership within our organization.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "412eaab0-a34c-4565-9ef2-44976bade014",
-      "e7ae2c9b-4233-4da7-a431-141a3e4ed084",
-      "f3abb5e8-1a32-4fed-9803-32126f68b338"
-    ]
-  },
-  {
-    "Id": "b7af3376-799a-4999-bcfc-8bc59d3fd85c",
-    "Title": "Project Management Basics",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "Gain an introduction to project management, master project planning and execution, and meet project deadlines efficiently, ensuring successful project outcomes within our dynamic team.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "ac1967c1-6f77-4b92-a3d6-03889799cb1d",
-      "c05d108c-7784-4468-ba6c-1ba703424896",
-      "125a79b7-d451-4dd2-85a7-6865ed35e0ff"
-    ]
-  },
-  {
     "Id": "580f16d5-8fe7-4cb8-b532-2de0b0c0cbc1",
     "Title": "Software Development Models",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/SDLC_-_Software_Development_Life_Cycle.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -282,11 +187,7 @@
     "StatusNote": "",
     "Assets": [   
       "727a0881-a5a2-48f3-b6cc-f014414e4f61",
-      "54f415b5-5b5f-4d70-9ffe-3c60c9f42c2e",
-      "98e394c4-6d22-481d-a1da-bc7bb31ca1de",
-      "2f9e7339-0aba-4264-960b-0790e5b47737",
-      "d5185649-5f34-4af5-8569-5bd1e3234a0b",
-      "75479cd1-e7f9-4b47-8612-9707658156c3"
+      "2f9e7339-0aba-4264-960b-0790e5b47737"
     ]
   },
   {
@@ -303,30 +204,8 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [   
-      "6d0cd655-8563-4af1-b77a-1b960b8c9e35",
-      "54fcb3e5-d30b-4e89-bb08-109330f4f7d7",
-      "438635e3-a571-45e0-a469-feed7f961341"
-    ]
-  },
-  {
-    "Id": "39717d55-b6f0-4324-b91d-1da8547ff953",
-    "Title": "QA & Testing",
-    "Image": "images/playlists/access-intro-to-access.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Fingress Platform",
-    "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": " Explore various types of testing, including unit testing, integration testing, and system testing. Understand the importance of test automation, and familiarize yourself with tools, frameworks, and test scripting and execution, ensuring the delivery of high-quality software solutions.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [   
-      "692bdc7a-6801-48ad-9810-1ab395a01b1b",
-      "6d76b387-1251-4d4c-a37f-50b65ea7e303",
-      "40946a3d-2897-4ec8-ac97-943621edbe0a",
-      "a490c85a-234f-42f1-877c-5dfb4a857a29",
-      "df507c96-47b5-4f73-82f1-440408f8eaf2"
+      "6d0cd655-8563-4af1-b77a-1b960b8c9e35"
+    
     ]
   },
   {
@@ -352,7 +231,7 @@
   {
     "Id": "69545294-1bb3-40e5-a181-6b7f7e8e67b1",
     "Title": "Networking Basics & Protocols",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/netBasics.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2792,7 +2671,7 @@
   {
     "Id": "4bf3a967-504a-4c4e-bc97-80286fe77883",
     "Title": "Performance and Scalability",
-    "Image": "images/playlists/performance.jpg",
+    "Image": "images/playlists/performance.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2831,7 +2710,7 @@
   {
     "Id": "a3c930ae-8ba9-44d8-8698-0b8b7ce46c45",
     "Title": "Industry Knowledge",
-    "Image": "images/playlists/Bank,jpg",
+    "Image": "images/playlists/Bank.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
