@@ -175,7 +175,7 @@
   {
     "Id": "3134fdac-b7d0-44dc-a9cf-f6a649785406",
     "Title": "Process Improvement",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/process improvement.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -193,7 +193,7 @@
   {
     "Id": "f1256dcf-174d-40dc-85a2-602c7a137cd9",
     "Title": "Metrics and Measurement",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/metrics.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -231,7 +231,7 @@
   {
     "Id": "69545294-1bb3-40e5-a181-6b7f7e8e67b1",
     "Title": "Networking Basics & Protocols",
-    "Image": "images/playlists/netBasics.png",
+    "Image": "images/playlists/netBasics.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2734,7 +2734,7 @@
   {
     "Id": "5c35c7ab-3b90-435b-be65-7369901eeea3",
     "Title": "Chapter I",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/1.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2762,7 +2762,7 @@
   {
     "Id": "d404771e-59a3-4ad3-a3cd-4788d6c4f6fc",
     "Title": "Chapter II",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/2.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2793,7 +2793,7 @@
   {
     "Id": "b3e79bcb-975e-447e-9e47-728ff75c56b8",
     "Title": "Chapter III",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/3.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2821,7 +2821,7 @@
   {
     "Id": "59edb37d-eade-4a88-9b42-36c1a3647ecc",
     "Title": "Chapter IV",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/4.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2846,7 +2846,7 @@
   {
     "Id": "e54a4df9-c425-43a5-a7bb-1510cb1c739b",
     "Title": "Chapter V",
-    "Image": "images/playlists/access-intro-to-access.png",
+    "Image": "images/playlists/5.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
