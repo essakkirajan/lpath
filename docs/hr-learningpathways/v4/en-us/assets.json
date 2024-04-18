@@ -10881,6 +10881,209 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "4099506a-b874-45ca-bcba-f6d7042e8549",
+    "Title": "Shift Left Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Shift-Left-Testing.aspx?csf=1&web=1&share=EXIpkQkZI6VJlr_Zn0srHwkBHCgIpmdT6vVW6Ol5JcedAg&e=mTiJde",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "bbcf0aae-455c-449d-903e-8777c63f4a94",
+    "Title": "SAST- Static Application Security Testing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/SAST--Static-Application-Security-Testing.aspx?csf=1&web=1&share=ERFCrMJRG9FMjZv5-pQL23YBuhDzK33hqBc08daCw0IS4Q&e=yN5YO7",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1696fcb6-882b-47ae-8f7f-c48e4f7bb733",
+    "Title": "DevSecOps",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/DevSecOps.aspx?csf=1&web=1&share=ETm_osLOhN9BuKzxw_8xJrMBo_OOD9RVUJs3IVvchXY1nw&e=fa6hQ1",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "209cc521-dadf-432e-9c85-de8b367dbe00",
+    "Title": "Banking & financial services",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Banking---Financial-Services.aspx?csf=1&web=1&share=EQ8aHBJnkA9GjvzJ7iu74ckBxwTPrCbIA_q3OUDbEk2KbA&e=BPtxOd",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3b929ea2-0cba-46ba-82ce-f07752f3f8a4",
+    "Title": "SCF UX Design - A Real life example",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/SCF-UX-Design---A-Real-life-example.aspx?csf=1&web=1&share=EQLZTlN_EcVKiAGN_e1gJl8B59Hx1AYgGhdWR7i-RIFyLQ&e=yxj5xi",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "61ec8d68-a2f9-4687-93a5-258bcf86d2a8",
+    "Title": "Landing Page - Home",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Landing-Page---Home.aspx?csf=1&web=1&share=EcbvxhObmRVBjIOCeD3ZO5cBW_LocGYGkYA8TOOEKhLbVg&e=Cw0BnN",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a5c44cea-6aad-4071-850f-29d554918bdf",
+    "Title": "Template - Print Preview",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Template---Print-Preview.aspx?csf=1&web=1&share=Ec_nYhCaGTxOmRiDkL2NNX0BG20SZ38hlsnc1_YBOpT4eA&e=S4bdtO",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a2f92613-d1ad-4841-b09c-e78b75620a33",
+    "Title": "List collection",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/List-Collection.aspx?csf=1&web=1&share=EaPCcrs8vCVBlITpH6Z4wYgBLjldea5BLvV8fP4SABlKrw&e=t8V1Ou",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "53463ef4-84fa-423d-9922-1a77e6bf7079",
+    "Title": "Dashboard",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Dashboard.aspx?csf=1&web=1&share=ESYLqKBhw-hBoyfqF17fy9gBnRcs_btmrTZH8Wk0XSP2Ng&e=y7Xp2Z",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "79892fd9-9ca1-420d-9cc5-53d1d649fd39",
+    "Title": "Discounting",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Discounting.aspx?csf=1&web=1&share=EY0v2Cy34ltMugUbTC5_J8cBNBHZ67L8mn2iChU0Dk6fng&e=Ha8mPu",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e0190d60-59e6-4108-b60d-8517f4dc97b2",
+    "Title": "Cash Planner or Optimizer",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Cash-Planner-or-Optimizer.aspx?csf=1&web=1&share=EfVzP4BjhUtJsTYvBdaLu2MBrYUhPg0BEIG8A0xOIOLEkA&e=6aDJqr",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9e4f3ded-11f7-4a02-8eb7-01cf1cce5387",
+    "Title": "Offer Listing",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Offer-Listing.aspx?csf=1&web=1&share=EeJPzrWNd1FMndHeq_845TQB0yRJnHIwhbTm8ArGh7Nt5Q&e=XZQU4J",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "c04ea96f-1b40-433e-ad34-f9162674a303",
+    "Title": "Contracts",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Contracts.aspx?csf=1&web=1&share=EaeJy-vo35BJgc2zvVf82ioBPcLQgynRPvazf-u2uDePFA&e=H7dm9e",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e60ee354-584a-4ddd-a817-7b2eb7f11ba4",
+    "Title": "Invoice",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Invoice.aspx?csf=1&web=1&share=EejoozttSo5KmRRbDsamyoUB5dvDkq7vxm0McdLBWJdMKA&e=YfIvd5",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a668af73-acbb-44b9-88ef-7c32ffe629c2",
+    "Title": "Purchases",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Purchases.aspx?csf=1&web=1&share=EY2Dxgps3LNKkfe6QkOF3AMBdFFIIme8UmWGl6utm7zWkA&e=H987d9",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2450e31b-198e-4eb8-bdc1-c8faa8dcebdf",
+    "Title": "Commerce Basics",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Commerce-Basics.aspx?csf=1&web=1&share=EUsVCgH2ZIVDhOZXF8KgnaEBMqTNqdyO4tMPwaHJh6trGw&e=vSvauA",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d9607117-4fe2-4d77-bbe5-54b128347c5f",
+    "Title": "Course Topics",
+    "Description": "",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Course-Topics.aspx?csf=1&web=1&share=Ec1bfdgya3VDtxB8jDBuKq8B03I-wzcpqkz_iJ4mWzVYCA&e=wTRjQU",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]

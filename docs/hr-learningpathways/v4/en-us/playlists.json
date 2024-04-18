@@ -2525,7 +2525,10 @@
       "565cb5cc-475a-4a1a-8286-53701377d5ee",
       "0711ae53-2006-43d5-9adb-528327e45937",
       "529baf87-d4fc-4c37-b2e8-690158e1d9e4",
-      "2352316d-4c47-4a6b-a244-d12dbfa26555"
+      "2352316d-4c47-4a6b-a244-d12dbfa26555",
+      "4099506a-b874-45ca-bcba-f6d7042e8549",
+      "bbcf0aae-455c-449d-903e-8777c63f4a94",
+      "1696fcb6-882b-47ae-8f7f-c48e4f7bb733"
     ]
   },
   {
@@ -2635,7 +2638,7 @@
   {
     "Id": "a3c930ae-8ba9-44d8-8698-0b8b7ce46c45",
     "Title": "Industry Knowledge",
-    "Image": "images/playlists/Bank.jpg",
+    "Image": "images/playlists/indusKnow.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "",
@@ -2788,6 +2791,23 @@
       "d872cb99-9559-4de2-8a70-2f6192296365",
       "7f352988-781c-4e07-8094-a93c6de87fe2",
       "c0ec9b4a-6b03-4631-95d3-8a2ee324b440"
+    ]
+  },
+  {
+    "Id": "6257ba83-92dd-49c1-b3f3-fc0cd783287e",
+    "Title": "Banking & Financial services",
+    "Image": "images/playlists/Bank.jpg",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Fingress Platform",
+    "CatId": "4f7378cd-7c40-4a99-9617-94681300c828",
+    "Description": "Uphold workplace ethics, exhibit professional conduct, and prioritize integrity in business practices, fostering a culture of trust and responsibility within our team.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [   
+      ""
     ]
   }
 ]
