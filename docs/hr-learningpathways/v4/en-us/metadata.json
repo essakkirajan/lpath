@@ -385,46 +385,6 @@
       "SubjectId": "",
       "Source": "Fingress Platform",
       "SubCategories": [
-
-        {
-          "Id": "899d58d7-8625-4cf6-a867-7d780193063e",
-          "Name": "Technical Skills",
-          "Image": "images/categories/Technical.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
-          "Id": "4caffd64-9135-448c-b4a2-d5d606ad64a0",
-          "Name": "Non-Technical Skills and Knowledge",
-          "Image": "images/categories/Non-technical-skills.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        },
-        {
-          "Id": "17ecf540-9149-43ba-ade3-05015ffe0a85",
-          "Name": "System Design",
-          "Image": "images/categories/systemdesignthumb.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Fingress Platform",
-          "SubCategories": []
-        }      
-        
-        
-      ]
-    },
-    {
-      "Id": "f52fec02-a915-4ead-8716-6cadf6ff6ab8",
-      "Name": "Technical and Professional Development",
-      "Image": "",
-      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-      "SubjectId": "",
-      "Source": "Fingress Platform",
-      "SubCategories": [
         {
           "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
           "Name": "Basic IT and Software Processes",
@@ -452,6 +412,49 @@
           "Source": "Fingress Platform",
           "SubCategories": []
         }
+
+       
+        
+        
+      ]
+    },
+    {
+      "Id": "f52fec02-a915-4ead-8716-6cadf6ff6ab8",
+      "Name": "Technical and Professional Development",
+      "Image": "",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+      "SubjectId": "",
+      "Source": "Fingress Platform",
+      "SubCategories": [
+        {
+          "Id": "899d58d7-8625-4cf6-a867-7d780193063e",
+          "Name": "Technical Skills",
+          "Image": "images/categories/Technical.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "4caffd64-9135-448c-b4a2-d5d606ad64a0",
+          "Name": "Non-Technical Skills and Knowledge",
+          "Image": "images/categories/Non-technical-skills.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        },
+        {
+          "Id": "17ecf540-9149-43ba-ade3-05015ffe0a85",
+          "Name": "System Design",
+          "Image": "images/categories/systemdesignthumb.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Fingress Platform",
+          "SubCategories": []
+        }      
+
+       
       ]
     },
     {

@@ -57,15 +57,9 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "fc0920d0-d27d-4c44-969d-c5657eda2c72",
       "c76ca9e7-4532-48ed-bba1-054f1d5745fe",
-      "3af809b6-aa31-44e3-8d68-8d7fa962c853",
-      "7c364ba4-dfdf-4b28-b55f-796d7b969afc",
       "cc0d3e16-a000-4983-b264-a626d7416294",
-      "8e6611aa-98fb-44b1-bd4d-75754db9aadd",
       "d9f04ec9-e95d-4462-9045-808220d5f101",
-      "c7c7c6d8-a96e-44e2-875c-a6fcdceda571",
-      "7134f34e-cbfe-4bc4-9b8e-ce05d6c08c79",
       "f3f4b21b-d97e-40e2-a37d-022152ecaaaa"
     ]
   },
@@ -85,7 +79,6 @@
     "Assets": [
       "b6e80810-5aea-4ce7-9c21-551d31141014",
       "6e8ca40b-2a52-4728-a858-30ad6e50363f",
-      "1bc4a528-2af0-4853-bb76-cebd9235c1ce",
       "cff83bb7-08ed-4855-b297-045d018320ec",
       "38f5f0b1-bf6c-4d63-932a-119b465d5615",
       "ae5e486f-3989-4a9d-92d6-8ab2de0b9311",
@@ -93,8 +86,7 @@
       "0312c584-3109-4ebf-a89d-f91b2f26abeb",
       "95c7b533-6b9e-48e4-bb3e-7af79b543b77",
       "0bd5abe4-a9fe-4a81-a0a7-e9bc7eea83fe",
-      "78f49e74-d842-4703-8366-4a9b376feed9",
-      "fc3d9cbd-f547-470a-81df-f78d03dc2a1c"
+      "78f49e74-d842-4703-8366-4a9b376feed9"
     ]
   },
   {
@@ -131,9 +123,7 @@
     "Assets": [
       "a089257e-054e-4516-aa27-abc65da083ba",
       "316b7bff-a107-45f0-ae40-c0ea3c678cbf",
-      "0ac6dd67-3357-4c01-a1fe-6badc4f86a1f",
       "0ad19c23-f0f6-4ad9-82f2-a2f9d57215ce",
-      "2ab03ee3-bdad-455d-8474-2c491e2801f9",
       "6d33eb8a-373d-49c3-aab0-6df50e1f1a7f"
       
     ]
