@@ -634,6 +634,31 @@
   },
 
   {
+    "Id": "ef3808dd-b7e3-46d4-b1c1-5db395c8d2e2",
+    "Title": "Standard Operating Procedure",
+    "Description": "It defines the standard procedures for conducting tests on any application to ensure that it meets predefined requirements and performance standards.",
+    "Url": "https://bluescopetech.sharepoint.com/:u:/r/sites/fingress-learning-pathways/SitePages/Standard-Operating.aspx?csf=1&web=1&share=EX-fb_TMOuFMgMdT7eIKZO0Bkfyu02_A9Ee6DRwMoKT86w&e=QqVlj1",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "7727a0bd-d1cf-4cb7-a190-915598923886",
+    "Title": "SOP for Testing Sign-off",
+    "Description": "This document provides a structured approach to test review, defect management, stakeholder communication, and final approval for test completion.",
+    "Url": "https://bluescopetech.sharepoint.com/sites/fingress-learning-pathways/SitePages/SOP-for.aspx",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+    "StatusNote": ""
+  },
+ 
+
+  {
     "Id": "c418e006-504d-45e3-b12a-c861155d3db5",
     "Title": "Test Tool Considerations",
     "Description": "Uncover strategies for selecting, implementing, and leveraging test tools effectively to enhance efficiency, accuracy, and overall success in the quality assurance process.",

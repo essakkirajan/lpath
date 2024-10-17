@@ -141,6 +141,15 @@
           "SubjectId": "",
           "Source": "Bluescope Information Technology Pvt Ltd",
           "SubCategories": []
+        },
+        {
+          "Id": "dc84c36c-bc4b-4720-a4d3-976a5a3050d8",
+          "Name": "Best Practices for SOP",
+          "Image": "images/categories/SOP.jpg",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Bluescope Information Technology Pvt Ltd",
+          "SubCategories": []
         }
       ]
     },
