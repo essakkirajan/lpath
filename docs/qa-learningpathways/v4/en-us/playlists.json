@@ -254,7 +254,7 @@
          ]
   },
   {
-    "Id": "40301c73-247f-4a14-9f07-a76d57934771",
+    "Id": "cdce75ef-ead5-4ed5-b2b0-e2694c79874c",
     "Title": "Best Practices for SOP in Software Testing",
     "Image": "images/playlists/SOP-management.jpg",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -262,13 +262,13 @@
     "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
+    "CatId": "716906d2-a0cc-4d55-b295-a9f074c1ccb9",
     "Description": "",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
-      "ef3808dd-b7e3-46d4-b1c1-5db395c8d2e2",
-      "7727a0bd-d1cf-4cb7-a190-915598923886"
+      "49d6dc3a-3ab2-4f54-a48a-6455e3057f4d",
+      "ce74c038-5ebc-4c06-b653-08caf9534ffe"
          ]
   },
   {
